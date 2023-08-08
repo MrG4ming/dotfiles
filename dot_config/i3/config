@@ -1,0 +1,3 @@
+#replace/add content from this file in the generated i3 config
+
+bindsym $mod+d exec --no-startup-id rofi -show drun
