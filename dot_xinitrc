@@ -1,0 +1,7 @@
+sleep 2 && {
+  vmware-user &
+  feh --bg-fill ~/pepe-wp.jpg
+  picom &
+}
+
+i3
