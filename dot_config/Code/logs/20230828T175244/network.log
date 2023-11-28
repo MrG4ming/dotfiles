@@ -1,0 +1,2 @@
+2023-09-01 19:38:09.618 [error] electron #2072: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2023-09-01 19:59:12.692 [error] electron #2153: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED

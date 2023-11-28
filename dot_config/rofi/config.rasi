@@ -29,4 +29,6 @@ configuration{
 //    }
 }
 
-//@theme "/home/max/.local/share/rofi/themes/base16-tomorrow-night.rasi"
+
+//@theme "/home/admin/.local/share/rofi/themes/base16-tomorrow-night.rasi"
+@theme "/home/admin/.local/share/rofi/themes/base16-twilight.rasi"

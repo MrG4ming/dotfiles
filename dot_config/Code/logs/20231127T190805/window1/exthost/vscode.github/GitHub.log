@@ -1,0 +1,2 @@
+2023-11-27 19:08:13.521 [info] Log level: Info
+2023-11-27 19:08:14.357 [warning] Failed to update repository branch protection: request to https://api.github.com/graphql failed, reason: getaddrinfo EAI_AGAIN api.github.com

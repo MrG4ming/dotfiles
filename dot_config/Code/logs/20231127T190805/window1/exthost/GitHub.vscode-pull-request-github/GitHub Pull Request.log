@@ -1,0 +1,14 @@
+2023-11-27 19:08:14.252 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-11-27 19:08:14.647 [info] Looking for git repository
+2023-11-27 19:08:14.647 [info] Found 0 repositories during activation
+2023-11-27 19:08:14.647 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-27 19:08:14.659 [info] Registering git provider
+2023-11-27 19:08:14.659 [info] Review> Validate state in progress
+2023-11-27 19:08:14.659 [info] Review> Validating state...
+2023-11-27 19:08:14.762 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-11-27 19:08:14.816 [warning] Unable to resolve remote: HttpError: request to https://api.github.com/repos/MrG4ming/JobManager failed, reason: getaddrinfo EAI_AGAIN api.github.com
+2023-11-27 19:08:14.858 [info] Missing upstream check failed: HttpError: request to https://api.github.com/repos/MrG4ming/JobManager failed, reason: getaddrinfo EAI_AGAIN api.github.com
+2023-11-27 19:08:15.051 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-11-27 19:08:15.051 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-11-27 19:08:15.053 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-27 19:08:15.053 [info] Review> no matching pull request metadata found for current branch main

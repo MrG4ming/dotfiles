@@ -1,0 +1,53 @@
+2023-08-25 14:44:51.693 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-25 14:44:51.695 [info] Getting Manifest... ms-vscode.cpptools
+2023-08-25 14:44:51.695 [info] Getting Manifest... ms-vscode.remote-server
+2023-08-25 14:44:51.838 [info] Installing extension: ms-vscode.remote-server
+2023-08-25 14:44:51.859 [info] Installing extension: ms-vscode.cpptools
+2023-08-25 14:44:51.866 [info] Installing extension: ms-python.vscode-pylance
+2023-08-25 14:44:52.778 [info] Getting Manifest... ms-python.python
+2023-08-25 14:44:53.695 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.remote-server
+2023-08-25 14:44:53.849 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode.remote-server-1.4.3: ms-vscode.remote-server
+2023-08-25 14:44:53.853 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode.remote-server-1.4.3
+2023-08-25 14:44:53.857 [info] Extracting extension completed. ms-vscode.remote-server
+2023-08-25 14:44:53.869 [info] Extension installed successfully: ms-vscode.remote-server
+2023-08-25 14:44:53.885 [info] Marked extension as uninstalled ms-vscode.remote-server-1.4.2
+2023-08-25 14:45:04.552 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-08-25 14:45:06.253 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-08-25 14:45:12.656 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.4-linux-x64: ms-vscode.cpptools
+2023-08-25 14:45:12.663 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.4-linux-x64
+2023-08-25 14:45:12.683 [info] Extracting extension completed. ms-vscode.cpptools
+2023-08-25 14:45:12.695 [info] Extension installed successfully: ms-vscode.cpptools
+2023-08-25 14:45:12.705 [info] Marked extension as uninstalled ms-vscode.cpptools-1.17.3-linux-x64
+2023-08-25 14:45:14.534 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.40: ms-python.vscode-pylance
+2023-08-25 14:45:14.540 [info] Renamed to /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.40
+2023-08-25 14:45:14.543 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-25 14:45:14.552 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-25 14:45:14.556 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.30
+2023-08-26 12:54:34.113 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-08-26 12:54:34.131 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-08-26 12:54:35.163 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-08-26 12:54:35.248 [info] Extracted extension to file:///home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13: bradlc.vscode-tailwindcss
+2023-08-26 12:54:35.251 [info] Renamed to /home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13
+2023-08-26 12:54:35.253 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-08-26 12:54:35.261 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-08-27 16:31:35.756 [info] Getting Manifest... nickscialli.svelte-dark
+2023-08-27 16:31:35.772 [info] Installing extension: nickscialli.svelte-dark
+2023-08-27 16:31:36.601 [warning] Extension signature verification failed with error 'UnknownError': nickscialli.svelte-dark
+2023-08-27 16:31:36.619 [info] Extracted extension to file:///home/admin/.vscode/extensions/nickscialli.svelte-dark-0.0.6: nickscialli.svelte-dark
+2023-08-27 16:31:36.622 [info] Renamed to /home/admin/.vscode/extensions/nickscialli.svelte-dark-0.0.6
+2023-08-27 16:31:36.623 [info] Extracting extension completed. nickscialli.svelte-dark
+2023-08-27 16:31:36.648 [info] Extension installed successfully: nickscialli.svelte-dark
+2023-08-27 16:32:18.146 [info] Getting Manifest... zhuangtongfa.material-theme
+2023-08-27 16:32:18.157 [info] Installing extension: zhuangtongfa.material-theme
+2023-08-27 16:32:19.139 [warning] Extension signature verification failed with error 'UnknownError': zhuangtongfa.material-theme
+2023-08-27 16:32:19.285 [info] Extracted extension to file:///home/admin/.vscode/extensions/zhuangtongfa.material-theme-3.16.0: zhuangtongfa.material-theme
+2023-08-27 16:32:19.287 [info] Renamed to /home/admin/.vscode/extensions/zhuangtongfa.material-theme-3.16.0
+2023-08-27 16:32:19.289 [info] Extracting extension completed. zhuangtongfa.material-theme
+2023-08-27 16:32:19.297 [info] Extension installed successfully: zhuangtongfa.material-theme
+2023-08-27 16:35:15.259 [info] Getting Manifest... adamcaviness.theme-monokai-dark-soda
+2023-08-27 16:35:15.268 [info] Installing extension: adamcaviness.theme-monokai-dark-soda
+2023-08-27 16:35:16.476 [warning] Extension signature verification failed with error 'UnknownError': adamcaviness.theme-monokai-dark-soda
+2023-08-27 16:35:16.492 [info] Extracted extension to file:///home/admin/.vscode/extensions/adamcaviness.theme-monokai-dark-soda-1.2.0: adamcaviness.theme-monokai-dark-soda
+2023-08-27 16:35:16.494 [info] Renamed to /home/admin/.vscode/extensions/adamcaviness.theme-monokai-dark-soda-1.2.0
+2023-08-27 16:35:16.496 [info] Extracting extension completed. adamcaviness.theme-monokai-dark-soda
+2023-08-27 16:35:16.502 [info] Extension installed successfully: adamcaviness.theme-monokai-dark-soda

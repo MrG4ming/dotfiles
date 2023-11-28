@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/admin/repos/JobManager","configPath":"/home/admin/repos/JobManager/tailwind.config.cjs","isUserConfigured":false,"documentSelector":[{"pattern":"/home/admin/repos/JobManager/tailwind.config.cjs","priority":0},{"pattern":"/home/admin/repos/JobManager/**","priority":3}]}]
+[Global] Adding watch patterns: /home/admin/repos/JobManager/tailwind.config.cjs, /home/admin/repos/JobManager
+[tailwind.config.cjs] Initializing...
+[tailwind.config.cjs] Loaded Tailwind CSS config file: /home/admin/repos/JobManager/tailwind.config.cjs
+[tailwind.config.cjs] Loaded postcss v8.4.28: /home/admin/repos/JobManager/node_modules/postcss
+[tailwind.config.cjs] Loaded tailwindcss v3.3.3: /home/admin/repos/JobManager/node_modules/tailwindcss
+[tailwind.config.cjs] Building...

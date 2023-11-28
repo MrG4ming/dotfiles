@@ -1,0 +1,1198 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 0
+Total: 10
+Initialize new ts service at  
+Trying to load configs for /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 6
+From node_modules: 326
+Total: 338
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 6
+From node_modules: 326
+Total: 339
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/@skeletonlabs
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 7
+From node_modules: 326
+Total: 340
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 326
+Total: 341
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 7
+From node_modules: 326
+Total: 340
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 326
+Total: 341
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 326
+Total: 341
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 326
+Total: 343
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getSyntacticDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139964:7)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:58:21)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 2)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:47:38)
+    at async DiagnosticsManager.update (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:26:29)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 8
+From node_modules: 326
+Total: 345
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 10
+From node_modules: 326
+Total: 347
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:27:0: ERROR: Expected "from" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "from" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "from" but found end of file\n' +
+    "24 |  \timport Navmenu from '$lib/Navmenu.svelte';\n" +
+    '25 |  \n' +
+    '26 |  \timport page\n' +
+    '   |               ^\n' +
+    '27 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 27,
+    lineText: '',
+    namespace: '',
+    suggestion: 'from'
+  },
+  __source: 'Script'
+}
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/@sveltejs
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:11:1: ERROR: Expected identifier but found "const"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "const"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "const"\n' +
+    '9  |  \texport let \n' +
+    '10 |  \n' +
+    '11 |  \tconst onClick = () => {\n' +
+    '   |   ^\n' +
+    '12 |  \t\tif (navButton.checked) {\n' +
+    "13 |  \t\t\tdispatch('activate');\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 5,
+    line: 11,
+    lineText: '\tconst onClick = () => {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:11:1: ERROR: Expected identifier but found "const"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "const"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "const"\n' +
+    '9  |  \texport let \n' +
+    '10 |  \n' +
+    '11 |  \tconst onClick = () => {\n' +
+    '   |   ^\n' +
+    '12 |  \t\tif (navButton.checked) {\n' +
+    "13 |  \t\t\tdispatch('activate');\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 5,
+    line: 11,
+    lineText: '\tconst onClick = () => {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:28:19: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    "26 |  \timport { page } from '$app/stores';\n" +
+    '27 |  \n' +
+    '28 |  \tconsole.log($page.);\n' +
+    '   |                     ^\n' +
+    '29 |  \t\n' +
+    '30 |  \n',
+  loc: {
+    column: 19,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 28,
+    lineText: '\tconsole.log($page.);',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:28:23: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    "26 |  \timport { page } from '$app/stores';\n" +
+    '27 |  \n' +
+    '28 |  \tconsole.log($page.url.);\n' +
+    '   |                         ^\n' +
+    '29 |  \n',
+  loc: {
+    column: 23,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 28,
+    lineText: '\tconsole.log($page.url.);',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:9:1: ERROR: Unexpected "export"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "export"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "export"\n' +
+    '7  |  \n' +
+    '8  |  \texport \n' +
+    '9  |  \texport let autoHide: Boolean = true;\n' +
+    '   |   ^\n' +
+    '10 |  \texport let autoResetButton: Boolean = false;\n' +
+    '11 |  \n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 6,
+    line: 9,
+    lineText: '\texport let autoHide: Boolean = true;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:9:1: ERROR: Expected identifier but found "export"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "export"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "export"\n' +
+    '7  |  \n' +
+    '8  |  \texport let \n' +
+    '9  |  \texport let autoHide: Boolean = true;\n' +
+    '   |   ^\n' +
+    '10 |  \texport let autoResetButton: Boolean = false;\n' +
+    '11 |  \n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 6,
+    line: 9,
+    lineText: '\texport let autoHide: Boolean = true;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/Navmenu.svelte:7:1: ERROR: Expected identifier but found "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "}"\n' +
+    '5  |  \t\tdrawerStore.close();\n' +
+    '6  |  \t\tdrawerStore.\n' +
+    '7  |  \t}\n' +
+    '   |   ^\n' +
+    '8  |  \n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/lib/Navmenu.svelte',
+    length: 1,
+    line: 7,
+    lineText: '\t}',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/vite
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at getRefactorContextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:129420:12)
+    at getInfo2 (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133946:18)
+    at Object.getRefactorActionsToConvertBetweenNamedAndDefaultExports [as getAvailableActions] (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:134168:24)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133926:224
+    at flatMapIterator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:333:21)
+    at flatMapIterator.next (<anonymous>)
+    at arrayFrom (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:870:16)
+    at Object.getApplicableRefactors (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133924:12)
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:9:0: ERROR: Unexpected ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ","\n' +
+    "6  |  \timport '@skeletonlabs/skeleton/styles/skeleton.css';\n" +
+    '7  |  \t// Most of your app wide CSS should be put in this file\n' +
+    "8  |  \timport '../app.postcss';\n" +
+    '   |                            ^\n' +
+    "9  |  ,  } from '@skeletonlabs/skeleton';\n" +
+    '   |  ^\n' +
+    '10 |  \n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 9,
+    lineText: ",  } from '@skeletonlabs/skeleton';",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at getRefactorContextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:129420:12)
+    at getInfo2 (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133946:18)
+    at Object.getRefactorActionsToConvertBetweenNamedAndDefaultExports [as getAvailableActions] (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:134168:24)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133926:224
+    at flatMapIterator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:333:21)
+    at flatMapIterator.next (<anonymous>)
+    at arrayFrom (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:870:16)
+    at Object.getApplicableRefactors (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:133924:12)
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:23:37: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '21 |  \tlet sidebarActive = false;\n' +
+    '22 |  \tfunction menuActivate() {\n' +
+    '23 |  \t\tlet dSetting: DrawerSettings = {id:}\n' +
+    '   |                                       ^\n' +
+    '24 |  \t\tdrawerStore.open();\n' +
+    '25 |  \t\tsidebarActive = true;\n',
+  loc: {
+    column: 37,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 23,
+    lineText: '\t\tlet dSetting: DrawerSettings = {id:}',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:23:38: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '21 |  \tlet sidebarActive = false;\n' +
+    '22 |  \tfunction menuActivate() {\n' +
+    '23 |  \t\tlet dSetting: DrawerSettings = {id: }\n' +
+    '   |                                        ^\n' +
+    '24 |  \t\tdrawerStore.open();\n' +
+    '25 |  \t\tsidebarActive = true;\n',
+  loc: {
+    column: 38,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 23,
+    lineText: '\t\tlet dSetting: DrawerSettings = {id: }',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:23:19: ERROR: Unexpected "="
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "="'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "="\n' +
+    '21 |  \tlet sidebarActive = false;\n' +
+    '22 |  \tfunction menuActivate() {\n' +
+    "23 |  \t\tconst dSetting:  = { id: 'nav-drawer' };\n" +
+    '   |                     ^\n' +
+    '24 |  \t\tdrawerStore.open(dSetting);\n' +
+    '25 |  \t\tsidebarActive = true;\n',
+  loc: {
+    column: 19,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 23,
+    lineText: "\t\tconst dSetting:  = { id: 'nav-drawer' };",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 9
+From node_modules: 326
+Total: 346
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 301
+Total: 317
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 326
+Total: 342
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 326
+Total: 342
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 326
+Total: 342
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 326
+Total: 342
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 8
+From node_modules: 326
+Total: 342
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 326
+Total: 343
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 326
+Total: 343
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 326
+Total: 343
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 326
+Total: 343
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 326
+Total: 343
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 9
+From node_modules: 329
+Total: 346
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 9
+From node_modules: 307
+Total: 324

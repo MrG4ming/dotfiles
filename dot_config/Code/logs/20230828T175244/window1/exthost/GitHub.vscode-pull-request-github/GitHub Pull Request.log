@@ -1,0 +1,91 @@
+2023-08-28 17:52:50.147 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-08-28 17:52:50.933 [info] Looking for git repository
+2023-08-28 17:52:50.933 [info] Found 0 repositories during activation
+2023-08-28 17:52:50.933 [info] Git repository found, initializing review manager and pr tree view.
+2023-08-28 17:52:50.942 [info] Registering git provider
+2023-08-28 17:52:50.942 [info] Review> Validate state in progress
+2023-08-28 17:52:50.942 [info] Review> Validating state...
+2023-08-28 17:52:51.039 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-28 17:52:51.703 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-08-28 17:52:51.703 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-08-28 17:52:51.714 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-28 17:52:51.714 [info] Review> no matching pull request metadata found for current branch main
+2023-08-28 17:52:52.286 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-08-28 18:35:59.505 [info] Review> Validate state in progress
+2023-08-28 18:35:59.505 [info] Review> Validating state...
+2023-08-28 18:36:00.338 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-28 18:36:00.511 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-28 18:36:00.511 [info] Review> no matching pull request metadata found for current branch main
+2023-08-28 18:36:00.812 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-08-28 18:56:14.962 [info] Review> Validate state in progress
+2023-08-28 18:56:14.962 [info] Review> Validating state...
+2023-08-28 18:56:15.786 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-28 18:56:15.911 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-28 18:56:15.911 [info] Review> no matching pull request metadata found for current branch main
+2023-08-28 18:56:16.258 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-08-28 19:04:32.320 [info] Review> Validate state in progress
+2023-08-28 19:04:32.320 [info] Review> Validating state...
+2023-08-28 19:04:32.732 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-28 19:04:32.930 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-28 19:04:32.930 [info] Review> no matching pull request metadata found for current branch main
+2023-08-28 19:04:33.239 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-08-28 19:04:37.372 [info] Review> Validate state in progress
+2023-08-28 19:04:37.373 [info] Review> Validating state...
+2023-08-28 19:04:37.377 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-28 19:04:37.478 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-28 19:04:37.478 [info] Review> no matching pull request metadata found for current branch main
+2023-08-28 19:04:37.832 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-08-31 20:12:37.256 [info] Review> Validate state in progress
+2023-08-31 20:12:37.256 [info] Review> Validating state...
+2023-08-31 20:12:38.125 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-08-31 20:12:38.264 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-31 20:12:38.264 [info] Review> no matching pull request metadata found for current branch main
+2023-08-31 20:12:38.574 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 14:52:10.047 [info] Review> Validate state in progress
+2023-09-01 14:52:10.047 [info] Review> Validating state...
+2023-09-01 14:52:10.092 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 14:52:10.157 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 14:52:10.157 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 14:52:10.482 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 15:15:42.163 [info] Review> Validate state in progress
+2023-09-01 15:15:42.163 [info] Review> Validating state...
+2023-09-01 15:15:42.766 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 15:15:42.955 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 15:15:42.955 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 15:15:43.283 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 15:15:47.215 [info] Review> Validate state in progress
+2023-09-01 15:15:47.215 [info] Review> Validating state...
+2023-09-01 15:15:47.224 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 15:15:47.336 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 15:15:47.336 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 15:15:47.646 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 16:45:22.877 [info] Review> Validate state in progress
+2023-09-01 16:45:22.877 [info] Review> Validating state...
+2023-09-01 16:45:22.974 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 16:45:23.057 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 16:45:23.057 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 16:45:23.389 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 17:37:20.259 [info] Review> Validate state in progress
+2023-09-01 17:37:20.259 [info] Review> Validating state...
+2023-09-01 17:37:20.339 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 17:37:20.419 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 17:37:20.419 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 17:37:20.988 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 17:50:26.906 [info] Review> Validate state in progress
+2023-09-01 17:50:26.906 [info] Review> Validating state...
+2023-09-01 17:50:26.956 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 17:50:27.033 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 17:50:27.033 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 17:50:27.411 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 19:44:18.366 [info] Review> Validate state in progress
+2023-09-01 19:44:18.366 [info] Review> Validating state...
+2023-09-01 19:44:18.468 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 19:44:18.545 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 19:44:18.545 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 19:44:18.830 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-01 20:45:28.688 [info] Review> Validate state in progress
+2023-09-01 20:45:28.688 [info] Review> Validating state...
+2023-09-01 20:45:28.745 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-01 20:45:28.833 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-01 20:45:28.833 [info] Review> no matching pull request metadata found for current branch main
+2023-09-01 20:45:29.174 [info] Review> No matching pull request metadata found on GitHub for current branch main

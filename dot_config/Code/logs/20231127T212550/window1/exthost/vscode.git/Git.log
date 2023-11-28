@@ -1,0 +1,32 @@
+2023-11-27 21:26:01.156 [info] Log level: Info
+2023-11-27 21:26:01.156 [info] Validating found git in: "git"
+2023-11-27 21:26:01.156 [info] Using git "2.43.0" from "git"
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-27 21:26:01.156 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-27 21:26:01.156 [info] Open repository: /home/admin/repos/Kuchentag-Web
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-27 21:26:01.156 [info] > git config --get commit.template [17ms]
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [27ms]
+2023-11-27 21:26:01.156 [info] > git fetch [72ms]
+2023-11-27 21:26:01.156 [info] fatal: unable to access 'https://github.com/MrG4ming/Kuchentag-Web.git/': Could not resolve host: github.com
+2023-11-27 21:26:01.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [172ms]
+2023-11-27 21:26:01.156 [info] > git config --get commit.template [45ms]
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [53ms]
+2023-11-27 21:26:01.156 [info] > git config --get commit.template [65ms]
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [20ms]
+2023-11-27 21:26:01.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+2023-11-27 21:26:01.156 [info] > git rev-parse --show-toplevel [14ms]
+2023-11-27 21:26:01.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2023-11-27 21:26:01.181 [info] > git status -z -uall [771ms]
+2023-11-27 21:26:01.181 [info] > git check-ignore -v -z --stdin [36ms]
+2023-11-27 21:26:01.586 [info] > git rev-parse --show-toplevel [411ms]
+2023-11-27 21:26:01.657 [info] > git show --textconv :src/routes/+page.svelte [45ms]
+2023-11-27 21:26:01.658 [info] > git ls-files --stage -- /home/admin/repos/Kuchentag-Web/src/routes/+page.svelte [36ms]
+2023-11-27 21:26:01.684 [info] > git cat-file -s 67c03533f0c209fca6481920b60fcf57aa86cfd9 [18ms]
+2023-11-27 21:26:02.554 [info] > git config --local branch.main.github-pr-owner-number [44ms]
+2023-11-27 21:26:02.600 [info] > git config --get commit.template [9ms]
+2023-11-27 21:26:02.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-27 21:26:02.617 [info] > git status -z -uall [1ms]
+2023-11-27 21:26:06.929 [info] > git config --get commit.template [9ms]
+2023-11-27 21:26:06.929 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-27 21:26:06.938 [info] > git status -z -uall [2ms]

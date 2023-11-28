@@ -1,0 +1,12 @@
+2023-11-27 19:08:05.813 [info] update#setState idle
+2023-11-27 19:08:08.497 [error] update#isLatestVersion(): failed to check for updates
+2023-11-27 19:08:08.497 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-27 19:08:35.818 [info] update#setState checking for updates
+2023-11-27 19:08:35.823 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-27 19:08:35.823 [info] update#setState idle
+2023-11-27 19:11:34.738 [info] Extension host with pid 2068 exited with code: 0, signal: unknown.
+2023-11-27 19:11:34.739 [error] ptyHost terminated unexpectedly with code 0

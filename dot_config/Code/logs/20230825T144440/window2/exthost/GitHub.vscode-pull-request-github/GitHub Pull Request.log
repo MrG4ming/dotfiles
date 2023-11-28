@@ -1,0 +1,13 @@
+2023-08-25 19:54:04.658 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-08-25 19:54:05.287 [info] Looking for git repository
+2023-08-25 19:54:05.287 [info] Found 0 repositories during activation
+2023-08-25 19:54:05.287 [info] Git repository found, initializing review manager and pr tree view.
+2023-08-25 19:54:05.290 [info] Registering git provider
+2023-08-25 19:54:05.290 [info] Review> Validate state in progress
+2023-08-25 19:54:05.290 [info] Review> Validating state...
+2023-08-25 19:54:05.393 [info] Found GitHub remote for folder /home/admin/repos/SvelteTutorial
+2023-08-25 19:54:05.903 [info] Repo state for file:///home/admin/repos/SvelteTutorial changed.
+2023-08-25 19:54:05.903 [info] Repo file:///home/admin/repos/SvelteTutorial has already been setup.
+2023-08-25 19:54:05.917 [info] Review> No matching pull request metadata found locally for current branch main
+2023-08-25 19:54:05.917 [info] Review> no matching pull request metadata found for current branch main
+2023-08-25 19:54:06.336 [info] Review> No matching pull request metadata found on GitHub for current branch main

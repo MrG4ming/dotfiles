@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/admin/repos/SvelteTutorial
+Initialize new ts service at  /home/admin/repos/SvelteTutorial/jsconfig.json
+Trying to load configs for /home/admin/repos/SvelteTutorial
+Loaded config at  /home/admin/repos/SvelteTutorial/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 9
+From node_modules: 0
+Total: 18

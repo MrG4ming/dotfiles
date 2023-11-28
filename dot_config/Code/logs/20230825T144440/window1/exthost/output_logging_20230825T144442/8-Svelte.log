@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 0
+Total: 10

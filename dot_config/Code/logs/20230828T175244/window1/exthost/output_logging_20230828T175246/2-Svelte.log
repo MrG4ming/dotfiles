@@ -1,0 +1,1009 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 0
+Total: 16
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+CompileError [ParseError]: Expected >
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12244:13)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'unexpected-token',
+  start: { line: 13, column: 7, character: 245 },
+  end: { line: 13, column: 7, character: 245 },
+  pos: 245,
+  filename: undefined,
+  frame: '11: \n' +
+    '12: <label class="label relative">\n' +
+    '13:   <div</div>\n' +
+    '            ^\n' +
+    '14: </label>'
+}
+CompileError [ParseError]: Expected valid tag name
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_tag_name (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12302:17)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12138:19)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'invalid-tag-name',
+  start: { line: 13, column: 2, character: 240 },
+  end: { line: 13, column: 2, character: 240 },
+  pos: 240,
+  filename: undefined,
+  frame: '11: \n' +
+    '12: <label class="label relative">\n' +
+    '13:   <</div>\n' +
+    '       ^\n' +
+    '14: </label>'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at mustache (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13033:29)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'parse-error',
+  start: { line: 13, column: 19, character: 257 },
+  end: { line: 13, column: 19, character: 257 },
+  pos: 257,
+  filename: undefined,
+  frame: '11: \n' +
+    '12: <label class="label relative">\n' +
+    '13:   <div class="p-1">{}</div>\n' +
+    '                        ^\n' +
+    '14: </label>'
+}
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+CompileError [ParseError]: Expected valid tag name
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_tag_name (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12302:17)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12138:19)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'invalid-tag-name',
+  start: { line: 17, column: 4, character: 422 },
+  end: { line: 17, column: 4, character: 422 },
+  pos: 422,
+  filename: undefined,
+  frame: '15:   <button class="absolute top-8 right-4 opacity-60">\n' +
+    '16:     {#if showPassword}\n' +
+    '17:       <\n' +
+    '           ^\n' +
+    '18:     {/if}\n' +
+    '19:   </button>'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 18, column: 3, character: 429 },
+  end: { line: 18, column: 3, character: 429 },
+  pos: 429,
+  filename: undefined,
+  frame: '16:     {#if showPassword}\n' +
+    '17:       <Ico\n' +
+    '18:     {/if}\n' +
+    '         ^\n' +
+    '19:   </button>\n' +
+    '20: </label>'
+}
+CompileError [ParseError]: Expected valid tag name
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_tag_name (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12302:17)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12138:19)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'invalid-tag-name',
+  start: { line: 19, column: 4, character: 450 },
+  end: { line: 19, column: 4, character: 450 },
+  pos: 450,
+  filename: undefined,
+  frame: '17:       <IconEyeOff />\n' +
+    '18:     {:else}\n' +
+    '19:       <\n' +
+    '           ^\n' +
+    '20:     {/if}\n' +
+    '21:   </button>'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 20, column: 3, character: 456 },
+  end: { line: 20, column: 3, character: 456 },
+  pos: 456,
+  filename: undefined,
+  frame: '18:     {:else}\n' +
+    '19:       <In\n' +
+    '20:     {/if}\n' +
+    '         ^\n' +
+    '21:   </button>\n' +
+    '22: </label>'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 20, column: 3, character: 455 },
+  end: { line: 20, column: 3, character: 455 },
+  pos: 455,
+  filename: undefined,
+  frame: '18:     {:else}\n' +
+    '19:       <I\n' +
+    '20:     {/if}\n' +
+    '         ^\n' +
+    '21:   </button>\n' +
+    '22: </label>'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 20, column: 3, character: 457 },
+  end: { line: 20, column: 3, character: 457 },
+  pos: 457,
+  filename: undefined,
+  frame: '18:     {:else}\n' +
+    '19:       <Ico\n' +
+    '20:     {/if}\n' +
+    '         ^\n' +
+    '21:   </button>\n' +
+    '22: </label>'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 20, column: 3, character: 461 },
+  end: { line: 20, column: 3, character: 461 },
+  pos: 461,
+  filename: undefined,
+  frame: '18:     {:else}\n' +
+    '19:       <IconEye\n' +
+    '20:     {/if}\n' +
+    '         ^\n' +
+    '21:   </button>\n' +
+    '22: </label>'
+}
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/@tabler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 1
+From node_modules: 1
+Total: 1
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 305
+Total: 321
+CompileError [ParseError]: Unexpected end of input
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.read_until (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13365:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12358:26)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-eof',
+  start: { line: 2, column: 16, character: 29 },
+  end: { line: 2, column: 16, character: 29 },
+  pos: 29,
+  filename: undefined,
+  frame: '1: Page Content\n2: <a href="/login"\n                   ^'
+}
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 302
+Total: 318
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+Initialize new ts service at  
+Trying to load configs for /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getSyntacticDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139964:7)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:58:21)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 2)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:47:38)
+    at async DiagnosticsManager.update (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:26:29)
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/PasswordInput.svelte:7:36: ERROR: Unterminated string literal
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unterminated string literal'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unterminated string literal\n' +
+    "5  |  \texport let value = '';\n" +
+    '6  |  \texport let error: Boolean = false;\n' +
+    "7  |  \texport let placeholder: String = ';\n" +
+    '   |                                      ^\n' +
+    '8  |  \n' +
+    '9  |  \tlet showPassword = false;\n',
+  loc: {
+    column: 36,
+    file: '/home/admin/repos/JobManager/src/lib/PasswordInput.svelte',
+    length: 0,
+    line: 7,
+    lineText: "\texport let placeholder: String = ';",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/PasswordInput.svelte:7:23: ERROR: Expected ";" but found "?"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ";" but found "?"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ";" but found "?"\n' +
+    "5  |  \texport let value = '';\n" +
+    '6  |  \texport let error: Boolean = false;\n' +
+    '7  |  \texport let placeholder?: String = undefined;\n' +
+    '   |                         ^\n' +
+    '8  |  \n' +
+    '9  |  \tlet showPassword = false;\n',
+  loc: {
+    column: 23,
+    file: '/home/admin/repos/JobManager/src/lib/PasswordInput.svelte',
+    length: 1,
+    line: 7,
+    lineText: '\texport let placeholder?: String = undefined;',
+    namespace: '',
+    suggestion: ';'
+  },
+  __source: 'Script'
+}
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getSyntacticDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139964:7)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:58:21)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 2)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:47:38)
+    at async DiagnosticsManager.update (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:26:29)
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 327
+Total: 343
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 8
+From node_modules: 302
+Total: 318
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 2
+From node_modules: 2
+Total: 2
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 3
+From node_modules: 3
+Total: 3
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 9
+From node_modules: 305
+Total: 322
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 10
+From node_modules: 327
+Total: 345
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 16
+Svelte files: 9
+From node_modules: 327
+Total: 344
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 15
+Svelte files: 12
+From node_modules: 327
+Total: 347
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 4
+From node_modules: 200
+Total: 200
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 7
+From node_modules: 206
+Total: 206
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 302
+Total: 320
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 320
+Total: 338
+CompileError [ValidationError]: <svelte:fragment> must be a child of a component
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Component.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:42953:14)
+    at SlotTemplate.validate_slot_template_placement (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:31551:36)
+    at new SlotTemplate (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:31514:15)
+    at /home/admin/repos/JobManager/node_modules/svelte/compiler.js:31668:23
+    at Array.map (<anonymous>)
+    at map_children (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:31663:22)
+    at new Element (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:30612:26)
+    at /home/admin/repos/JobManager/node_modules/svelte/compiler.js:31668:23
+    at Array.map (<anonymous>) {
+  code: 'invalid-slotted-content',
+  start: { line: 47, column: 3, character: 1414 },
+  end: { line: 49, column: 21, character: 1504 },
+  pos: 1414,
+  filename: undefined,
+  frame: '45:       </svelte:fragment>\n' +
+    '46:       <a href=""><h1 class="font-bold text-3xl">JobManager</h1>\n' +
+    '47:       <svelte:fragment slot="trail">\n' +
+    '          ^\n' +
+    '48:         <LightSwitch rounded="rounded" />\n' +
+    '49:       </svelte:fragment>'
+}
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+CompileError [ParseError]: Expected valid tag name
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_tag_name (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12302:17)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12138:19)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'invalid-tag-name',
+  start: { line: 16, column: 4, character: 476 },
+  end: { line: 16, column: 4, character: 476 },
+  pos: 476,
+  filename: undefined,
+  frame: '14:     </div>\n' +
+    '15:     <div class="p-1">\n' +
+    '16:       <\n' +
+    '           ^\n' +
+    '17:     </div>\n' +
+    '18:   </div>'
+}
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 345
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 18
+Svelte files: 10
+From node_modules: 327
+Total: 346
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 327
+Total: 347
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 19
+Svelte files: 10
+From node_modules: 0
+Total: 19
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 0
+Total: 20
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+CompileError [ParseError]: Expected valid tag name
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_tag_name (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12302:17)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12138:19)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'invalid-tag-name',
+  start: { line: 12, column: 4, character: 399 },
+  end: { line: 12, column: 4, character: 399 },
+  pos: 399,
+  filename: undefined,
+  frame: '10:     <h1 class="font-bold text-xl text-center">Login</h1>\n' +
+    '11:     {#if form?.error}\n' +
+    '12:       <\n' +
+    '           ^\n' +
+    '13:     {/if}\n' +
+    '14:     <div class="p-1">'
+}
+CompileError [ParseError]: Expected }
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.eat (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13305:19)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12334:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34) {
+  code: 'unexpected-token',
+  start: { line: 13, column: 3, character: 404 },
+  end: { line: 13, column: 3, character: 404 },
+  pos: 404,
+  filename: undefined,
+  frame: '11:     {#if form?.error}\n' +
+    '12:       <d\n' +
+    '13:     {/if}\n' +
+    '         ^\n' +
+    '14:     <div class="p-1">\n' +
+    `15:       <MailInput label="E-Mail" error={form?.error ?? false} value={form?.email ?? ''} />`
+}
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 20
+Svelte files: 10
+From node_modules: 327
+Total: 347
+SnapshotManager File Statistics:
+Project files: 22
+Svelte files: 10
+From node_modules: 327
+Total: 349
+SnapshotManager File Statistics:
+Project files: 22
+Svelte files: 11
+From node_modules: 327
+Total: 350
+SnapshotManager File Statistics:
+Project files: 22
+Svelte files: 11
+From node_modules: 327
+Total: 350
+SnapshotManager File Statistics:
+Project files: 22
+Svelte files: 11
+From node_modules: 327
+Total: 350
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 23
+Svelte files: 11
+From node_modules: 162
+Total: 185
+SnapshotManager File Statistics:
+Project files: 23
+Svelte files: 11
+From node_modules: 327
+Total: 350
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 23
+Svelte files: 11
+From node_modules: 302
+Total: 325
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 23
+Svelte files: 11
+From node_modules: 302
+Total: 325

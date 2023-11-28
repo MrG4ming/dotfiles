@@ -1,0 +1,60 @@
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+
+
+    background: #00001a;
+
+    font-family: 'Hack', monospace;
+    font-weight: normal;
+    color: #f0f0f0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2, h3, h4 h5, h6 {
+    color: #f0f0f0;
+    /** font-family: 'Hack', monospace; **/
+    font-weight: bold;
+}
+
+a {
+    color: #0000b3;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    margin-top: 55px + 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: 75%;
+    flex: 1;
+    overflow-y: scroll;
+    background: #000020;
+    border: rgba(255, 255, 255, 0.2) dotted 1px;
+}
+
+footer {
+    flex: 0;
+    width: 100%;
+    background-color: #0f0f30;
+    text-align: left;
+    padding-left: 20px;
+
+    font-size: small;
+}

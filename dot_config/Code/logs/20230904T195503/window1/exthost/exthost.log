@@ -1,0 +1,741 @@
+2023-09-04 19:55:06.781 [info] Extension host with pid 2717 started
+2023-09-04 19:55:06.781 [info] Skipping acquiring lock for /home/admin/.config/Code/User/workspaceStorage/51e140b9c9b8d676963fe0e4358d1b56.
+2023-09-04 19:55:07.368 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-09-04 19:55:09.290 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-04 19:55:09.305 [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense, startup: false, activationEvent: 'onLanguage:svelte'
+2023-09-04 19:55:09.404 [info] ExtensionService#_doActivateExtension phoenisx.cssvar, startup: false, activationEvent: 'onLanguage:svelte'
+2023-09-04 19:55:09.416 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+2023-09-04 19:55:09.807 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-04 19:55:09.829 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-04 19:55:09.858 [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-04 19:55:10.805 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-04 19:55:10.809 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-09-04 19:55:10.844 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-09-04 19:55:10.869 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-09-04 19:55:10.888 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-09-04 19:55:12.079 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-04 19:55:12.154 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-04 19:55:12.850 [info] Eager extensions activated
+2023-09-04 19:55:13.038 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.040 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.050 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.103 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.289 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.387 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-09-04 19:55:13.431 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.536 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.586 [info] ExtensionService#_doActivateExtension ms-vscode.remote-server, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:13.617 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:14.530 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-09-04 19:55:16.507 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-04 19:55:18.251 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-04 19:56:22.307 [warning] TextEditor is closed/disposed
+2023-09-04 19:56:34.080 [warning] TextEditor is closed/disposed
+2023-09-04 19:58:00.695 [warning] TextEditor is closed/disposed
+2023-09-04 19:58:43.576 [warning] TextEditor is closed/disposed
+2023-09-04 19:58:48.056 [warning] TextEditor is closed/disposed
+2023-09-04 20:01:51.221 [warning] TextEditor is closed/disposed
+2023-09-04 20:02:05.788 [warning] TextEditor is closed/disposed
+2023-09-04 20:02:11.076 [warning] TextEditor is closed/disposed
+2023-09-04 20:02:13.600 [warning] TextEditor is closed/disposed
+2023-09-04 20:02:15.509 [warning] TextEditor is closed/disposed
+2023-09-04 20:02:19.324 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-09-04 20:02:19.326 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-04 20:03:34.122 [warning] TextEditor is closed/disposed
+2023-09-04 20:06:12.570 [warning] TextEditor is closed/disposed
+2023-09-04 20:06:22.514 [warning] TextEditor is closed/disposed
+2023-09-04 20:06:53.756 [warning] TextEditor is closed/disposed
+2023-09-04 20:07:09.072 [warning] TextEditor is closed/disposed
+2023-09-04 20:07:10.714 [warning] TextEditor is closed/disposed
+2023-09-04 20:07:24.762 [warning] TextEditor is closed/disposed
+2023-09-04 20:07:29.286 [warning] TextEditor is closed/disposed
+2023-09-04 20:07:30.291 [warning] TextEditor is closed/disposed
+2023-09-04 20:10:54.644 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:05.248 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:21.270 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:40.777 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:41.374 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:42.515 [warning] TextEditor is closed/disposed
+2023-09-04 20:11:45.476 [warning] TextEditor is closed/disposed
+2023-09-04 20:12:27.005 [warning] TextEditor is closed/disposed
+2023-09-04 20:12:30.586 [warning] TextEditor is closed/disposed
+2023-09-04 20:13:05.761 [warning] TextEditor is closed/disposed
+2023-09-04 20:13:15.681 [warning] TextEditor is closed/disposed
+2023-09-04 20:13:36.915 [warning] TextEditor is closed/disposed
+2023-09-04 20:13:41.266 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-09-04 20:13:41.266 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-04 20:15:12.864 [warning] TextEditor is closed/disposed
+2023-09-04 20:15:17.224 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:46.177 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:52.380 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:55.360 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:55.754 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:58.952 [warning] TextEditor is closed/disposed
+2023-09-04 20:16:59.485 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:00.518 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:01.094 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:06.583 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:10.564 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:18.320 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:43.438 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:48.658 [warning] TextEditor is closed/disposed
+2023-09-04 20:17:53.962 [warning] TextEditor is closed/disposed
+2023-09-04 20:18:28.311 [warning] TextEditor is closed/disposed
+2023-09-04 20:19:07.489 [warning] TextEditor is closed/disposed
+2023-09-04 20:19:34.834 [warning] TextEditor is closed/disposed
+2023-09-04 20:19:43.094 [warning] TextEditor is closed/disposed
+2023-09-04 20:20:12.428 [warning] TextEditor is closed/disposed
+2023-09-04 20:20:44.093 [warning] TextEditor is closed/disposed
+2023-09-04 20:20:57.781 [warning] TextEditor is closed/disposed
+2023-09-04 20:21:03.425 [warning] TextEditor is closed/disposed
+2023-09-04 20:21:56.210 [warning] TextEditor is closed/disposed
+2023-09-04 20:22:08.063 [warning] TextEditor is closed/disposed
+2023-09-04 20:22:13.976 [warning] TextEditor is closed/disposed
+2023-09-04 20:23:11.920 [warning] TextEditor is closed/disposed
+2023-09-04 20:23:16.326 [warning] TextEditor is closed/disposed
+2023-09-04 20:24:43.055 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:24.031 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:25.712 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:26.316 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:26.931 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:28.896 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:49.247 [warning] TextEditor is closed/disposed
+2023-09-04 20:26:51.769 [warning] TextEditor is closed/disposed
+2023-09-04 20:27:08.942 [warning] TextEditor is closed/disposed
+2023-09-04 20:27:26.809 [warning] TextEditor is closed/disposed
+2023-09-04 20:27:27.242 [warning] TextEditor is closed/disposed
+2023-09-04 20:27:27.736 [warning] TextEditor is closed/disposed
+2023-09-04 20:39:57.547 [warning] TextEditor is closed/disposed
+2023-09-04 20:40:00.826 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-09-04 20:40:00.826 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-09-04 20:40:02.674 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-09-04 20:40:02.675 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-09-04 20:40:03.808 [warning] TextEditor is closed/disposed
+2023-09-04 20:43:13.977 [warning] TextEditor is closed/disposed
+2023-09-04 20:43:17.811 [warning] TextEditor is closed/disposed
+2023-09-04 20:43:20.404 [warning] TextEditor is closed/disposed
+2023-09-04 20:44:10.797 [warning] TextEditor is closed/disposed
+2023-09-04 21:03:46.869 [warning] TextEditor is closed/disposed
+2023-09-04 21:03:54.184 [warning] TextEditor is closed/disposed
+2023-09-04 21:03:54.846 [warning] TextEditor is closed/disposed
+2023-09-04 21:03:56.042 [warning] TextEditor is closed/disposed
+2023-09-04 21:03:59.571 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:01.070 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:03.239 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:08.631 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:13.777 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:15.960 [warning] TextEditor is closed/disposed
+2023-09-04 21:04:58.965 [warning] TextEditor is closed/disposed
+2023-09-04 21:06:52.537 [warning] TextEditor is closed/disposed
+2023-09-04 21:06:52.844 [warning] TextEditor is closed/disposed
+2023-09-04 21:06:53.806 [warning] TextEditor is closed/disposed
+2023-09-04 21:07:02.774 [warning] TextEditor is closed/disposed
+2023-09-04 21:07:08.790 [warning] TextEditor is closed/disposed
+2023-09-04 21:07:39.857 [warning] TextEditor is closed/disposed
+2023-09-04 21:07:45.487 [warning] TextEditor is closed/disposed
+2023-09-04 21:08:20.238 [warning] TextEditor is closed/disposed
+2023-09-04 21:08:49.985 [error] Error: Illegal value for `line`
+    at $.t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:961)
+    at Object.rangeOffset [as lineAt] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:90)
+    at r.value (/home/admin/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at $acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10065)
+    at t.N (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at t.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at t.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at t.G (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at r.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at y.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13931)
+    at r.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30355)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at y.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13931)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28635)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-09-04 21:20:57.118 [warning] TextEditor is closed/disposed
+2023-09-04 21:20:57.243 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-09-04 21:20:57.243 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-04 21:23:33.521 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:50.406 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:52.931 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:53.372 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:54.113 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:55.707 [warning] TextEditor is closed/disposed
+2023-09-04 21:23:56.100 [warning] TextEditor is closed/disposed
+2023-09-04 21:25:06.591 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:07.624 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:08.121 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:12.562 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:19.654 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:24.184 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:25.413 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:28.232 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:29.288 [warning] TextEditor is closed/disposed
+2023-09-04 21:27:29.682 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:14.728 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:16.944 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:43.811 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:55.144 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:56.105 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:56.693 [warning] TextEditor is closed/disposed
+2023-09-04 21:28:57.441 [warning] TextEditor is closed/disposed
+2023-09-04 21:29:06.038 [warning] TextEditor is closed/disposed
+2023-09-04 21:29:06.463 [warning] TextEditor is closed/disposed
+2023-09-04 21:39:38.181 [warning] TextEditor is closed/disposed
+2023-09-04 21:40:34.193 [warning] TextEditor is closed/disposed
+2023-09-04 21:40:39.087 [warning] TextEditor is closed/disposed
+2023-09-04 21:41:20.567 [warning] TextEditor is closed/disposed
+2023-09-04 21:41:21.330 [warning] TextEditor is closed/disposed
+2023-09-04 21:41:26.297 [warning] TextEditor is closed/disposed
+2023-09-04 21:41:27.767 [warning] TextEditor is closed/disposed
+2023-09-04 21:42:28.450 [warning] TextEditor is closed/disposed
+2023-09-04 21:42:29.417 [warning] TextEditor is closed/disposed
+2023-09-04 21:42:31.540 [warning] TextEditor is closed/disposed
+2023-09-04 21:42:59.566 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:00.418 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:01.593 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:04.227 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:04.672 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:31.162 [warning] TextEditor is closed/disposed
+2023-09-04 21:43:32.143 [warning] TextEditor is closed/disposed
+2023-09-04 21:49:21.279 [warning] TextEditor is closed/disposed
+2023-09-04 21:52:28.337 [warning] TextEditor is closed/disposed
+2023-09-04 21:52:30.935 [warning] TextEditor is closed/disposed
+2023-09-04 21:59:57.056 [warning] TextEditor is closed/disposed
+2023-09-04 22:03:45.514 [warning] TextEditor is closed/disposed
+2023-09-04 22:03:46.015 [warning] TextEditor is closed/disposed
+2023-09-04 22:03:46.806 [warning] TextEditor is closed/disposed
+2023-09-04 22:03:47.310 [warning] TextEditor is closed/disposed
+2023-09-04 22:04:11.760 [warning] TextEditor is closed/disposed
+2023-09-04 22:06:32.089 [warning] TextEditor is closed/disposed
+2023-09-04 22:06:56.124 [warning] TextEditor is closed/disposed
+2023-09-04 22:10:07.240 [warning] TextEditor is closed/disposed
+2023-09-04 22:10:34.738 [warning] TextEditor is closed/disposed
+2023-09-04 22:10:35.186 [warning] TextEditor is closed/disposed
+2023-09-04 22:11:47.663 [warning] TextEditor is closed/disposed
+2023-09-04 22:11:49.407 [warning] TextEditor is closed/disposed
+2023-09-04 22:11:50.066 [warning] TextEditor is closed/disposed
+2023-09-04 22:11:51.603 [warning] TextEditor is closed/disposed
+2023-09-04 22:11:52.812 [warning] TextEditor is closed/disposed
+2023-09-04 22:12:14.102 [warning] TextEditor is closed/disposed
+2023-09-04 22:12:30.118 [warning] TextEditor is closed/disposed
+2023-09-04 22:14:11.067 [warning] TextEditor is closed/disposed
+2023-09-04 22:14:55.954 [warning] TextEditor is closed/disposed
+2023-09-04 22:14:56.966 [warning] TextEditor is closed/disposed
+2023-09-04 22:15:57.929 [warning] TextEditor is closed/disposed
+2023-09-04 22:16:14.596 [warning] TextEditor is closed/disposed
+2023-09-04 22:16:23.237 [warning] TextEditor is closed/disposed
+2023-09-05 15:05:44.379 [warning] TextEditor is closed/disposed
+2023-09-05 15:05:52.445 [warning] TextEditor is closed/disposed
+2023-09-05 15:07:16.031 [warning] TextEditor is closed/disposed
+2023-09-05 15:07:50.715 [warning] TextEditor is closed/disposed
+2023-09-05 15:08:51.603 [warning] TextEditor is closed/disposed
+2023-09-05 15:12:31.530 [warning] TextEditor is closed/disposed
+2023-09-05 15:13:59.551 [warning] TextEditor is closed/disposed
+2023-09-05 15:14:30.721 [warning] TextEditor is closed/disposed
+2023-09-05 15:14:51.294 [warning] TextEditor is closed/disposed
+2023-09-05 15:14:52.687 [warning] TextEditor is closed/disposed
+2023-09-05 15:15:42.010 [warning] TextEditor is closed/disposed
+2023-09-05 15:15:43.337 [warning] TextEditor is closed/disposed
+2023-09-05 15:16:00.871 [warning] TextEditor is closed/disposed
+2023-09-05 15:16:03.170 [warning] TextEditor is closed/disposed
+2023-09-05 15:16:06.032 [warning] TextEditor is closed/disposed
+2023-09-05 15:19:43.030 [warning] TextEditor is closed/disposed
+2023-09-05 15:19:47.752 [info] ExtensionService#_doActivateExtension meganrogge.template-string-converter, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 15:20:23.439 [warning] TextEditor is closed/disposed
+2023-09-05 15:21:53.524 [warning] TextEditor is closed/disposed
+2023-09-05 15:22:01.344 [error] Error: Illegal value for `line`
+    at $.t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:961)
+    at Object.rangeOffset [as lineAt] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:90)
+    at r.value (/home/admin/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at $acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10065)
+    at t.N (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at t.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at t.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at t.G (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at r.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at y.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13931)
+    at r.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30355)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at y.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13931)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28635)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-09-05 15:25:18.544 [warning] TextEditor is closed/disposed
+2023-09-05 15:25:23.338 [warning] TextEditor is closed/disposed
+2023-09-05 15:25:25.210 [warning] TextEditor is closed/disposed
+2023-09-05 15:25:28.406 [warning] TextEditor is closed/disposed
+2023-09-05 15:34:49.128 [warning] TextEditor is closed/disposed
+2023-09-05 16:38:12.901 [warning] TextEditor is closed/disposed
+2023-09-05 16:39:12.502 [warning] TextEditor is closed/disposed
+2023-09-05 16:39:50.431 [warning] TextEditor is closed/disposed
+2023-09-05 16:39:56.462 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-05 16:39:56.622 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at r.D [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1261690)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1277293)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282023
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282009)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3381)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1263703)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.623 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at t.$Ne.set b [as b] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:676183)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:676827
+    at r.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1349176)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1277293)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282023
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282009)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3381)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1263703)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.624 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at e (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1655:1445)
+    at Object.n [as setContext] (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1655:1560)
+    at gp.updateActiveReviewCount (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1772:22481)
+    at gp.removeRepo (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1772:23608)
+    at r.value (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1835:4126)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at r.value (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1624:461993)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at /home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1772:27322
+    at r.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1349176)
+    at f.w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1277293)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282023
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1282009)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3381)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1263703)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.668 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at ActionRunners.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36287)
+    at /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:680104
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:680089)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.677 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at ActionRunners.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36287)
+    at /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:680104
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:680089)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.682 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36942)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.683 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36942)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.684 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36942)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.685 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at r0.reset (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1822:4008)
+    at r0.dispose (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1822:4247)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.688 [error] Canceled: Canceled
+    at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at g (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:958295)
+    at c (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:962923)
+    at ActionRunners._updateContextKeys (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:38282)
+    at s (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36701)
+    at RegisteredActionRunner.unregister (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36845)
+    at RegisteredActionRunner.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:35508)
+    at Object.dispose (/home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:36942)
+    at p.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3381)
+    at p.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3478)
+    at wg.dispose (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1772:35920)
+    at S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-05 16:39:56.760 [info] Extension host with pid 2717 exiting with code 0
+2023-09-05 16:39:59.250 [info] Extension host with pid 126639 started
+2023-09-05 16:39:59.250 [info] Skipping acquiring lock for /home/admin/.config/Code/User/workspaceStorage/51e140b9c9b8d676963fe0e4358d1b56.
+2023-09-05 16:40:00.234 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-09-05 16:40:01.438 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-05 16:40:01.446 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.462 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.484 [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.486 [info] ExtensionService#_doActivateExtension meganrogge.template-string-converter, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.488 [info] ExtensionService#_doActivateExtension phoenisx.cssvar, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.499 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:typescript'
+2023-09-05 16:40:01.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-05 16:40:01.740 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-09-05 16:40:01.753 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-09-05 16:40:01.779 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-09-05 16:40:01.792 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-09-05 16:40:02.134 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-05 16:40:02.218 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-05 16:40:02.569 [info] Eager extensions activated
+2023-09-05 16:40:02.653 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:02.665 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:02.693 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:02.774 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:02.860 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:02.937 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-09-05 16:40:02.972 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:03.044 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:03.137 [info] ExtensionService#_doActivateExtension ms-vscode.remote-server, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:03.255 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:04.445 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 16:40:05.117 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-05 16:40:16.929 [warning] TextEditor is closed/disposed
+2023-09-05 16:40:30.392 [warning] TextEditor is closed/disposed
+2023-09-05 16:41:14.290 [warning] TextEditor is closed/disposed
+2023-09-05 16:48:45.473 [warning] TextEditor is closed/disposed
+2023-09-05 16:48:46.827 [warning] TextEditor is closed/disposed
+2023-09-05 17:00:17.055 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:32.243 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:32.392 [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense, startup: false, activationEvent: 'onLanguage:svelte'
+2023-09-05 17:01:33.539 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:38.057 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:39.181 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:39.936 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:40.954 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:45.121 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:45.780 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:46.408 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:46.814 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:49.710 [warning] TextEditor is closed/disposed
+2023-09-05 17:01:50.174 [warning] TextEditor is closed/disposed
+2023-09-07 16:58:30.139 [warning] TextEditor is closed/disposed
+2023-09-07 16:58:40.442 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-07 16:58:46.386 [warning] TextEditor is closed/disposed
+2023-09-07 16:58:55.692 [warning] TextEditor is closed/disposed
+2023-09-07 16:58:58.460 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:31.849 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:32.620 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:34.312 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:35.021 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:36.078 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:36.872 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:38.492 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:38.979 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:39.559 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:41.394 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:44.893 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:46.669 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:48.629 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:50.777 [warning] TextEditor is closed/disposed
+2023-10-25 23:17:53.206 [warning] TextEditor is closed/disposed
+2023-10-25 23:18:50.221 [warning] TextEditor is closed/disposed
+2023-10-25 23:18:59.598 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-10-25 23:18:59.600 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:00.380 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-10-25 23:19:00.380 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processImmediate (node:internal/timers:437:9)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:00.930 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-10-25 23:19:00.930 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processImmediate (node:internal/timers:437:9)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:01.681 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-10-25 23:19:01.681 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:08.795 [warning] TextEditor is closed/disposed
+2023-10-25 23:19:49.733 [warning] TextEditor is closed/disposed
+2023-10-25 23:21:04.956 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-10-25 23:21:04.962 [error] TypeError: Cannot read properties of null (reading 'data')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11077)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-10-25 23:21:08.375 [error] [ardenivanov.svelte-intellisense] provider FAILED
+2023-10-25 23:21:08.376 [error] TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:21:15.732 [warning] TextEditor is closed/disposed

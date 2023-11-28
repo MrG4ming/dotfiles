@@ -1,0 +1,39 @@
+2023-09-05T14:40:01.688Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.2.1',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1',
+    logPath: '/home/admin/.config/Code/logs/20230904T195503/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/home/admin/.config/Code/User/workspaceStorage/51e140b9c9b8d676963fe0e4358d1b56/mongodb.mongodb-vscode',
+    globalStoragePath: '/home/admin/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v16.17.1',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2023-09-05T14:40:01.689Z telemetry INFO  SegmentKey was found [ { type: 'string' } ]
+
+2023-09-05T14:40:01.690Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2023-09-05T14:40:01.697Z telemetry INFO  Segment analytics activated [ { anonymousId: '44b538f3-f0e5-46fd-ac0f-86ee91251041' } ]
+
+2023-09-05T14:40:01.702Z language server controller INFO  Starting the language server... []
+
+2023-09-05T14:40:03.731Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+

@@ -1,0 +1,30 @@
+[2023-08-28 16:28:20.394] Function.e
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/repos/JobManager/src/lib/VariableInput.svelte'
+[2023-09-01 12:45:22.351] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/db/mongo.ts
+fatal: There is no path src/db/mongo.ts in the commit
+
+[2023-09-01 14:30:46.109] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 12,12:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+
+[2023-09-01 14:35:42.919] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 3,3:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+
+[2023-09-01 14:36:13.536] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 3,3:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+
+[2023-09-01 14:38:41.619] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+
+[2023-09-01 14:38:41.975] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 20,20:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+
+[2023-09-01 14:39:18.263] /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1/dist/gitlens.js:1:298819
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/routes/login/+page.server.ts
+fatal: There is no path src/routes/login/+page.server.ts in the commit
+

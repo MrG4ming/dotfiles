@@ -1,0 +1,36 @@
+2023-11-27 21:25:55.973 [info] Extension host with pid 1228 started
+2023-11-27 21:25:55.973 [info] Skipping acquiring lock for /home/admin/.config/Code/User/workspaceStorage/2f6f627154cc11efbd0c9258d851f276.
+2023-11-27 21:25:56.439 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-11-27 21:25:58.109 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-27 21:25:58.115 [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense, startup: false, activationEvent: 'onLanguage:svelte'
+2023-11-27 21:25:58.184 [info] ExtensionService#_doActivateExtension phoenisx.cssvar, startup: false, activationEvent: 'onLanguage:svelte'
+2023-11-27 21:25:58.203 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+2023-11-27 21:25:58.530 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-27 21:25:58.536 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-11-27 21:25:58.596 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-11-27 21:25:58.649 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-11-27 21:25:58.673 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-11-27 21:25:58.875 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-11-27 21:25:59.333 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-27 21:25:59.629 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-27 21:25:59.724 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onCommand:_typescript.configurePlugin'
+2023-11-27 21:26:00.346 [info] Eager extensions activated
+2023-11-27 21:26:00.411 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.415 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.421 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.471 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.713 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.748 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:00.924 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:01.078 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:01.121 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 21:26:03.012 [error] Error: getaddrinfo EAI_AGAIN api.segment.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2023-11-27 21:26:03.341 [error] HttpError: request to https://api.github.com/user failed, reason: getaddrinfo EAI_AGAIN api.github.com
+    at /home/admin/.vscode/extensions/github.vscode-pull-request-github-0.76.1/dist/extension.js:1903:6565
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Sf.execute (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.76.1/dist/extension.js:1871:46996)
+2023-11-27 21:26:03.661 [error] HttpError: request to https://api.github.com/repos/MrG4ming/Kuchentag-Web failed, reason: getaddrinfo EAI_AGAIN api.github.com
+    at /home/admin/.vscode/extensions/github.vscode-pull-request-github-0.76.1/dist/extension.js:1903:6565
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Sf.execute (/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.76.1/dist/extension.js:1871:46996)

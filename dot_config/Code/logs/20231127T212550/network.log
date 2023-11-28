@@ -1,0 +1,13 @@
+2023-11-27 21:25:56.153 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:25:57.898 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:00.101 [error] electron #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:00.433 [error] electron #5: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:00.700 [error] electron #6: https://update.code.visualstudio.com/api/update/linux-x64/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:01.478 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:03.134 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:14.721 [error] electron #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:18.263 [error] electron #10: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:23.549 [error] electron #11: https://update.code.visualstudio.com/api/update/linux-x64/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:49.045 [error] electron #12: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:49.604 [error] electron #13: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2023-11-27 21:26:51.756 [error] electron #14: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

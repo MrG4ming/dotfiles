@@ -1,0 +1,6 @@
+2023-11-27 21:25:54.362 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 21:25:58.202 [error] [Extension Host] (node:1228) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-11-27 21:26:00.674 [info] [perf] Render performance baseline is 124ms
+2023-11-27 21:26:03.014 [error] getaddrinfo EAI_AGAIN api.segment.io: Error: getaddrinfo EAI_AGAIN api.segment.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)

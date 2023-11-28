@@ -1,0 +1,23 @@
+2023-09-01 20:48:23.696 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13
+2023-09-01 20:48:23.737 [error] Error: Unable to resolve nonexistent file '/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13.-31b2aced.vsctmp'
+    at p.resolve (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:14125)
+    at async B.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:15454)
+    at async B.scanUserExtensionAtLocation (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:11363)
+    at async H.pb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:9584)
+2023-09-01 20:48:30.983 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-01 20:48:30.988 [info] Getting Manifest... ms-vscode.cpptools
+2023-09-01 20:48:31.091 [info] Installing extension: ms-vscode.cpptools
+2023-09-01 20:48:31.270 [info] Installing extension: ms-python.vscode-pylance
+2023-09-01 20:48:32.489 [info] Getting Manifest... ms-python.python
+2023-09-01 20:48:43.490 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-09-01 20:48:45.328 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-09-01 20:48:52.882 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.5-linux-x64: ms-vscode.cpptools
+2023-09-01 20:48:52.889 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.5-linux-x64
+2023-09-01 20:48:52.922 [info] Extracting extension completed. ms-vscode.cpptools
+2023-09-01 20:48:52.954 [info] Extension installed successfully: ms-vscode.cpptools
+2023-09-01 20:48:52.969 [info] Marked extension as uninstalled ms-vscode.cpptools-1.17.4-linux-x64
+2023-09-01 20:48:55.437 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.50: ms-python.vscode-pylance
+2023-09-01 20:48:55.442 [info] Renamed to /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.50
+2023-09-01 20:48:55.444 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-01 20:48:55.453 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-01 20:48:55.465 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.40

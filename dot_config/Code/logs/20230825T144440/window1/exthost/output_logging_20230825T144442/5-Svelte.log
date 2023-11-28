@@ -1,0 +1,2548 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 2
+From node_modules: 0
+Total: 8
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 2
+From node_modules: 326
+Total: 334
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 2
+From node_modules: 301
+Total: 309
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 3
+From node_modules: 326
+Total: 335
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:11:0: ERROR: Unexpected end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected end of file\n' +
+    "8  |  \timport { AppShell, AppBar } from '@skeletonlabs/skeleton';\n" +
+    '9  |  \n' +
+    '10 |  \timport \n' +
+    '   |           ^\n' +
+    '11 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 11,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 3
+From node_modules: 326
+Total: 335
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Initialize new ts service at  
+Trying to load configs for /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 8
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 301
+Total: 312
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:11:2: ERROR: Syntax error "\x0A"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Syntax error "\\x0A"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Syntax error "\\x0A"\n' +
+    '9  |  \n' +
+    "10 |  \timport Navbar from '$lib/Navbar.svelte';\n" +
+    '11 |  \t#\n' +
+    '   |    ^\n' +
+    '12 |  \n',
+  loc: {
+    column: 2,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 11,
+    lineText: '\t#',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/@skeletonlabs
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/vite
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 82, character: 193 },
+  end: { line: 11, column: 82, character: 193 },
+  pos: 193,
+  filename: undefined,
+  frame: ' 9: \n' +
+    '10: <div>\n' +
+    '11:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={()} />\n' +
+    '                                                                                       ^\n' +
+    '12:   <div class="hamburger-lines">\n' +
+    '13:     <span class="line line1" />'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 82, character: 193 },
+  end: { line: 11, column: 82, character: 193 },
+  pos: 193,
+  filename: undefined,
+  frame: ' 9: \n' +
+    '10: <div>\n' +
+    '11:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={()} />\n' +
+    '                                                                                       ^\n' +
+    '12:   <div class="hamburger-lines">\n' +
+    '13:     <span class="line line1" />'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 82, character: 193 },
+  end: { line: 11, column: 82, character: 193 },
+  pos: 193,
+  filename: undefined,
+  frame: ' 9: \n' +
+    '10: <div>\n' +
+    '11:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={() } />\n' +
+    '                                                                                       ^\n' +
+    '12:   <div class="hamburger-lines">\n' +
+    '13:     <span class="line line1" />'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 11, column: 82, character: 193 },
+  end: { line: 11, column: 82, character: 193 },
+  pos: 193,
+  filename: undefined,
+  frame: ' 9: \n' +
+    '10: <div>\n' +
+    '11:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={() =} />\n' +
+    '                                                                                       ^\n' +
+    '12:   <div class="hamburger-lines">\n' +
+    '13:     <span class="line line1" />'
+}
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Initialize new ts service at  
+Trying to load configs for /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:9: ERROR: Expected identifier but found "("
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "("'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "("\n' +
+    "11 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '12 |  \n' +
+    '13 |  \tfunction()\n' +
+    '   |           ^\n' +
+    '14 |  \n' +
+    '15 |  \n',
+  loc: {
+    column: 9,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\tfunction()',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:10: ERROR: Expected identifier but found "("
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "("'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "("\n' +
+    "11 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '12 |  \n' +
+    '13 |  \tfunction ()\n' +
+    '   |            ^\n' +
+    '14 |  \n' +
+    '15 |  \n',
+  loc: {
+    column: 10,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\tfunction ()',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 301
+Total: 311
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 301
+Total: 311
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 304
+Total: 314
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:12:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    "10 |  \timport Navbar from '$lib/Navbar.svelte';\n" +
+    "11 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '12 |  \tlet \n' +
+    '   |   ^\n' +
+    '13 |  \tfunction onCheck(e: { detail: boolean }) {\n' +
+    '14 |  \t\tlet test = e.detail;\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 3,
+    line: 12,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    '12 |  \t\n' +
+    '13 |  \t\n' +
+    '14 |  \tlet \n' +
+    '   |   ^\n' +
+    '15 |  \tfunction onCheck(e: { detail: boolean }) {\n' +
+    '16 |  \t\tlet test = e.detail;\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 3,
+    line: 14,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    '12 |  \t\n' +
+    '13 |  \t\n' +
+    '14 |  \tlet \n' +
+    '   |   ^\n' +
+    '15 |  \t\n' +
+    '16 |  \tfunction onCheck(e: { detail: boolean }) {\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 3,
+    line: 14,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    '12 |  \t\n' +
+    '13 |  \t\n' +
+    '14 |  \tlet \n' +
+    '   |   ^\n' +
+    '15 |  \t\n' +
+    '16 |  \tfunction onCheck(e: { detail: boolean }) {\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 3,
+    line: 14,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:3: ERROR: Expected ";" but found "buttonValue"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ";" but found "buttonValue"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ";" but found "buttonValue"\n' +
+    "11 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '12 |  \n' +
+    '13 |  \t$ buttonValue = false;\n' +
+    '   |     ^\n' +
+    '14 |  \n' +
+    '15 |  \tfunction onCheck(e: { detail: boolean }) {\n',
+  loc: {
+    column: 3,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 11,
+    line: 13,
+    lineText: '\t$ buttonValue = false;',
+    namespace: '',
+    suggestion: ';'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    "10 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '11 |  \n' +
+    '12 |  \tfunction \n' +
+    '   |             ^\n' +
+    '13 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 13,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    "10 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '11 |  \n' +
+    '12 |  \tfunction an\n' +
+    '   |               ^\n' +
+    '13 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 13,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:12:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    "10 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '11 |  \n' +
+    '12 |  \tlet \n' +
+    '   |   ^\n' +
+    '13 |  \n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 3,
+    line: 12,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tconst \n' +
+    '   |          ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:9: ERROR: Expected identifier but found "("
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "("'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "("\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction()\n' +
+    '   |           ^\n' +
+    '14 |  \n',
+  loc: {
+    column: 9,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\tfunction()',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction activate\n' +
+    '   |                     ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction \n' +
+    '   |             ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction btnActive\n' +
+    '   |                      ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction menu\n' +
+    '   |                 ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:14:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction menuActivate\n' +
+    '   |                         ^\n' +
+    '14 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 14,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:17:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '14 |  \n' +
+    '15 |  \t}\n' +
+    '16 |  \tfunction\n' +
+    '   |            ^\n' +
+    '17 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 17,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:43: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '11 |  \n' +
+    '12 |  \tlet sidebarActive = false;\n' +
+    '13 |  \tfunction menuActivate() { sidebarActive = }\n' +
+    '   |                                             ^\n' +
+    '14 |  \tfunction menuDeactivate() {}\n' +
+    '15 |  \n',
+  loc: {
+    column: 43,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\tfunction menuActivate() { sidebarActive = }',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:23:0: ERROR: Unexpected end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected end of file\n' +
+    '20 |  \t}\n' +
+    '21 |  \n' +
+    '22 |  \timport \n' +
+    '   |           ^\n' +
+    '23 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 0,
+    line: 23,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 301
+Total: 311
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 20, column: 61, character: 693 },
+  end: { line: 20, column: 61, character: 693 },
+  pos: 693,
+  filename: undefined,
+  frame: '18:   <svelte:fragment slot="header">\n' +
+    '19:     <AppBar gridColumns="grid-cols-3" slotDefault="place-self-center" slotTrail="place-content-end">\n' +
+    '20:       <svelte:fragment slot="lead"><HamburgerLines on:activate={}/></svelte:fragment>\n' +
+    '                                                                    ^\n' +
+    '21:       (title)\n' +
+    '22:       <svelte:fragment slot="trail">'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 15, column: 12, character: 382 },
+  end: { line: 15, column: 12, character: 382 },
+  pos: 382,
+  filename: undefined,
+  frame: '13:             on:click={() => {\n' +
+    '14:                 redirect.\n' +
+    '15:             }}\n' +
+    '                ^\n' +
+    '16:     >\n' +
+    '17:       <div class="badge fill-on-surface-token">'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 14, column: 33, character: 377 },
+  end: { line: 14, column: 33, character: 377 },
+  pos: 377,
+  filename: undefined,
+  frame: `12:         : ''}"\n` +
+    '13:             on:click={() => {\n' +
+    '14:                 redirect(location:)\n' +
+    '                                     ^\n' +
+    '15:             }}\n' +
+    '16:     >'
+}
+CompileError [ParseError]: Unexpected token
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at Parser$1.acorn_error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13285:15)
+    at read_expression (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:8978:17)
+    at read_sequence (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12538:33)
+    at read_attribute_value (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12475:18)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12368:18)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21) {
+  code: 'parse-error',
+  start: { line: 14, column: 16, character: 360 },
+  end: { line: 14, column: 16, character: 360 },
+  pos: 360,
+  filename: undefined,
+  frame: `12:         : ''}"\n` +
+    '13:             on:click={() => {\n' +
+    '14:                 )\n' +
+    '                    ^\n' +
+    '15:             }}\n' +
+    '16:     >'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 5
+From node_modules: 326
+Total: 338
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:6:1: ERROR: Unexpected "import"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "import"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "import"\n' +
+    '4  |  \timport \n' +
+    '5  |  \t// If you have source.organizeImports set to true in VSCode, then it will auto change this ordering\n' +
+    "6  |  \timport '@skeletonlabs/skeleton/styles/skeleton.css';\n" +
+    '   |   ^\n' +
+    '7  |  \t// Most of your app wide CSS should be put in this file\n' +
+    "8  |  \timport '../app.postcss';\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 6,
+    line: 6,
+    lineText: "\timport '@skeletonlabs/skeleton/styles/skeleton.css';",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+Error: length < 0
+    at createTextSpan (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11381:13)
+    at createTextSpanFromBounds (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:11386:12)
+    at Object.getCodeFixesAtPosition (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140306:20)
+    at CodeActionsProviderImpl.applyQuickfix (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:330:25)
+    at async CodeActionsProviderImpl.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/CodeActionsProvider.js:49:20)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 1)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:144:47)
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:1: ERROR: Expected "from" but found "import"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "from" but found "import"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "from" but found "import"\n' +
+    '11 |  \timport {Drawer}\n' +
+    '12 |  \n' +
+    "13 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '   |   ^\n' +
+    '14 |  \n' +
+    '15 |  \tlet sidebarActive = false;\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 6,
+    line: 13,
+    lineText: "\timport HamburgerLines from '$lib/HamburgerLines.svelte';",
+    namespace: '',
+    suggestion: 'from'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:1: ERROR: Expected "from" but found "import"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "from" but found "import"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "from" but found "import"\n' +
+    '11 |  \timport {Drawer, drawerStore}\n' +
+    '12 |  \n' +
+    "13 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '   |   ^\n' +
+    '14 |  \n' +
+    '15 |  \tlet sidebarActive = false;\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 6,
+    line: 13,
+    lineText: "\timport HamburgerLines from '$lib/HamburgerLines.svelte';",
+    namespace: '',
+    suggestion: 'from'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/+layout.svelte:13:1: ERROR: Expected string but found "import"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected string but found "import"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected string but found "import"\n' +
+    '11 |  \timport {Drawer, drawerStore } from \n' +
+    '12 |  \n' +
+    "13 |  \timport HamburgerLines from '$lib/HamburgerLines.svelte';\n" +
+    '   |   ^\n' +
+    '14 |  \n' +
+    '15 |  \tlet sidebarActive = false;\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/+layout.svelte',
+    length: 6,
+    line: 13,
+    lineText: "\timport HamburgerLines from '$lib/HamburgerLines.svelte';",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+CompileError [ParseError]: Class name cannot be empty
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12377:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'empty-directive-name',
+  start: { line: 22, column: 11, character: 331 },
+  end: { line: 22, column: 11, character: 331 },
+  pos: 331,
+  filename: undefined,
+  frame: '20: </script>\n' +
+    '21: \n' +
+    '22: <div class:>\n' +
+    '               ^\n' +
+    '23:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={onClick} />\n' +
+    '24:   <div class="hamburger-lines">'
+}
+CompileError [ParseError]: Class name cannot be empty
+    at error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13213:20)
+    at Parser$1.error (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13291:10)
+    at read_attribute (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12377:21)
+    at tag (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:12207:26)
+    at new Parser$1 (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13250:22)
+    at parse$b (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:13390:21)
+    at Object.compile (/home/admin/repos/JobManager/node_modules/svelte/compiler.js:44084:18)
+    at SvelteDocument.getCompiledWith (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:59:23)
+    at async SvelteDocument.getCompiled (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:53:34)
+    at async getQuickfixActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:14:21) {
+  code: 'empty-directive-name',
+  start: { line: 22, column: 11, character: 331 },
+  end: { line: 22, column: 11, character: 331 },
+  pos: 331,
+  filename: undefined,
+  frame: '20: </script>\n' +
+    '21: \n' +
+    '22: <div class:>\n' +
+    '               ^\n' +
+    '23:   <input class="hamburger-button" type="checkbox" bind:this={navButton} on:click={onClick} />\n' +
+    '24:   <div class="hamburger-lines">'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getEncodedSemanticClassifications3 [as getEncodedSemanticClassifications] (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140237:7)
+    at SemanticTokensProviderImpl.getSemanticTokens (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/SemanticTokensProvider.js:37:32)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async PluginHost.executePlugins (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:327:33)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getSemanticTokens (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:218:16)
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:9:16: ERROR: Unexpected ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ";"\n' +
+    '7  |  \t * @type {HTMLInputElement}\n' +
+    '8  |  \t */\n' +
+    '9  |  \tlet navButton: ;\n' +
+    '   |                  ^\n' +
+    '10 |  \n' +
+    '11 |  \tconst onClick = () => {\n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 1,
+    line: 9,
+    lineText: '\tlet navButton: ;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getEncodedSemanticClassifications3 [as getEncodedSemanticClassifications] (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140237:7)
+    at SemanticTokensProviderImpl.getSemanticTokens (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/SemanticTokensProvider.js:37:32)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async PluginHost.executePlugins (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:327:33)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getSemanticTokens (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:218:16)
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/Navmenu.svelte:3:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '1  |  \n' +
+    '2  |      function\n' +
+    '   |               ^\n' +
+    '3  |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/lib/Navmenu.svelte',
+    length: 0,
+    line: 3,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:18:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '15 |  \n' +
+    '16 |  \texport let autoHide: Boolean = false;\n' +
+    '17 |  \texport let \n' +
+    '   |               ^\n' +
+    '18 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 0,
+    line: 18,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:14:2: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    "12 |  \t\t\tdispatch('activate');\n" +
+    '13 |  \t\t\tif(aut)\n' +
+    '14 |  \t\t} else {\n' +
+    '   |    ^\n' +
+    "15 |  \t\t\tdispatch('deactivate');\n" +
+    '16 |  \t\t}\n',
+  loc: {
+    column: 2,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 1,
+    line: 14,
+    lineText: '\t\t} else {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte:14:2: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    "12 |  \t\t\tdispatch('activate');\n" +
+    '13 |  \t\t\tif(autoHide)\n' +
+    '14 |  \t\t} else {\n' +
+    '   |    ^\n' +
+    "15 |  \t\t\tdispatch('deactivate');\n" +
+    '16 |  \t\t}\n',
+  loc: {
+    column: 2,
+    file: '/home/admin/repos/JobManager/src/lib/HamburgerLines.svelte',
+    length: 1,
+    line: 14,
+    lineText: '\t\t} else {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 5
+From node_modules: 326
+Total: 337
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 301
+Total: 311
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 4
+From node_modules: 326
+Total: 336

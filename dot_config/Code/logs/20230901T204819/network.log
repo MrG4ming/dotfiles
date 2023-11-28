@@ -1,0 +1,3 @@
+2023-09-02 14:07:14.934 [error] electron #324: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2023-09-03 21:15:42.484 [error] electron #1821: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-09-04 19:08:11.685 [error] electron #2277: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED

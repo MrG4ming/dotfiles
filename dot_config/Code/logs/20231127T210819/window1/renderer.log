@@ -1,0 +1,45 @@
+2023-11-27 21:08:21.194 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 21:08:22.395 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:08:22.396 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:08:22.396 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:08:22.398 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:08:22.399 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:08:22.400 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:08:22.401 [warning] [lua]: Couldn't find message for key config.runtime.builtin.basic.
+2023-11-27 21:08:22.401 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit.
+2023-11-27 21:08:22.401 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit32.
+2023-11-27 21:08:22.402 [warning] [lua]: Couldn't find message for key config.runtime.builtin.builtin.
+2023-11-27 21:08:22.402 [warning] [lua]: Couldn't find message for key config.runtime.builtin.coroutine.
+2023-11-27 21:08:22.402 [warning] [lua]: Couldn't find message for key config.runtime.builtin.debug.
+2023-11-27 21:08:22.403 [warning] [lua]: Couldn't find message for key config.runtime.builtin.ffi.
+2023-11-27 21:08:22.403 [warning] [lua]: Couldn't find message for key config.runtime.builtin.io.
+2023-11-27 21:08:22.403 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.
+2023-11-27 21:08:22.404 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.profile.
+2023-11-27 21:08:22.404 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.util.
+2023-11-27 21:08:22.404 [warning] [lua]: Couldn't find message for key config.runtime.builtin.math.
+2023-11-27 21:08:22.405 [warning] [lua]: Couldn't find message for key config.runtime.builtin.os.
+2023-11-27 21:08:22.405 [warning] [lua]: Couldn't find message for key config.runtime.builtin.package.
+2023-11-27 21:08:22.406 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.
+2023-11-27 21:08:22.406 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.buffer.
+2023-11-27 21:08:22.406 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.
+2023-11-27 21:08:22.407 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.clear.
+2023-11-27 21:08:22.407 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.new.
+2023-11-27 21:08:22.407 [warning] [lua]: Couldn't find message for key config.runtime.builtin.utf8.
+2023-11-27 21:08:22.408 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf8.
+2023-11-27 21:08:22.408 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.ansi.
+2023-11-27 21:08:22.408 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16le.
+2023-11-27 21:08:22.408 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16be.
+2023-11-27 21:08:22.409 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.1.
+2023-11-27 21:08:22.409 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.2.
+2023-11-27 21:08:22.409 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.3.
+2023-11-27 21:08:22.409 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.4.
+2023-11-27 21:08:22.410 [warning] [lua]: Couldn't find message for key config.runtime.version.LuaJIT.
+2023-11-27 21:08:22.587 [error] Extension 'ms-python.python' wants API proposal 'envShellEvent' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 21:08:22.590 [error] Extension 'ms-python.python' wants API proposal 'envCollectionWorkspace' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 21:08:22.590 [error] Extension 'ms-python.python' wants API proposal 'envCollectionOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 21:08:22.590 [error] Extension 'ms-vscode.remote-server' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): resolvers, tunnelFactory
+product.json (WINS): resolvers, tunnels, contribViewsWelcome
+2023-11-27 21:08:26.216 [info] [perf] Render performance baseline is 100ms
+2023-11-27 21:09:51.133 [error] [Extension Host] (node:135699) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

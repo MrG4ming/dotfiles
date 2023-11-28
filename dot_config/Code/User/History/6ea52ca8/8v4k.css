@@ -1,0 +1,24 @@
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+
+    background: rgb(35, 35, 35);
+    margin: 0;
+
+    font-family: 'Hack', monospace;
+    font-weight: normal;
+    color: #f0f0f0;
+}
+
+h1, h2, h3, h4 h5, h6 {
+    color: #f0f0f0;
+    /** font-family: 'Hack', monospace; **/
+    font-weight: bold;
+}
+
+footer {
+    
+}

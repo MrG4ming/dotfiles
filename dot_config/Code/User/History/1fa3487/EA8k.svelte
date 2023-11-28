@@ -1,0 +1,19 @@
+<script>
+    let title = "";
+    let content = "";
+</script>
+
+
+<div class="guide">
+    <form>
+        <input type="text" placeholder="Title" bind:value={title}>
+        <input type="text" placeholder="Content" bind:value={content}>
+        <button>Add Guide</button>
+    </form>
+</div>
+
+<style>
+    .guide {
+        margin-top: 10px;
+    }
+</style>

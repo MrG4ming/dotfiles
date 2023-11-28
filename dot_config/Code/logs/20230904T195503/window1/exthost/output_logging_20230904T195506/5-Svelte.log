@@ -1,0 +1,4958 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 34
+Svelte files: 13
+From node_modules: 0
+Total: 34
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:4:1: ERROR: "let" is a reserved word and cannot be used in an ECMAScript module
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: '"let" is a reserved word and cannot be used in an ECMAScript module'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    '"let" is a reserved word and cannot be used in an ECMAScript module\n' +
+    "2  |  \timport { Table, type TableSource, tableMapperValues } from '@skeletonlabs/skeleton';\n" +
+    '3  |  \n' +
+    '4  |  \tlet \n' +
+    '   |   ^\n' +
+    '5  |  \n' +
+    '6  |  \tconst sourceData = [\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 3,
+    line: 4,
+    lineText: '\tlet ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:6:1: ERROR: Unexpected "const"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "const"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "const"\n' +
+    '4  |  \tlet obj1 =\n' +
+    '5  |  \n' +
+    '6  |  \tconst sourceData = [\n' +
+    '   |   ^\n' +
+    "7  |  \t\t{ position: 1, name: 'Hydrogen', weight: 1.0079, symbol: 'H' },\n" +
+    "8  |  \t\t{ position: 2, name: 'Helium', weight: 4.0026, symbol: 'He' },\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 5,
+    line: 6,
+    lineText: '\tconst sourceData = [',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:6:57: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    "4  |  \timport { ObjectId } from 'mongodb';\n" +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.)\n' +
+    '   |                                                           ^\n' +
+    '7  |  \n' +
+    '8  |  \tconst sourceData = [\n',
+  loc: {
+    column: 57,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 6,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.)',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:6:67: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    "4  |  \timport { ObjectId } from 'mongodb';\n" +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED.)\n' +
+    '   |                                                                     ^\n' +
+    '7  |  \n' +
+    '8  |  \tconst sourceData = [\n',
+  loc: {
+    column: 67,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 6,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED.)',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:6:67: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    "4  |  \timport { ObjectId } from 'mongodb';\n" +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED.)\n' +
+    '   |                                                                     ^\n' +
+    '7  |  \n' +
+    '8  |  \tconst sourceData = [\n',
+  loc: {
+    column: 67,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 6,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED.)',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 2 errors:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:1: ERROR: Cannot use "let" as an identifier here:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:5: ERROR: Expected ";" but found "obj1"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Cannot use "let" as an identifier here:'
+    },
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ";" but found "obj1"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Cannot use "let" as an identifier here:\n' +
+    '6  |  \tconst \n' +
+    '7  |  \n' +
+    '8  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )\n' +
+    '   |   ^\n' +
+    '9  |  \n' +
+    '10 |  \tconst sourceData = [\n' +
+    '\n' +
+    'Expected ";" but found "obj1"\n' +
+    '6  |  \tconst \n' +
+    '7  |  \n' +
+    '8  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )\n' +
+    '   |       ^\n' +
+    '9  |  \n' +
+    '10 |  \tconst sourceData = [\n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 3,
+    line: 8,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:6:7: ERROR: The constant "testItems" must be initialized
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'The constant "testItems" must be initialized'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The constant "testItems" must be initialized\n' +
+    "4  |  \timport { DBRef, ObjectId } from 'mongodb';\n" +
+    '5  |  \n' +
+    '6  |  \tconst testItems: DBRef\n' +
+    '   |         ^\n' +
+    '7  |  \n' +
+    '8  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )\n',
+  loc: {
+    column: 7,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 9,
+    line: 6,
+    lineText: '\tconst testItems: DBRef',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:5: ERROR: Expected ";" but found "obj1"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ";" but found "obj1"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ";" but found "obj1"\n' +
+    '6  |  \tconst testItems: DBRef[] = \n' +
+    '7  |  \n' +
+    '8  |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )\n' +
+    '   |       ^\n' +
+    '9  |  \n' +
+    '10 |  \tconst sourceData = [\n',
+  loc: {
+    column: 5,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 8,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), )',
+    namespace: '',
+    suggestion: ';'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:52: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '6  |  \n' +
+    '7  |  \tconst testItems: DBRef[] = [\n' +
+    '8  |  \t\tnew DBRef("inventory", new ObjectId("lul"), mongo.)\n' +
+    '   |                                                      ^\n' +
+    '9  |  \t]\n' +
+    '10 |  \n',
+  loc: {
+    column: 52,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 8,
+    lineText: '\t\tnew DBRef("inventory", new ObjectId("lul"), mongo.)',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:65: ERROR: Expected "]" but found ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "]" but found ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "]" but found ";"\n' +
+    '6  |  \n' +
+    '7  |  \tconst testItems: DBRef[] = [\n' +
+    '8  |  \t\tnew DBRef("inventory", new ObjectId("lul"), mongo.databaseName);\n' +
+    '   |                                                                   ^\n' +
+    '9  |  \t]\n' +
+    '10 |  \n',
+  loc: {
+    column: 65,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 8,
+    lineText: '\t\tnew DBRef("inventory", new ObjectId("lul"), mongo.databaseName);',
+    namespace: '',
+    suggestion: ']'
+  },
+  __source: 'Script'
+}
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/@skeletonlabs
+Initialize new ts service at  /home/admin/repos/JobManager/node_modules/mongodb/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager/node_modules/mongodb
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:12:111: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '10 |  \t]\n' +
+    '11 |  \n' +
+    '12 |  \tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), testItems, JobType.)\n' +
+    '   |                                                                                                                 ^\n' +
+    '13 |  \n' +
+    '14 |  \tconst sourceData = [\n',
+  loc: {
+    column: 111,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 12,
+    lineText: '\tlet obj1 = new Job(new ObjectId("1"), "Test1", JobState.CONFIRMED, new Date(), new Date(), testItems, JobType.)',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Initialize new ts service at  
+Trying to load configs for /home/admin/repos/JobManager/node_modules/bson
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+SnapshotManager File Statistics:
+Project files: 33
+Svelte files: 13
+From node_modules: 327
+Total: 360
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:17: ERROR: Syntax error "f"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Syntax error "f"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Syntax error "f"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = new Job(\n' +
+    '7  |  \t\tnew ObjectId(64f48966c9e7a04375b0ee6b),\n' +
+    '   |                   ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 17,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 7,
+    lineText: '\t\tnew ObjectId(64f48966c9e7a04375b0ee6b),',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:17: ERROR: Syntax error "f"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Syntax error "f"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Syntax error "f"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = new Job(\n' +
+    "7  |  \t\tnew ObjectId(64f48966c9e7a04375b0ee6b'),\n" +
+    '   |                   ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 17,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 7,
+    lineText: "\t\tnew ObjectId(64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 34
+Svelte files: 13
+From node_modules: 302
+Total: 336
+SnapshotManager File Statistics:
+Project files: 34
+Svelte files: 13
+From node_modules: 327
+Total: 361
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:1: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    '11 |  \t\tnew Date(),\n' +
+    '12 |  \t\tJobType.SELF_PICKUP\n' +
+    '13 |  \t);\n' +
+    '   |   ^\n' +
+    '14 |  \n' +
+    "15 |  \tconsole.log('Job created!');\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t);',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1 = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJ = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:7:6: ERROR: Expected ":" but found "ObjectId"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "ObjectId"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "ObjectId"\n' +
+    '5  |  \n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    '   |        ^\n' +
+    "8  |  \t\t'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 7,
+    lineText: "\t\tnew ObjectId('64f48966c9e7a04375b0ee6b'),",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isCallExpression'.
+    at cast (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:1170:18)
+    at addMissingNewOperator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149566:18)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:85
+    at ChangeTracker.with (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:165647:11)
+    at Object.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:68)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:48
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+    at Object.getFixes (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:12)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140310:35
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isCallExpression'.
+    at cast (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:1170:18)
+    at addMissingNewOperator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149566:18)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:85
+    at ChangeTracker.with (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:165647:11)
+    at Object.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:68)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:48
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+    at Object.getFixes (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:12)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140310:35
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+SnapshotManager File Statistics:
+Project files: 34
+Svelte files: 13
+From node_modules: 327
+Total: 361
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isCallExpression'.
+    at cast (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:1170:18)
+    at addMissingNewOperator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149566:18)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:85
+    at ChangeTracker.with (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:165647:11)
+    at Object.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:68)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:48
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+    at Object.getFixes (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:12)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140310:35
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isCallExpression'.
+    at cast (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:1170:18)
+    at addMissingNewOperator (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149566:18)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:85
+    at ChangeTracker.with (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:165647:11)
+    at Object.getCodeActions (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:149590:68)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:48
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+    at Object.getFixes (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:143647:12)
+    at /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:140310:35
+    at flatMap (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:303:19)
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:9: ERROR: Expected ":" but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found ","\n' +
+    '6  |  \tlet obj1: IJob = {\n' +
+    "7  |  \t\t_id: new ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    "8  |  \t\t'Test1',\n" +
+    '   |           ^\n' +
+    '9  |  \t\tJobState.CONFIRMED,\n' +
+    '10 |  \t\tnew Date(),\n',
+  loc: {
+    column: 9,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 8,
+    lineText: "\t\t'Test1',",
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:9:10: ERROR: Expected "}" but found "."
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "}" but found "."'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "}" but found "."\n' +
+    "7  |  \t\t_id: new ObjectId('64f48966c9e7a04375b0ee6b'),\n" +
+    "8  |  \t\tname: 'Test1',\n" +
+    '9  |  \t\tJobState.CONFIRMED,\n' +
+    '   |            ^\n' +
+    '10 |  \t\tnew Date(),\n' +
+    '11 |  \t\tnew Date(),\n',
+  loc: {
+    column: 10,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 9,
+    lineText: '\t\tJobState.CONFIRMED,',
+    namespace: '',
+    suggestion: '}'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:10:6: ERROR: Expected ":" but found "Date"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "Date"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "Date"\n' +
+    "8  |  \t\tname: 'Test1',\n" +
+    '9  |  \t\tstate: JobState.CONFIRMED,\n' +
+    '10 |  \t\tnew Date(),\n' +
+    '   |        ^\n' +
+    '11 |  \t\tnew Date(),\n' +
+    '12 |  \t\tJobType.SELF_PICKUP\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 10,
+    lineText: '\t\tnew Date(),',
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:11:6: ERROR: Expected ":" but found "Date"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ":" but found "Date"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ":" but found "Date"\n' +
+    '9  |  \t\tstate: JobState.CONFIRMED,\n' +
+    '10 |  \t\tstart: new Date(),\n' +
+    '11 |  \t\tnew Date(),\n' +
+    '   |        ^\n' +
+    '12 |  \t\tJobType.SELF_PICKUP\n' +
+    '13 |  \t};\n',
+  loc: {
+    column: 6,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 11,
+    lineText: '\t\tnew Date(),',
+    namespace: '',
+    suggestion: ':'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:12:9: ERROR: Expected "}" but found "."
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "}" but found "."'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "}" but found "."\n' +
+    '10 |  \t\tstart: new Date(),\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\tJobType.SELF_PICKUP\n' +
+    '   |           ^\n' +
+    '13 |  \t};\n' +
+    '14 |  \n',
+  loc: {
+    column: 9,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 12,
+    lineText: '\t\tJobType.SELF_PICKUP',
+    namespace: '',
+    suggestion: '}'
+  },
+  __source: 'Script'
+}
+Reloading ts service at  /home/admin/repos/JobManager/tsconfig.json  due to config updated
+Trying to load configs for /home/admin/repos/JobManager
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 160
+Total: 195
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:22:1: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '20 |  \t\tend: new Date(),\n' +
+    '21 |  \t\ttype: \n' +
+    '22 |  \t};\n' +
+    '   |   ^\n' +
+    '23 |  \n' +
+    "24 |  \tconsole.log('Job created!');\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 22,
+    lineText: '\t};',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:8: ERROR: Unexpected ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ";"\n' +
+    '6  |  \t\t_id: ObjectId;\n' +
+    '7  |  \t\tname: string;\n' +
+    '8  |  \t\ttype: ;\n' +
+    '   |          ^\n' +
+    '9  |  \t\tstate: JobState;\n' +
+    '10 |  \t\tstart: Date;\n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 8,
+    lineText: '\t\ttype: ;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:8:8: ERROR: Unexpected ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ";"\n' +
+    '6  |  \t\t_id: ObjectId;\n' +
+    '7  |  \t\tname: string;\n' +
+    '8  |  \t\ttype: ;\n' +
+    '   |          ^\n' +
+    '9  |  \t\tstate: JobState;\n' +
+    '10 |  \t\tstart: Date;\n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 8,
+    lineText: '\t\ttype: ;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:16:48: ERROR: Unterminated string literal
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unterminated string literal'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unterminated string literal\n' +
+    '14 |  \n' +
+    '15 |  \tlet obj1 = {\n' +
+    `16 |  \t\t_id: new ObjectId("64f48966c9e7a04375b0ee6b'),\n` +
+    '   |                                                  ^\n' +
+    "17 |  \t\tname: 'Test1',\n" +
+    '18 |  \t\tstate: 1,\n',
+  loc: {
+    column: 48,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 16,
+    lineText: `\t\t_id: new ObjectId("64f48966c9e7a04375b0ee6b'),`,
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:14:1: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: \n' +
+    '14 |  \t};\n' +
+    '   |   ^\n' +
+    '15 |  \n' +
+    "16 |  \tconsole.log('Job created!', obj1);\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 14,
+    lineText: '\t};',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:15: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: DBREf[]\n' +
+    '   |                 ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 15,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: DBREf[]',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:15: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: DBRef[]\n' +
+    '   |                 ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 15,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: DBRef[]',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:19: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: new DBRef[]\n' +
+    '   |                     ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 19,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: new DBRef[]',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:19: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: new DBRef[]\n' +
+    '   |                     ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 19,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: new DBRef[]',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:9: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: ]\n' +
+    '   |           ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 9,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: ]',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:13:11: ERROR: Expected "}" but found "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "}" but found "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "}" but found "]"\n' +
+    '11 |  \t\tend: new Date(),\n' +
+    '12 |  \t\ttype: 1,\n' +
+    '13 |  \t\titems: []]\n' +
+    '   |             ^\n' +
+    '14 |  \t};\n' +
+    '15 |  \n',
+  loc: {
+    column: 11,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 13,
+    lineText: '\t\titems: []]',
+    namespace: '',
+    suggestion: '}'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:11:16: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '9  |  \t\tstart: new Date(),\n' +
+    '10 |  \t\tend: new Date(),\n' +
+    '11 |  \t\ttype: JobType.,\n' +
+    '   |                  ^\n' +
+    '12 |  \t\titems: []\n' +
+    '13 |  \t};\n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 11,
+    lineText: '\t\ttype: JobType.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:70: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    "21 |  \t\thead: ['Name', 'Start', 'End', 'Type', 'State', 'Items'],\n" +
+    '22 |  \t\t// The data visibly shown in your table body UI.\n' +
+    "23 |  \t\tbody: tableMapperValues(sourceData, ['name', 'start', 'end', 'type'., 'state', 'items']),\n" +
+    '   |                                                                        ^\n' +
+    '24 |  \t\t// Optional: The data returned when interactive is enabled and a row is clicked.\n' +
+    "25 |  \t\tmeta: tableMapperValues(sourceData, ['_id', 'name', 'start', 'end', 'type', 'state', 'items'])\n",
+  loc: {
+    column: 70,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 23,
+    lineText: "\t\tbody: tableMapperValues(sourceData, ['name', 'start', 'end', 'type'., 'state', 'items']),",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:11:28: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '9  |  \t\tstart: new Date(),\n' +
+    '10 |  \t\tend: new Date(),\n' +
+    '11 |  \t\ttype: JobType.SELF_PICKUP.,\n' +
+    '   |                              ^\n' +
+    '12 |  \t\titems: []\n' +
+    '13 |  \t};\n',
+  loc: {
+    column: 28,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 11,
+    lineText: '\t\ttype: JobType.SELF_PICKUP.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:11:28: ERROR: Expected identifier but found "("
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "("'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "("\n' +
+    '9  |  \t\tstart: new Date(),\n' +
+    '10 |  \t\tend: new Date(),\n' +
+    '11 |  \t\ttype: JobType.SELF_PICKUP.(),\n' +
+    '   |                              ^\n' +
+    '12 |  \t\titems: []\n' +
+    '13 |  \t};\n',
+  loc: {
+    column: 28,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 11,
+    lineText: '\t\ttype: JobType.SELF_PICKUP.(),',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:11:18: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '9  |  \t\tend: new Date(),\n' +
+    '10 |  \t\ttype: JobType.SELF_PICKUP,\n' +
+    '11 |  \t\tstate: JobState.,\n' +
+    '   |                    ^\n' +
+    '12 |  \t\titems: []\n' +
+    '13 |  \t};\n',
+  loc: {
+    column: 18,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 11,
+    lineText: '\t\tstate: JobState.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:14:5: ERROR: The symbol "obj1" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "obj1" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "obj1" has already been declared\n' +
+    '12 |  \t\titems: []\n' +
+    '13 |  \t};\n' +
+    '14 |  \tlet obj1 = {\n' +
+    '   |       ^\n' +
+    "15 |  \t\t_id: '1',\n" +
+    "16 |  \t\tname: 'Test1',\n",
+  loc: {
+    column: 5,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 14,
+    lineText: '\tlet obj1 = {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:19:16: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '17 |  \t\tstart: new Date(),\n' +
+    '18 |  \t\tend: new Date(),\n' +
+    '19 |  \t\ttype: JobType.,\n' +
+    '   |                  ^\n' +
+    '20 |  \t\tstate: JobState.CONFIRMED,\n' +
+    '21 |  \t\titems: []\n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 19,
+    lineText: '\t\ttype: JobType.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:20:18: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '18 |  \t\tend: new Date(),\n' +
+    '19 |  \t\ttype: JobType.FULL_SERVICE,\n' +
+    '20 |  \t\tstate: JobState.,\n' +
+    '   |                    ^\n' +
+    '21 |  \t\titems: []\n' +
+    '22 |  \t};\n',
+  loc: {
+    column: 18,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 20,
+    lineText: '\t\tstate: JobState.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:5: ERROR: The symbol "obj2" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "obj2" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "obj2" has already been declared\n' +
+    '21 |  \t\titems: []\n' +
+    '22 |  \t};\n' +
+    '23 |  \tlet obj2 = {\n' +
+    '   |       ^\n' +
+    "24 |  \t\t_id: '2',\n" +
+    "25 |  \t\tname: 'Test2',\n",
+  loc: {
+    column: 5,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 23,
+    lineText: '\tlet obj2 = {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:5: ERROR: The symbol "obj2" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "obj2" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "obj2" has already been declared\n' +
+    '21 |  \t\titems: []\n' +
+    '22 |  \t};\n' +
+    '23 |  \tlet obj2 = {\n' +
+    '   |       ^\n' +
+    "24 |  \t\t_id: '2',\n" +
+    "25 |  \t\tname: 'Test2',\n",
+  loc: {
+    column: 5,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 23,
+    lineText: '\tlet obj2 = {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:28:16: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '26 |  \t\tstart: new Date(),\n' +
+    '27 |  \t\tend: new Date(),\n' +
+    '28 |  \t\ttype: JobType.,\n' +
+    '   |                  ^\n' +
+    '29 |  \t\tstate: JobState.OFFER,\n' +
+    '30 |  \t\titems: []\n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 28,
+    lineText: '\t\ttype: JobType.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:29:18: ERROR: Expected identifier but found ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ","\n' +
+    '27 |  \t\tend: new Date(),\n' +
+    '28 |  \t\ttype: JobType.DELIVERY,\n' +
+    '29 |  \t\tstate: JobState.,\n' +
+    '   |                    ^\n' +
+    '30 |  \t\titems: []\n' +
+    '31 |  \t};\n',
+  loc: {
+    column: 18,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 29,
+    lineText: '\t\tstate: JobState.,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:29:28: ERROR: Syntax error ","
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Syntax error ","'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Syntax error ","\n' +
+    '27 |  \t\tend: new Date(),\n' +
+    '28 |  \t\ttype: JobType.DELIVERY,\n' +
+    '29 |  \t\tstate: JobState.COMPLETED#,\n' +
+    '   |                              ^\n' +
+    '30 |  \t\titems: []\n' +
+    '31 |  \t};\n',
+  loc: {
+    column: 28,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 29,
+    lineText: '\t\tstate: JobState.COMPLETED#,',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:0: ERROR: Expected "(" but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "(" but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "(" but found end of file\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selec\n' +
+    '   |                  ^\n' +
+    '49 |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 49,
+    lineText: '',
+    namespace: '',
+    suggestion: '('
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: Selec) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: Select) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: S) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: Event) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:40: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.selected.);\n" +
+    '   |                                          ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 40,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.selected.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:40: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.selected.);\n" +
+    '   |                                          ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 40,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.selected.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:47: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.selected.detail[]);\n" +
+    '   |                                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 47,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.selected.detail[]);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:48:33: ERROR: Unexpected ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected ")"\n' +
+    "46 |  \tconsole.log('Test');\n" +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta: ) {\n' +
+    '   |                                   ^\n' +
+    "49 |  \t\tconsole.log('Select: ', meta);\n" +
+    '50 |  \t}\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 48,
+    lineText: '\tfunction selectionHandler(meta: ) {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:49:31: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '47 |  \n' +
+    '48 |  \tfunction selectionHandler(meta) {\n' +
+    "49 |  \t\tconsole.log('Select: ', meta[]);\n" +
+    '   |                                 ^\n' +
+    '50 |  \t}\n' +
+    '51 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 49,
+    lineText: "\t\tconsole.log('Select: ', meta[]);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:47:31: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '45 |  \n' +
+    '46 |  \tfunction selectionHandler(meta) {\n' +
+    "47 |  \t\tconsole.log('Select: ', meta.);\n" +
+    '   |                                 ^\n' +
+    '48 |  \t}\n' +
+    '49 |  \n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 47,
+    lineText: "\t\tconsole.log('Select: ', meta.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:47:38: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '45 |  \n' +
+    '46 |  \tfunction selectionHandler(meta) {\n' +
+    "47 |  \t\tconsole.log('Select: ', meta.detail.);\n" +
+    '   |                                        ^\n' +
+    '48 |  \t}\n' +
+    '49 |  \n',
+  loc: {
+    column: 38,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 47,
+    lineText: "\t\tconsole.log('Select: ', meta.detail.);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:47:38: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '45 |  \n' +
+    '46 |  \tfunction selectionHandler(meta) {\n' +
+    "47 |  \t\tconsole.log('Select: ', meta.detail[]);\n" +
+    '   |                                        ^\n' +
+    '48 |  \t}\n' +
+    '49 |  \n',
+  loc: {
+    column: 38,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 47,
+    lineText: "\t\tconsole.log('Select: ', meta.detail[]);",
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:47:8: ERROR: The constant "selected" must be initialized
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'The constant "selected" must be initialized'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The constant "selected" must be initialized\n' +
+    '45 |  \n' +
+    '46 |  \tfunction selectionHandler(meta) {\n' +
+    '47 |  \t\tconst selected\n' +
+    '   |          ^\n' +
+    "48 |  \t\tconsole.log('Select: ', meta.detail[0]);\n" +
+    '49 |  \t}\n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 8,
+    line: 47,
+    lineText: '\t\tconst selected',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:50:1: ERROR: Expected identifier but found "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found "}"\n' +
+    '48 |  \n' +
+    '49 |  \t\tselectedItem.\n' +
+    '50 |  \t}\n' +
+    '   |   ^\n' +
+    '51 |  \n',
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 50,
+    lineText: '\t}',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:32:33: ERROR: Expected ")" but found "\"abcd\""
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ")" but found "\\"abcd\\""'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ")" but found "\\"abcd\\""\n' +
+    '30 |  \t\tstate: JobState.COMPLETED,\n' +
+    '31 |  \t\titems: [\n' +
+    '32 |  \t\t\tnew DBRef("inventory", new Obj"abcd", "jobmanager"),\n' +
+    '   |                                   ^\n' +
+    '33 |  \t\t\tnew DBRef("inventory", "abcd", "jobmanager"),\n' +
+    '34 |  \t\t\tnew DBRef("inventory", "abcd", "jobmanager")\n',
+  loc: {
+    column: 33,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 6,
+    line: 32,
+    lineText: '\t\t\tnew DBRef("inventory", new Obj"abcd", "jobmanager"),',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:35:2: ERROR: Expected ")" but found "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ")" but found "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ")" but found "]"\n' +
+    '33 |  \t\t\tnew DBRef("inventory", "abcd", "jobmanager"),\n' +
+    '34 |  \t\t\tnew DBRef("inventory", "abcd", "jobmanager")\n' +
+    '35 |  \t\t]\n' +
+    '   |    ^\n' +
+    '36 |  \t};\n' +
+    '37 |  \n',
+  loc: {
+    column: 2,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 35,
+    lineText: '\t\t]',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+Initialize new ts service at  
+Trying to load configs for /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+SnapshotManager File Statistics:
+Project files: 35
+Svelte files: 13
+From node_modules: 327
+Total: 362
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:39:1: ERROR: Unexpected "const"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "const"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "const"\n' +
+    '37 |  \tconst sourceData = \n' +
+    '38 |  \n' +
+    '39 |  \tconst tableSimple: TableSource = {\n' +
+    '   |   ^\n' +
+    '40 |  \t\t// A list of heading labels.\n' +
+    "41 |  \t\thead: ['Name', 'Type', 'State', 'Start', 'End', 'Items'],\n",
+  loc: {
+    column: 1,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 5,
+    line: 39,
+    lineText: '\tconst tableSimple: TableSource = {',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:37:25: ERROR: Expected identifier but found ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ";"\n' +
+    '35 |  \n' +
+    '36 |  \t/* const sourceData = [obj1, obj2, obj3]; */\n' +
+    '37 |  \tconst sourceData = data.;\n' +
+    '   |                           ^\n' +
+    '38 |  \n' +
+    '39 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 25,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 37,
+    lineText: '\tconst sourceData = data.;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:37:31: ERROR: Expected identifier but found ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ";"\n' +
+    '35 |  \n' +
+    '36 |  \t/* const sourceData = [obj1, obj2, obj3]; */\n' +
+    '37 |  \tconst sourceData = data?.jobs.;\n' +
+    '   |                                 ^\n' +
+    '38 |  \n' +
+    '39 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 31,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 37,
+    lineText: '\tconst sourceData = data?.jobs.;',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:37:41: ERROR: Expected ")" but found ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ")" but found ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ")" but found ";"\n' +
+    '35 |  \n' +
+    '36 |  \t/* const sourceData = [obj1, obj2, obj3]; */\n' +
+    '37 |  \tconst sourceData = JSON.parse(data?.jobs;\n' +
+    '   |                                           ^\n' +
+    '38 |  \n' +
+    '39 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 41,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 37,
+    lineText: '\tconst sourceData = JSON.parse(data?.jobs;',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:37:41: ERROR: Expected ")" but found ";"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ")" but found ";"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ")" but found ";"\n' +
+    '35 |  \n' +
+    '36 |  \t/* const sourceData = [obj1, obj2, obj3]; */\n' +
+    '37 |  \tconst sourceData = JSON.parse(data?.jobs;\n' +
+    '   |                                           ^\n' +
+    '38 |  \n' +
+    '39 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 41,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 37,
+    lineText: '\tconst sourceData = JSON.parse(data?.jobs;',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:39:24: ERROR: Expected identifier but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found ")"\n' +
+    '37 |  \tconst sourceData = data?.jobs;\n' +
+    '38 |  \n' +
+    '39 |  \tconsole.log(sourceData.);\n' +
+    '   |                          ^\n' +
+    '40 |  \n' +
+    '41 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 24,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 39,
+    lineText: '\tconsole.log(sourceData.);',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:39:15: ERROR: Expected ")" but found "sourceData"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected ")" but found "sourceData"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected ")" but found "sourceData"\n' +
+    '37 |  \tconst sourceData = data?.jobs;\n' +
+    '38 |  \n' +
+    '39 |  \tconsole.log(""sourceData);\n' +
+    '   |                 ^\n' +
+    '40 |  \n' +
+    '41 |  \tconst tableSimple: TableSource = {\n',
+  loc: {
+    column: 15,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 10,
+    line: 39,
+    lineText: '\tconsole.log(""sourceData);',
+    namespace: '',
+    suggestion: ')'
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:16: ERROR: Expected "=>" but found ")"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected "=>" but found ")"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected "=>" but found ")"\n' +
+    '21 |  \tfunction selectionHandler(meta) {\n' +
+    '22 |  \t\tconst selectedItem = meta.detail;\n' +
+    '23 |  \t\tconsole.log(());\n' +
+    '   |                  ^\n' +
+    '24 |  \t\t\n' +
+    '25 |  \t}\n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 23,
+    lineText: '\t\tconsole.log(());',
+    namespace: '',
+    suggestion: '=>'
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:35: ERROR: Unexpected "]"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "]"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "]"\n' +
+    '21 |  \tfunction selectionHandler(meta) {\n' +
+    '22 |  \t\tconst selectedItem = meta.detail;\n' +
+    '23 |  \t\tconsole.log((selectedItem.detail[]));\n' +
+    '   |                                     ^\n' +
+    '24 |  \t\t\n' +
+    '25 |  \t}\n',
+  loc: {
+    column: 35,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 23,
+    lineText: '\t\tconsole.log((selectedItem.detail[]));',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:23:8: ERROR: The constant "_id" must be initialized
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'The constant "_id" must be initialized'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The constant "_id" must be initialized\n' +
+    '21 |  \tfunction selectionHandler(meta) {\n' +
+    '22 |  \t\tconst selectedItem = meta.detail;\n' +
+    '23 |  \t\tconst _id \n' +
+    '   |          ^\n' +
+    '24 |  \t}\n' +
+    '25 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 3,
+    line: 23,
+    lineText: '\t\tconst _id ',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:25:8: ERROR: The symbol "name" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "name" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "name" has already been declared\n' +
+    '23 |  \t\tconst _id = selectedItem[0];\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst name = selectedItem[1];\n' +
+    '   |          ^\n' +
+    '26 |  \t}\n' +
+    '27 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 25,
+    lineText: '\t\tconst name = selectedItem[1];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:25:8: ERROR: The symbol "name" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "name" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "name" has already been declared\n' +
+    '23 |  \t\tconst _id = selectedItem[0];\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst name = selectedItem[1];\n' +
+    '   |          ^\n' +
+    '26 |  \t}\n' +
+    '27 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 25,
+    lineText: '\t\tconst name = selectedItem[1];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:25:8: ERROR: The symbol "name" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "name" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "name" has already been declared\n' +
+    '23 |  \t\tconst _id = selectedItem[0];\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst name = selectedItem[1];\n' +
+    '   |          ^\n' +
+    '26 |  \t}\n' +
+    '27 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 25,
+    lineText: '\t\tconst name = selectedItem[1];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:25:8: ERROR: The symbol "name" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "name" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "name" has already been declared\n' +
+    '23 |  \t\tconst _id = selectedItem[0];\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst name = selectedItem[1];\n' +
+    '   |          ^\n' +
+    '26 |  \t}\n' +
+    '27 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 25,
+    lineText: '\t\tconst name = selectedItem[1];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:26:8: ERROR: The symbol "type" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "type" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "type" has already been declared\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst type = selectedItem[2];\n' +
+    '26 |  \t\tconst type = selectedItem[2];\n' +
+    '   |          ^\n' +
+    '27 |  \t}\n' +
+    '28 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 26,
+    lineText: '\t\tconst type = selectedItem[2];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:26:8: ERROR: The symbol "type" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "type" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "type" has already been declared\n' +
+    '24 |  \t\tconst name = selectedItem[1];\n' +
+    '25 |  \t\tconst type = selectedItem[2];\n' +
+    '26 |  \t\tconst type = selectedItem[3];\n' +
+    '   |          ^\n' +
+    '27 |  \t}\n' +
+    '28 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 4,
+    line: 26,
+    lineText: '\t\tconst type = selectedItem[3];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:27:8: ERROR: The symbol "state" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "state" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "state" has already been declared\n' +
+    '25 |  \t\tconst type = selectedItem[2];\n' +
+    '26 |  \t\tconst state = selectedItem[3];\n' +
+    '27 |  \t\tconst state = selectedItem[3];\n' +
+    '   |          ^\n' +
+    '28 |  \t}\n' +
+    '29 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 5,
+    line: 27,
+    lineText: '\t\tconst state = selectedItem[3];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:28:8: ERROR: The symbol "start" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "start" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "start" has already been declared\n' +
+    '26 |  \t\tconst state = selectedItem[3];\n' +
+    '27 |  \t\tconst start = selectedItem[3];\n' +
+    '28 |  \t\tconst start = selectedItem[3];\n' +
+    '   |          ^\n' +
+    '29 |  \t}\n' +
+    '30 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 5,
+    line: 28,
+    lineText: '\t\tconst start = selectedItem[3];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:29:8: ERROR: The symbol "end" has already been declared
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [Array],
+      pluginName: '',
+      text: 'The symbol "end" has already been declared'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'The symbol "end" has already been declared\n' +
+    '27 |  \t\tconst start = selectedItem[3];\n' +
+    '28 |  \t\tconst end = selectedItem[3];\n' +
+    '29 |  \t\tconst end = selectedItem[3];\n' +
+    '   |          ^\n' +
+    '30 |  \t}\n' +
+    '31 |  \n',
+  loc: {
+    column: 8,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 3,
+    line: 29,
+    lineText: '\t\tconst end = selectedItem[3];',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:31:7: ERROR: Unexpected newline after "throw"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected newline after "throw"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected newline after "throw"\n' +
+    '29 |  \t\tconst items = selectedItem[6];\n' +
+    '30 |  \n' +
+    '31 |  \t\tthrow\n' +
+    '   |         ^\n' +
+    '32 |  \t}\n' +
+    '33 |  \n',
+  loc: {
+    column: 7,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 0,
+    line: 31,
+    lineText: '\t\tthrow',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+SnapshotManager File Statistics:
+Project files: 36
+Svelte files: 13
+From node_modules: 327
+Total: 363
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte:32:16: ERROR: Unexpected "}"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "}"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "}"\n' +
+    '30 |  \t\tconst items = selectedItem[6];\n' +
+    '31 |  \n' +
+    '32 |  \t\tgoto(`/jobs/${}`);\n' +
+    '   |                  ^\n' +
+    '33 |  \t}\n' +
+    '34 |  \n',
+  loc: {
+    column: 16,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/+page.svelte',
+    length: 1,
+    line: 32,
+    lineText: '\t\tgoto(`/jobs/${}`);',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+TypeError: Cannot read properties of undefined (reading 'getProjectVersion')
+    at synchronizeHostData (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139727:16)
+    at Object.getSyntacticDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/typescript/lib/typescript.js:139964:7)
+    at DiagnosticsProviderImpl.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/typescript/features/DiagnosticsProvider.js:58:21)
+    at async PluginHost.tryExecutePlugin (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:342:20)
+    at async Promise.all (index 2)
+    at async PluginHost.execute (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:319:24)
+    at async PluginHost.getDiagnostics (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/plugins/PluginHost.js:47:38)
+    at async DiagnosticsManager.update (/home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.0/node_modules/svelte-language-server/dist/src/lib/DiagnosticsManager.js:26:29)
+SnapshotManager File Statistics:
+Project files: 38
+Svelte files: 14
+From node_modules: 327
+Total: 366
+SnapshotManager File Statistics:
+Project files: 38
+Svelte files: 14
+From node_modules: 327
+Total: 367
+SnapshotManager File Statistics:
+Project files: 38
+Svelte files: 14
+From node_modules: 327
+Total: 367
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte:5:0: ERROR: Unexpected end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected end of file\n' +
+    '2  |  \n' +
+    '3  |  \n' +
+    '4  |      export \n' +
+    '   |              ^\n' +
+    '5  |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte',
+    length: 0,
+    line: 5,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte:4:11: ERROR: Unexpected "l"
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected "l"'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected "l"\n' +
+    '2  |  \n' +
+    '3  |  \n' +
+    '4  |      export l\n' +
+    '   |             ^\n' +
+    '5  |  \n',
+  loc: {
+    column: 11,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte',
+    length: 1,
+    line: 4,
+    lineText: '    export l',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte:5:0: ERROR: Expected identifier but found end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Expected identifier but found end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Expected identifier but found end of file\n' +
+    '2  |  \texport let data;\n' +
+    '3  |  \n' +
+    '4  |      const \n' +
+    '   |             ^\n' +
+    '5  |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte',
+    length: 0,
+    line: 5,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}
+Preprocessing failed
+Error: Transform failed with 1 error:
+/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte:5:0: ERROR: Unexpected end of file
+    at failureErrorWithLog (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:1649:15)
+    at /home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:847:29
+    at responseCallbacks.<computed> (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:703:9)
+    at handleIncomingPacket (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:762:9)
+    at Socket.readFromStdout (/home/admin/repos/JobManager/node_modules/esbuild/lib/main.js:679:7)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23) {
+  errors: [
+    {
+      detail: undefined,
+      id: '',
+      location: [Object],
+      notes: [],
+      pluginName: '',
+      text: 'Unexpected end of file'
+    }
+  ],
+  warnings: [],
+  frame: '\n' +
+    'Unexpected end of file\n' +
+    '2  |  \texport let data;\n' +
+    '3  |  \n' +
+    '4  |      const _id = \n' +
+    '   |                   ^\n' +
+    '5  |  \n' +
+    '   |  ^\n',
+  loc: {
+    column: 0,
+    file: '/home/admin/repos/JobManager/src/routes/(app)/jobs/[id]/+page.svelte',
+    length: 0,
+    line: 5,
+    lineText: '',
+    namespace: '',
+    suggestion: ''
+  },
+  __source: 'Script'
+}

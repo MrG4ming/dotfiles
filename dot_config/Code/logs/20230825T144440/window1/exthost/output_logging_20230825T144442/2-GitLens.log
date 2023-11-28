@@ -1,0 +1,2 @@
+[2023-08-26 09:58:00.108] Function.e
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/repos/JobManager/src/lib/Navbar.svelte'

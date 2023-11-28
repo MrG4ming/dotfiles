@@ -1,0 +1,56 @@
+2023-09-04 19:55:14.908 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-09-04 19:55:15.446 [info] Looking for git repository
+2023-09-04 19:55:15.446 [info] Found 0 repositories during activation
+2023-09-04 19:55:15.446 [info] Git repository found, initializing review manager and pr tree view.
+2023-09-04 19:55:15.448 [info] Registering git provider
+2023-09-04 19:55:15.448 [info] Review> Validate state in progress
+2023-09-04 19:55:15.448 [info] Review> Validating state...
+2023-09-04 19:55:15.512 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-04 19:55:16.565 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-09-04 19:55:16.565 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-09-04 19:55:16.567 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-04 19:55:16.567 [info] Review> no matching pull request metadata found for current branch main
+2023-09-04 19:55:17.014 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-04 20:48:23.271 [info] Review> Validate state in progress
+2023-09-04 20:48:23.271 [info] Review> Validating state...
+2023-09-04 20:48:23.328 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-04 20:48:23.479 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-04 20:48:23.479 [info] Review> no matching pull request metadata found for current branch main
+2023-09-04 20:48:23.743 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-04 20:49:00.336 [info] Review> Validate state in progress
+2023-09-04 20:49:00.336 [info] Review> Validating state...
+2023-09-04 20:49:00.370 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-04 20:49:00.476 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-04 20:49:00.476 [info] Review> no matching pull request metadata found for current branch main
+2023-09-04 20:49:00.753 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-04 22:20:37.428 [info] Review> Validate state in progress
+2023-09-04 22:20:37.428 [info] Review> Validating state...
+2023-09-04 22:20:37.484 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-04 22:20:37.555 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-04 22:20:37.555 [info] Review> no matching pull request metadata found for current branch main
+2023-09-04 22:20:37.869 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-05 15:37:57.387 [info] Review> Validate state in progress
+2023-09-05 15:37:57.387 [info] Review> Validating state...
+2023-09-05 15:37:57.448 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-05 15:37:57.525 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-05 15:37:57.525 [info] Review> no matching pull request metadata found for current branch main
+2023-09-05 15:37:57.850 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-05 16:40:04.788 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-09-05 16:40:05.679 [info] Looking for git repository
+2023-09-05 16:40:05.679 [info] Found 0 repositories during activation
+2023-09-05 16:40:05.679 [info] Git repository found, initializing review manager and pr tree view.
+2023-09-05 16:40:05.697 [info] Registering git provider
+2023-09-05 16:40:05.697 [info] Review> Validate state in progress
+2023-09-05 16:40:05.697 [info] Review> Validating state...
+2023-09-05 16:40:05.764 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-05 16:40:06.472 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-09-05 16:40:06.472 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-09-05 16:40:06.474 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-05 16:40:06.475 [info] Review> no matching pull request metadata found for current branch main
+2023-09-05 16:40:06.894 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-09-07 16:51:17.818 [info] Review> Validate state in progress
+2023-09-07 16:51:17.818 [info] Review> Validating state...
+2023-09-07 16:51:17.870 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-09-07 16:51:17.917 [info] Review> No matching pull request metadata found locally for current branch main
+2023-09-07 16:51:17.917 [info] Review> no matching pull request metadata found for current branch main
+2023-09-07 16:51:18.281 [info] Review> No matching pull request metadata found on GitHub for current branch main

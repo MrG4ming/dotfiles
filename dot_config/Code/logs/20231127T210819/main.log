@@ -1,0 +1,5 @@
+2023-11-27 21:08:20.092 [info] update#setState idle
+2023-11-27 21:08:50.094 [info] update#setState checking for updates
+2023-11-27 21:08:50.145 [info] update#setState idle
+2023-11-27 21:11:26.375 [info] Extension host with pid 135699 exited with code: 0, signal: unknown.
+2023-11-27 21:11:26.376 [error] ptyHost terminated unexpectedly with code 0

@@ -1,0 +1,6 @@
+2023/09/04-15:42:28.392 632 Creating DB /home/admin/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2023/09/04-15:42:28.394 632 Reusing MANIFEST /home/admin/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-15:43:13.395 633 Level-0 table #5: started
+2023/09/04-15:43:13.396 633 Level-0 table #5: 2839 bytes OK
+2023/09/04-15:43:13.396 633 Delete type=0 #3
+2023/09/04-15:43:13.396 633 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

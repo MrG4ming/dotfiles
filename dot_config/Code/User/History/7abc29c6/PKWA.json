@@ -1,0 +1,8 @@
+{
+    "git.autofetch": true,
+    "editor.fontFamily": "'Hack'",
+    "terminal.integrated.fontFamily": "monospace",
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ]
+}

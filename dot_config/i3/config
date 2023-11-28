@@ -59,11 +59,14 @@ bindsym $mod+Return exec i3-sensible-terminal
 # kill focused window
 bindsym $mod+Shift+q kill
 
-# start dmenu (a program launcher)
+# start greenclip (clipboard manager) and dmenu/rofi (a program launcher)
+exec --no-startup-id greenclip daemon>/dev/null
+
 #bindsym $mod+d exec --no-startup-id dmenu_run
 bindsym $mod+d exec --no-startup-id rofi -show
 #bindsym $mod+p exec --no-startup-id "ulauncher-toggle && xdotool sleep 0.1 type 'c '"
 bindsym $mod+p exec --no-startup-id rofi -show clip
+
 
 
 
@@ -196,6 +199,33 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3status
-}
+#bar {
+#        status_command i3status
+#}
+
+#bar {
+#  font pango:MesloLGM Nerd Font Bold 13
+#  position top
+#  tray_output primary
+#  status_command bumblebee-status -m shell indicator memory disk load cpu2 datetime \
+#      -p interval="0.5" \
+#      -p cpu2.interval="1" \
+#      -p cpu2.layout="cpu2.coresload" \
+#      -p memory.format='{percent:05.02f}%' \
+#      -p disk.format='{left}' \
+#      -p disk.open='' \
+#      -p shell.command="ps axf | grep '[g]reenclip daemon' | grep -o T &> /dev/null && echo '󱘝' || echo '󰅌'" \
+#      -p indicator.include="NumLock" \
+#      -p datetime.format="%a %d.%m %H:%M" \
+#      -t dracula-powerline
+#  i3bar_command  i3bar -t
+#  colors {                                                                                                                              
+#          background #353535FF
+#          statusline #FFFFFF
+#  }
+#}
+
+
+
+
+

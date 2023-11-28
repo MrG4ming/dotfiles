@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/admin/repos/Kuchentag-Web","configPath":"/home/admin/repos/Kuchentag-Web/tailwind.config.ts","isUserConfigured":false,"documentSelector":[{"pattern":"/home/admin/repos/Kuchentag-Web/tailwind.config.ts","priority":0},{"pattern":"/home/admin/repos/Kuchentag-Web/**","priority":3}]}]
+[Global] Adding watch patterns: /home/admin/repos/Kuchentag-Web/tailwind.config.ts, /home/admin/repos/Kuchentag-Web
+[tailwind.config.ts] Initializing...
+[tailwind.config.ts] Loaded Tailwind CSS config file: /home/admin/repos/Kuchentag-Web/tailwind.config.ts
+[tailwind.config.ts] Loaded postcss v8.4.31: /home/admin/repos/Kuchentag-Web/node_modules/postcss
+[tailwind.config.ts] Loaded tailwindcss v3.3.5: /home/admin/repos/Kuchentag-Web/node_modules/tailwindcss
+[tailwind.config.ts] Building...

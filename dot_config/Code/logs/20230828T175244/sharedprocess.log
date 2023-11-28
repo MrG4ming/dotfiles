@@ -1,0 +1,21 @@
+2023-08-28 17:52:47.175 [info] Deleted uninstalled extension from disk ms-vscode.remote-server /home/admin/.vscode/extensions/ms-vscode.remote-server-1.4.2
+2023-08-28 17:52:47.911 [info] Deleted uninstalled extension from disk ms-vscode.cpptools /home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.3-linux-x64
+2023-08-28 17:52:48.228 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.30
+2023-09-01 15:21:49.079 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-09-01 15:21:49.138 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-09-01 15:21:50.155 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-09-01 15:21:50.310 [info] Extracted extension to file:///home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0: bradlc.vscode-tailwindcss
+2023-09-01 15:21:50.313 [info] Renamed to /home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0
+2023-09-01 15:21:50.315 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-09-01 15:21:50.325 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-09-01 15:21:50.329 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.9.13
+2023-09-01 15:58:59.824 [info] Getting Manifest... mongodb.mongodb-vscode
+2023-09-01 15:58:59.853 [info] Installing extension: mongodb.mongodb-vscode
+2023-09-01 15:59:01.697 [warning] Extension signature verification failed with error 'UnknownError': mongodb.mongodb-vscode
+2023-09-01 15:59:02.159 [info] Extracted extension to file:///home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1: mongodb.mongodb-vscode
+2023-09-01 15:59:02.162 [info] Renamed to /home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1
+2023-09-01 15:59:02.164 [info] Extracting extension completed. mongodb.mongodb-vscode
+2023-09-01 15:59:02.172 [info] Extension installed successfully: mongodb.mongodb-vscode
+2023-09-01 19:38:09.624 [error] [uncaught exception in sharedProcess]: net::ERR_NETWORK_CHANGED: Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)

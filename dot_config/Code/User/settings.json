@@ -1,0 +1,22 @@
+{
+  "git.autofetch": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "settingsSync.ignoredSettings": ["editor.fontFamily"],
+  "editor.fontFamily": "'Hack', monospace",
+  "svelte.enable-ts-plugin": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+"[svelte]": {},
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#303030",
+    "statusBarItem.remoteBackground": "#303030"
+  },
+  "workbench.tree.indent": 12
+}

@@ -1,0 +1,27 @@
+2023-09-01 20:48:19.933 [info] update#setState idle
+2023-09-01 20:48:49.938 [info] update#setState checking for updates
+2023-09-01 20:48:49.972 [info] update#setState idle
+2023-09-01 21:48:49.942 [info] update#setState checking for updates
+2023-09-01 21:48:50.080 [info] update#setState idle
+2023-09-02 14:50:18.885 [info] update#setState checking for updates
+2023-09-02 14:50:18.996 [info] update#setState idle
+2023-09-02 15:50:18.886 [info] update#setState checking for updates
+2023-09-02 15:50:18.988 [info] update#setState idle
+2023-09-02 16:50:18.889 [info] update#setState checking for updates
+2023-09-02 16:50:19.033 [info] update#setState idle
+2023-09-02 17:50:18.890 [info] update#setState checking for updates
+2023-09-02 17:50:18.999 [info] update#setState idle
+2023-09-03 15:07:36.800 [info] update#setState checking for updates
+2023-09-03 15:07:36.910 [info] update#setState idle
+2023-09-03 21:15:42.464 [info] update#setState checking for updates
+2023-09-03 21:15:42.484 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-09-03 21:15:42.486 [info] update#setState idle
+2023-09-04 15:54:35.037 [info] update#setState checking for updates
+2023-09-04 15:54:35.140 [info] update#setState idle
+2023-09-04 16:54:35.038 [info] update#setState checking for updates
+2023-09-04 16:54:35.131 [info] update#setState idle
+2023-09-04 19:22:28.237 [info] update#setState checking for updates
+2023-09-04 19:22:28.363 [info] update#setState idle
+2023-09-04 19:50:53.758 [info] Extension host with pid 2156 exited with code: 0, signal: unknown.

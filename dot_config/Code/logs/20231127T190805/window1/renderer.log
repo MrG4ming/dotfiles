@@ -1,0 +1,5 @@
+2023-11-27 19:08:10.222 [error] [Extension Host] (node:2068) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-11-27 19:08:14.464 [info] [perf] Render performance baseline is 124ms
+2023-11-27 19:08:15.115 [error] getaddrinfo EAI_AGAIN api.segment.io: Error: getaddrinfo EAI_AGAIN api.segment.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)

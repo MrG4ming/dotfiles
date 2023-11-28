@@ -1,0 +1,25 @@
+2023-09-04 19:55:03.437 [info] update#setState idle
+2023-09-04 19:55:33.444 [info] update#setState checking for updates
+2023-09-04 19:55:33.466 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-09-04 19:55:33.467 [info] update#setState idle
+2023-09-04 20:55:33.447 [info] update#setState checking for updates
+2023-09-04 20:55:33.552 [info] update#setState idle
+2023-09-04 21:55:33.450 [info] update#setState checking for updates
+2023-09-04 21:55:33.542 [info] update#setState idle
+2023-09-05 15:34:53.257 [info] update#setState checking for updates
+2023-09-05 15:34:53.426 [info] update#setState idle
+2023-09-05 16:39:56.548 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-09-05 16:39:56.552 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2744]: crashed with code 15 and reason 'killed'
+2023-09-05 16:39:56.764 [info] Extension host with pid 2717 exited with code: 0, signal: unknown.
+2023-10-25 23:21:07.593 [info] update#setState checking for updates
+2023-10-25 23:21:07.719 [info] update#setState available for download
+2023-11-27 19:05:47.044 [error] ptyHost terminated unexpectedly with code 15
+2023-11-27 19:05:47.047 [warning] [UtilityProcess type: ptyHost, pid: 2703]: unable to kill the process
+2023-11-27 19:05:47.076 [error] [UtilityProcess type: shared-process, pid: 2743]: crashed with code 15 and reason 'killed'
+2023-11-27 19:05:47.094 [info] Extension host with pid 126639 exited with code: 15, signal: unknown.
+2023-11-27 19:05:47.095 [error] [UtilityProcess id: 2, type: extensionHost, pid: 126639]: crashed with code 15 and reason 'killed'
+2023-11-27 19:05:47.150 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-11-27 19:05:47.151 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 126640]: crashed with code 15 and reason 'killed'
+2023-11-27 19:05:47.452 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

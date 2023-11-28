@@ -1,0 +1,130 @@
+2023-09-04 19:55:09.512 [error] [Extension Host] (node:2717) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-04 19:55:16.541 [info] [perf] Render performance baseline is 92ms
+2023-09-04 20:02:19.339 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-04 20:13:41.276 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-04 20:20:49.503 [error] [Extension Host] SyntaxError: ':' expected. (7:7)
+   5 |
+   6 | 	let obj1: IJob = {
+>  7 | 		new ObjectId('64f48966c9e7a04375b0ee6b'),
+     | 		    ^
+   8 | 		'Test1',
+   9 | 		JobState.CONFIRMED,
+  10 | 		new Date(),
+    at v (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:1:14741)
+    at _H (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:49:10722)
+    at Object.cH [as parse] (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:49:11028)
+    at Object.parse (/home/admin/repos/JobManager/node_modules/prettier/index.js:7515:23)
+    at textToDoc (/home/admin/repos/JobManager/node_modules/prettier/index.js:8478:39)
+    at /home/admin/repos/JobManager/node_modules/prettier/index.js:8466:99
+    at formatBodyContent (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:146:22)
+    at /home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:70:26
+    at embedTag (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:212:15)
+    at embedType (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:66:9)
+    at embedScript (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:77:9)
+    at Object.embed (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:91:20)
+    at Object.printSubtree (/home/admin/repos/JobManager/node_modules/prettier/index.js:8466:32)
+    at callPluginPrintFunction (/home/admin/repos/JobManager/node_modules/prettier/index.js:8593:32)
+    at mainPrintInternal (/home/admin/repos/JobManager/node_modules/prettier/index.js:8550:22)
+    at mainPrint (/home/admin/repos/JobManager/node_modules/prettier/index.js:8537:18)
+    at AstPath.call (/home/admin/repos/JobManager/node_modules/prettier/index.js:8359:24)
+    at printTopLevelParts (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/print/index.ts:913:33)
+    at Object.print (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/print/index.ts:105:16)
+    at callPluginPrintFunction (/home/admin/repos/JobManager/node_modules/prettier/index.js:8601:26)
+    at mainPrintInternal (/home/admin/repos/JobManager/node_modules/prettier/index.js:8550:22)
+    at mainPrint (/home/admin/repos/JobManager/node_modules/prettier/index.js:8537:18)
+    at printAstToDoc (/home/admin/repos/JobManager/node_modules/prettier/index.js:8529:18)
+    at coreFormat (/home/admin/repos/JobManager/node_modules/prettier/index.js:8837:20)
+    at formatWithCursor2 (/home/admin/repos/JobManager/node_modules/prettier/index.js:9021:18)
+    at /home/admin/repos/JobManager/node_modules/prettier/index.js:38183:12
+    at Object.format (/home/admin/repos/JobManager/node_modules/prettier/index.js:38197:12)
+    at t.PrettierMainThreadInstance.format (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:18023)
+    at t.default.format (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:16114)
+    at t.PrettierEditProvider.provideEdits (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:12672)
+    at U.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:44948)
+2023-09-04 20:40:00.827 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-09-04 20:40:02.675 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-09-04 20:45:38.920 [error] [Extension Host] SyntaxError: Invalid character. (29:28)
+  27 | 		end: new Date(),
+  28 | 		type: JobType.DELIVERY,
+> 29 | 		state: JobState.COMPLETED#,
+     | 		                         ^
+  30 | 		items: []
+  31 | 	};
+  32 |
+    at v (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:1:14741)
+    at _H (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:49:10722)
+    at Object.cH [as parse] (/home/admin/repos/JobManager/node_modules/prettier/parser-typescript.js:49:11028)
+    at Object.parse (/home/admin/repos/JobManager/node_modules/prettier/index.js:7515:23)
+    at textToDoc (/home/admin/repos/JobManager/node_modules/prettier/index.js:8478:39)
+    at /home/admin/repos/JobManager/node_modules/prettier/index.js:8466:99
+    at formatBodyContent (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:146:22)
+    at /home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:70:26
+    at embedTag (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:212:15)
+    at embedType (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:66:9)
+    at embedScript (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:77:9)
+    at Object.embed (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/embed.ts:91:20)
+    at Object.printSubtree (/home/admin/repos/JobManager/node_modules/prettier/index.js:8466:32)
+    at callPluginPrintFunction (/home/admin/repos/JobManager/node_modules/prettier/index.js:8593:32)
+    at mainPrintInternal (/home/admin/repos/JobManager/node_modules/prettier/index.js:8550:22)
+    at mainPrint (/home/admin/repos/JobManager/node_modules/prettier/index.js:8537:18)
+    at AstPath.call (/home/admin/repos/JobManager/node_modules/prettier/index.js:8359:24)
+    at printTopLevelParts (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/print/index.ts:913:33)
+    at Object.print (/home/admin/repos/JobManager/node_modules/prettier-plugin-svelte/src/print/index.ts:105:16)
+    at callPluginPrintFunction (/home/admin/repos/JobManager/node_modules/prettier/index.js:8601:26)
+    at mainPrintInternal (/home/admin/repos/JobManager/node_modules/prettier/index.js:8550:22)
+    at mainPrint (/home/admin/repos/JobManager/node_modules/prettier/index.js:8537:18)
+    at printAstToDoc (/home/admin/repos/JobManager/node_modules/prettier/index.js:8529:18)
+    at coreFormat (/home/admin/repos/JobManager/node_modules/prettier/index.js:8837:20)
+    at formatWithCursor2 (/home/admin/repos/JobManager/node_modules/prettier/index.js:9021:18)
+    at /home/admin/repos/JobManager/node_modules/prettier/index.js:38183:12
+    at Object.format (/home/admin/repos/JobManager/node_modules/prettier/index.js:38197:12)
+    at t.PrettierMainThreadInstance.format (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:18023)
+    at t.default.format (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:16114)
+    at t.PrettierEditProvider.provideEdits (/home/admin/.vscode/extensions/esbenp.prettier-vscode-10.1.0/dist/extension.js:1:12672)
+    at U.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:44948)
+2023-09-04 21:20:57.279 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0/dist/extension.js:1:1247)
+2023-09-05 16:40:01.482 [error] [Extension Host] (node:126639) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-09-05 16:40:06.483 [info] [perf] Render performance baseline is 87ms
+2023-09-07 16:58:50.068 [error] Unable to read file '/home/admin/repos/JobManager/.svelte-kit/types/src/routes/(app)/jobs/$types.d.ts' (Error: File not modified since): Error: Unable to read file '/home/admin/repos/JobManager/.svelte-kit/types/src/routes/(app)/jobs/$types.d.ts' (Error: File not modified since)
+    at o.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16316)
+    at o.v (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16204)
+    at async b.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:36931)
+    at async b.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:36685)
+    at async er.zb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2308:29120)
+    at async er.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2308:27567)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2319:32834
+2023-10-25 23:18:59.602 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:00.382 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processImmediate (node:internal/timers:437:9)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:19:01.682 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)
+2023-10-25 23:21:08.377 [error] Cannot read properties of null (reading 'kind'): TypeError: Cannot read properties of null (reading 'kind')
+    at asHoverContent (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/admin/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at l.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:39865)

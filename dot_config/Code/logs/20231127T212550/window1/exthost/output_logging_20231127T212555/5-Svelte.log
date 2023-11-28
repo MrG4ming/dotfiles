@@ -1,0 +1,10 @@
+Initialize language server at  file:///home/admin/repos/Kuchentag-Web
+Initialize new ts service at  /home/admin/repos/Kuchentag-Web/tsconfig.json
+Trying to load configs for /home/admin/repos/Kuchentag-Web
+Loaded config at  /home/admin/repos/Kuchentag-Web/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 9
+Svelte files: 2
+From node_modules: 0
+Total: 9
+

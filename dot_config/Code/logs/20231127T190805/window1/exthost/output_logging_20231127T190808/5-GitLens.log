@@ -1,0 +1,4 @@
+[2023-11-27 18:08:15.271] ClientRequest.<anonymous>
+FetchError: request to https://github.com/MrG4ming/JobManager failed, reason: getaddrinfo EAI_AGAIN github.com
+[2023-11-27 18:08:15.271] ClientRequest.<anonymous>
+FetchError: request to https://github.com/MrG4ming/JobManager failed, reason: getaddrinfo EAI_AGAIN github.com

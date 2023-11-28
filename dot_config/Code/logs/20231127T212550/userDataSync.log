@@ -1,0 +1,40 @@
+2023-11-27 21:25:55.636 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-11-27 21:25:55.636 [info] Auto Sync is enabled.
+2023-11-27 21:25:55.636 [info] Auto Sync: Suspended until auth token is available.
+2023-11-27 21:25:57.714 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/extensions
+2023-11-27 21:25:58.264 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/globalState
+2023-11-27 21:25:59.368 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/keybindings
+2023-11-27 21:26:00.236 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/profiles
+2023-11-27 21:26:00.423 [info] Auto Sync: Triggered by Interval
+2023-11-27 21:26:00.424 [info] Sync started.
+2023-11-27 21:26:00.564 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-11-27 21:26:00.566 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at l.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:127835)
+    at async l.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:125538)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:101418)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:91293)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:90933)
+2023-11-27 21:26:00.568 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at l.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:127835)
+    at async l.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:125538)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:101418)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:91293)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:90933)
+2023-11-27 21:26:00.598 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/settings
+2023-11-27 21:26:00.874 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/snippets
+2023-11-27 21:26:01.129 [info] Deleting non existing profile from backup /home/admin/.config/Code/User/sync/tasks
+2023-11-27 21:26:49.600 [info] Auto Sync: Triggered by Activity
+2023-11-27 21:26:49.600 [info] Sync started.
+2023-11-27 21:26:49.605 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-11-27 21:26:49.605 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at l.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:127835)
+    at async l.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:125538)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:101418)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:91293)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:90933)
+2023-11-27 21:26:49.605 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at l.D (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:127835)
+    at async l.manifest (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:125538)
+    at async r.createSyncTask (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:101418)
+    at async o.I (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:91293)
+    at async o.H (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:90933)

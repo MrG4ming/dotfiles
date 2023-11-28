@@ -1,0 +1,98 @@
+2023-11-27 21:25:57.069 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.runtime.builtin.basic.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit.
+2023-11-27 21:25:57.070 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit32.
+2023-11-27 21:25:57.071 [warning] [lua]: Couldn't find message for key config.runtime.builtin.builtin.
+2023-11-27 21:25:57.071 [warning] [lua]: Couldn't find message for key config.runtime.builtin.coroutine.
+2023-11-27 21:25:57.071 [warning] [lua]: Couldn't find message for key config.runtime.builtin.debug.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.ffi.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.io.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.profile.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.util.
+2023-11-27 21:25:57.072 [warning] [lua]: Couldn't find message for key config.runtime.builtin.math.
+2023-11-27 21:25:57.076 [warning] [lua]: Couldn't find message for key config.runtime.builtin.os.
+2023-11-27 21:25:57.076 [warning] [lua]: Couldn't find message for key config.runtime.builtin.package.
+2023-11-27 21:25:57.076 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.
+2023-11-27 21:25:57.076 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.buffer.
+2023-11-27 21:25:57.076 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.clear.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.new.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.builtin.utf8.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf8.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.ansi.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16le.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16be.
+2023-11-27 21:25:57.077 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.1.
+2023-11-27 21:25:57.078 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.2.
+2023-11-27 21:25:57.078 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.3.
+2023-11-27 21:25:57.078 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.4.
+2023-11-27 21:25:57.078 [warning] [lua]: Couldn't find message for key config.runtime.version.LuaJIT.
+2023-11-27 21:25:57.295 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:25:57.295 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:25:57.295 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:25:57.296 [warning] [lua]: Couldn't find message for key config.diagnostics.circle-doc-class.
+2023-11-27 21:25:57.296 [warning] [lua]: Couldn't find message for key config.diagnostics.inject-field.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.diagnostics.missing-fields.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.basic.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.bit32.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.builtin.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.coroutine.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.debug.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.ffi.
+2023-11-27 21:25:57.297 [warning] [lua]: Couldn't find message for key config.runtime.builtin.io.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.profile.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.jit.util.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.math.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.os.
+2023-11-27 21:25:57.298 [warning] [lua]: Couldn't find message for key config.runtime.builtin.package.
+2023-11-27 21:25:57.309 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.
+2023-11-27 21:25:57.309 [warning] [lua]: Couldn't find message for key config.runtime.builtin.string.buffer.
+2023-11-27 21:25:57.309 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.clear.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.builtin.table.new.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.builtin.utf8.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf8.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.ansi.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16le.
+2023-11-27 21:25:57.310 [warning] [lua]: Couldn't find message for key config.runtime.fileEncoding.utf16be.
+2023-11-27 21:25:57.311 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.1.
+2023-11-27 21:25:57.311 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.2.
+2023-11-27 21:25:57.311 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.3.
+2023-11-27 21:25:57.311 [warning] [lua]: Couldn't find message for key config.runtime.version.Lua 5.4.
+2023-11-27 21:25:57.311 [warning] [lua]: Couldn't find message for key config.runtime.version.LuaJIT.
+2023-11-27 21:25:58.439 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.0
+2023-11-27 21:25:58.439 [info] Deleted uninstalled extension from disk ms-vscode.live-server /home/admin/.vscode/extensions/ms-vscode.live-server-0.4.9
+2023-11-27 21:25:58.439 [info] Deleted uninstalled extension from disk spgoding.datapack-language-server /home/admin/.vscode/extensions/spgoding.datapack-language-server-3.4.16
+2023-11-27 21:25:58.801 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-wsl /home/admin/.vscode/extensions/ms-vscode-remote.remote-wsl-0.81.0
+2023-11-27 21:25:58.809 [info] Deleted uninstalled extension from disk ms-vscode.remote-server /home/admin/.vscode/extensions/ms-vscode.remote-server-1.4.3
+2023-11-27 21:25:58.809 [info] Deleted uninstalled extension from disk phoenisx.cssvar /home/admin/.vscode/extensions/phoenisx.cssvar-2.6.3
+2023-11-27 21:25:59.241 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/admin/.vscode/extensions/eamodio.gitlens-14.2.1
+2023-11-27 21:25:59.243 [info] Deleted uninstalled extension from disk christian-kohler.path-intellisense /home/admin/.vscode/extensions/christian-kohler.path-intellisense-2.8.4
+2023-11-27 21:25:59.244 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0
+2023-11-27 21:25:59.244 [info] Deleted uninstalled extension from disk christian-kohler.npm-intellisense /home/admin/.vscode/extensions/christian-kohler.npm-intellisense-1.4.4
+2023-11-27 21:25:59.288 [info] Deleted uninstalled extension from disk mongodb.mongodb-vscode /home/admin/.vscode/extensions/mongodb.mongodb-vscode-1.2.1
+2023-11-27 21:25:59.369 [info] Deleted uninstalled extension from disk zhuangtongfa.material-theme /home/admin/.vscode/extensions/zhuangtongfa.material-theme-3.16.0
+2023-11-27 21:25:59.704 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0.-4b462f63.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/github.vscode-pull-request-github-0.70.0.-4b462f63.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-27 21:25:59.864 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-ssh /home/admin/.vscode/extensions/ms-vscode-remote.remote-ssh-0.102.0
+2023-11-27 21:26:00.021 [info] Deleted uninstalled extension from disk ms-vscode.cpptools /home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.5-linux-x64
+2023-11-27 21:26:00.156 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/admin/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0
+2023-11-27 21:26:00.185 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-containers /home/admin/.vscode/extensions/ms-vscode-remote.remote-containers-0.304.0
+2023-11-27 21:26:00.191 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter /home/admin/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64
+2023-11-27 21:26:00.581 [info] Deleted uninstalled extension from disk sumneko.lua /home/admin/.vscode/extensions/sumneko.lua-3.7.0-linux-x64
+2023-11-27 21:26:00.632 [info] Deleted uninstalled extension from disk svelte.svelte-vscode /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.1
+2023-11-27 21:26:00.752 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.50
+2023-11-27 21:26:01.302 [info] Deleted uninstalled extension from disk ms-python.python /home/admin/.vscode/extensions/ms-python.python-2023.14.0

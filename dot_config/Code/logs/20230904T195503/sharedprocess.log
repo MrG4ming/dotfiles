@@ -1,0 +1,39 @@
+2023-09-04 19:55:08.620 [info] Deleted uninstalled extension from disk ms-vscode.cpptools /home/admin/.vscode/extensions/ms-vscode.cpptools-1.17.4-linux-x64
+2023-09-04 19:55:09.549 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.8.40
+2023-09-04 19:55:16.261 [info] Getting Manifest... svelte.svelte-vscode
+2023-09-04 19:55:16.448 [info] Installing extension: svelte.svelte-vscode
+2023-09-04 19:55:20.082 [warning] Extension signature verification failed with error 'UnknownError': svelte.svelte-vscode
+2023-09-04 19:55:24.219 [info] Extracted extension to file:///home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.1: svelte.svelte-vscode
+2023-09-04 19:55:24.223 [info] Renamed to /home/admin/.vscode/extensions/svelte.svelte-vscode-107.10.1
+2023-09-04 19:55:24.224 [info] Extracting extension completed. svelte.svelte-vscode
+2023-09-04 19:55:24.233 [info] Extension installed successfully: svelte.svelte-vscode
+2023-09-04 19:55:24.236 [info] Marked extension as uninstalled svelte.svelte-vscode-107.10.0
+2023-09-05 15:19:46.736 [info] Getting Manifest... meganrogge.template-string-converter
+2023-09-05 15:19:46.744 [info] Installing extension: meganrogge.template-string-converter
+2023-09-05 15:19:47.493 [warning] Extension signature verification failed with error 'UnknownError': meganrogge.template-string-converter
+2023-09-05 15:19:47.517 [info] Extracted extension to file:///home/admin/.vscode/extensions/meganrogge.template-string-converter-0.6.1: meganrogge.template-string-converter
+2023-09-05 15:19:47.519 [info] Renamed to /home/admin/.vscode/extensions/meganrogge.template-string-converter-0.6.1
+2023-09-05 15:19:47.523 [info] Extracting extension completed. meganrogge.template-string-converter
+2023-09-05 15:19:47.530 [info] Extension installed successfully: meganrogge.template-string-converter
+2023-09-05 15:38:02.720 [error] [uncaught exception in sharedProcess]: net::ERR_NETWORK_CHANGED: Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-10-15 21:15:54.688 [info] Getting Manifest... sumneko.lua
+2023-10-15 21:15:54.842 [info] Installing extension: sumneko.lua
+2023-10-15 21:15:54.842 [info] Installing the extension without checking dependencies and pack sumneko.lua
+2023-10-15 21:15:56.075 [warning] Extension signature verification failed with error 'UnknownError': sumneko.lua
+2023-10-15 21:15:58.268 [info] Extracted extension to file:///home/admin/.vscode/extensions/sumneko.lua-3.7.0-linux-x64: sumneko.lua
+2023-10-15 21:15:58.281 [info] Renamed to /home/admin/.vscode/extensions/sumneko.lua-3.7.0-linux-x64
+2023-10-15 21:15:58.291 [info] Extracting extension completed. sumneko.lua
+2023-10-15 21:15:58.305 [info] Extension installed successfully: sumneko.lua
+2023-10-25 23:16:01.971 [info] Getting Manifest... minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:02.097 [info] Installing extension: minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:02.097 [info] Installing the extension without checking dependencies and pack minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:02.909 [warning] Extension signature verification failed with error 'UnknownError': minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:03.007 [info] Extracted extension to file:///home/admin/.vscode/extensions/minecraftcommands.syntax-mcfunction-0.6.0: minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:03.009 [info] Renamed to /home/admin/.vscode/extensions/minecraftcommands.syntax-mcfunction-0.6.0
+2023-10-25 23:16:03.010 [info] Extracting extension completed. minecraftcommands.syntax-mcfunction
+2023-10-25 23:16:03.022 [info] Extension installed successfully: minecraftcommands.syntax-mcfunction
+2023-11-27 19:00:18.754 [error] [uncaught exception in sharedProcess]: net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
