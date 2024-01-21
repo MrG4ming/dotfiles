@@ -12,7 +12,7 @@
 for_window [class=".*"] border pixel 0
 gaps inner 5
 gaps outer 0
-
+gaps top 34
 
 set $mod Mod4
 
@@ -203,29 +203,30 @@ bindsym $mod+r mode "resize"
 #        status_command i3status
 #}
 
-#bar {
-#  font pango:MesloLGM Nerd Font Bold 13
-#  position top
-#  tray_output primary
-#  status_command bumblebee-status -m shell indicator memory disk load cpu2 datetime \
-#      -p interval="0.5" \
-#      -p cpu2.interval="1" \
-#      -p cpu2.layout="cpu2.coresload" \
-#      -p memory.format='{percent:05.02f}%' \
-#      -p disk.format='{left}' \
-#      -p disk.open='' \
-#      -p shell.command="ps axf | grep '[g]reenclip daemon' | grep -o T &> /dev/null && echo '󱘝' || echo '󰅌'" \
-#      -p indicator.include="NumLock" \
-#      -p datetime.format="%a %d.%m %H:%M" \
+bar {
+  font pango:MesloLGM Nerd Font Bold 13
+  position top
+  tray_output primary
+  status_command bumblebee-status -m shell indicator memory disk load cpu2 datetime \
+      -p interval="0.5" \
+      -p cpu2.interval="1" \
+      -p cpu2.layout="cpu2.coresload" \
+      -p memory.format='{percent:05.02f}%' \
+      -p disk.format='{left}' \
+      -p disk.open='' \
+      -p shell.command="ps axf | grep '[g]reenclip daemon' | grep -o T &> /dev/null && echo '󱘝' || echo '󰅌'" \
+      -p indicator.include="NumLock" \
+      -p datetime.format="%a %d.%m %H:%M" \
+#      -t moonlight-powerline
 #      -t dracula-powerline
 #  i3bar_command  i3bar -t
 #  colors {                                                                                                                              
 #          background #353535FF
 #          statusline #FFFFFF
 #  }
-#}
+}
 
 
-
+#exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 
