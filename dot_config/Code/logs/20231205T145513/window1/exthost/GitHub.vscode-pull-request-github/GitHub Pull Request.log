@@ -1,0 +1,21 @@
+2023-12-05 14:55:20.821 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-12-05 14:55:20.821 [info] Activation> Extension version: 0.76.1
+2023-12-05 14:55:22.550 [info] Looking for git repository
+2023-12-05 14:55:22.550 [info] Found 0 repositories during activation
+2023-12-05 14:55:22.550 [info] Git repository found, initializing review manager and pr tree view.
+2023-12-05 14:55:22.552 [info] Registering git provider
+2023-12-05 14:55:22.552 [info] Review> Validate state in progress
+2023-12-05 14:55:22.552 [info] Review> Validating state...
+2023-12-05 14:55:22.655 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2023-12-05 14:55:22.987 [info] Trying to use globalState for assignableUsers.
+2023-12-05 14:55:23.198 [info] Using globalState assignableUsers for 1.
+2023-12-05 14:55:23.339 [info] Repo state for file:///home/admin/repos/Kuchentag-Web changed.
+2023-12-05 14:55:23.339 [info] Repo file:///home/admin/repos/Kuchentag-Web has already been setup.
+2023-12-05 14:55:23.343 [info] Review> No matching pull request metadata found locally for current branch main
+2023-12-05 14:55:23.713 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-12-05 15:13:13.039 [info] Review> Validate state in progress
+2023-12-05 15:13:13.039 [info] Review> Validating state...
+2023-12-05 15:13:13.094 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2023-12-05 15:13:13.096 [info] Using in-memory cached assignable users.
+2023-12-05 15:13:13.170 [info] Review> No matching pull request metadata found locally for current branch main
+2023-12-05 15:13:13.494 [info] Review> No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,3092 @@
+["INFO" - 14:55:19] Extension Name: esbenp.prettier-vscode.
+["INFO" - 14:55:19] Extension Version: 10.1.0.
+["INFO" - 14:55:20] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:55:26] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:55:26] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:55:26] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 2,
+  "version": "3.1.0"
+}
+["INFO" - 14:55:26] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:55:26] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:55:26] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:55:26] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:55:26] Formatting completed in 249ms.
+["INFO" - 14:55:41] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:55:41] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:55:41] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 6,
+  "version": "3.1.0"
+}
+["INFO" - 14:55:41] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:55:41] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:55:41] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:55:41] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:55:41] Formatting completed in 24ms.
+["INFO" - 14:56:24] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:56:24] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:56:24] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 10,
+  "version": "3.1.0"
+}
+["INFO" - 14:56:24] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:56:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:56:24] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:56:24] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:56:24] Formatting completed in 29ms.
+["INFO" - 14:56:32] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:56:32] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:56:32] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 14,
+  "version": "3.1.0"
+}
+["INFO" - 14:56:32] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:56:33] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:56:33] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:56:33] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:56:33] Formatting completed in 18ms.
+["INFO" - 14:57:04] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:57:04] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:57:04] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 18,
+  "version": "3.1.0"
+}
+["INFO" - 14:57:04] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:57:04] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:57:04] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:57:04] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:57:04] Formatting completed in 17ms.
+["INFO" - 14:57:16] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:57:16] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:57:16] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 22,
+  "version": "3.1.0"
+}
+["INFO" - 14:57:16] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:57:16] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:57:16] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:57:16] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:57:16] Formatting completed in 15ms.
+["INFO" - 14:57:29] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 14:57:29] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 14:57:29] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 26,
+  "version": "3.1.0"
+}
+["INFO" - 14:57:29] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 14:57:29] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 14:57:29] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:57:29] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 14:57:29] Formatting completed in 16ms.
+["INFO" - 15:00:06] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:00:06] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:06] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 30,
+  "version": "3.1.0"
+}
+["INFO" - 15:00:06] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:00:06] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:00:06] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:00:06] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:00:06] Formatting completed in 22ms.
+["INFO" - 15:00:27] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:00:27] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:27] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 34,
+  "version": "3.1.0"
+}
+["INFO" - 15:00:27] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:00:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:00:27] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:00:27] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:00:27] Formatting completed in 16ms.
+["INFO" - 15:00:35] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:00:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:35] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 38,
+  "version": "3.1.0"
+}
+["INFO" - 15:00:35] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:00:35] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:00:35] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:00:35] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:00:35] Formatting completed in 17ms.
+["INFO" - 15:00:52] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:00:52] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:52] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 42,
+  "version": "3.1.0"
+}
+["INFO" - 15:00:52] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:00:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:00:52] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:00:52] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:00:52] Formatting completed in 14ms.
+["INFO" - 15:01:00] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:01:00] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:01:00] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 46,
+  "version": "3.1.0"
+}
+["INFO" - 15:01:00] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:01:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:01:00] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:01:00] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:01:00] Formatting completed in 15ms.
+["INFO" - 15:01:14] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:01:14] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:01:14] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 50,
+  "version": "3.1.0"
+}
+["INFO" - 15:01:14] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:01:14] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:01:14] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:01:14] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:01:14] Formatting completed in 16ms.
+["INFO" - 15:01:45] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:01:45] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:01:45] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 54,
+  "version": "3.1.0"
+}
+["INFO" - 15:01:45] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:01:45] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:01:45] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:01:45] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:01:45] Formatting completed in 17ms.
+["INFO" - 15:03:20] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:20] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:20] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 58,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:20] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:20] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:20] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:20] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:20] Formatting completed in 16ms.
+["INFO" - 15:03:22] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:22] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:22] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 62,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:22] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:22] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:22] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:22] Formatting completed in 17ms.
+["INFO" - 15:03:33] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:33] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:33] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 66,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:33] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:33] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:33] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:33] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:33] Formatting completed in 17ms.
+["INFO" - 15:03:42] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:42] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:42] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 70,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:42] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:42] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:42] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:42] Formatting completed in 19ms.
+["INFO" - 15:03:43] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:43] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:43] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 74,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:43] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:43] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:43] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:43] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:43] Formatting completed in 28ms.
+["INFO" - 15:03:45] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:45] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:45] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 78,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:45] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:45] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:45] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:45] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:45] Formatting completed in 12ms.
+["INFO" - 15:03:47] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:03:47] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:03:47] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 82,
+  "version": "3.1.0"
+}
+["INFO" - 15:03:47] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:03:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:03:47] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:03:47] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:03:47] Formatting completed in 15ms.
+["INFO" - 15:04:00] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:00] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:00] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 86,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:00] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:00] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:00] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:00] Formatting completed in 18ms.
+["INFO" - 15:04:31] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:31] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 90,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:31] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:31] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:31] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:31] Formatting completed in 15ms.
+["INFO" - 15:04:34] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:34] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:34] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 94,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:34] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:34] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:34] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:34] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:34] Formatting completed in 16ms.
+["INFO" - 15:04:49] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:49] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:49] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 98,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:49] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:49] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:49] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:49] Formatting completed in 17ms.
+["INFO" - 15:04:52] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:52] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:52] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 102,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:52] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:52] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:52] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:52] Formatting completed in 15ms.
+["INFO" - 15:04:59] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:04:59] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:04:59] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 106,
+  "version": "3.1.0"
+}
+["INFO" - 15:04:59] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:04:59] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:04:59] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:04:59] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:04:59] Formatting completed in 21ms.
+["INFO" - 15:05:00] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:05:00] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:05:00] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 110,
+  "version": "3.1.0"
+}
+["INFO" - 15:05:00] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:05:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:05:00] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:05:00] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:05:00] Formatting completed in 17ms.
+["INFO" - 15:05:02] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:05:02] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:05:02] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 114,
+  "version": "3.1.0"
+}
+["INFO" - 15:05:02] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:05:02] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:05:02] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:05:02] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:05:02] Formatting completed in 15ms.
+["INFO" - 15:05:52] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:05:52] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:05:52] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 118,
+  "version": "3.1.0"
+}
+["INFO" - 15:05:52] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:05:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:05:52] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:05:52] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:05:52] Formatting completed in 18ms.
+["INFO" - 15:06:16] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:06:16] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:06:16] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 122,
+  "version": "3.1.0"
+}
+["INFO" - 15:06:16] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:06:16] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:06:16] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:06:16] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:06:16] Formatting completed in 16ms.
+["INFO" - 15:06:24] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:06:24] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:06:24] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 126,
+  "version": "3.1.0"
+}
+["INFO" - 15:06:24] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:06:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:06:24] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:06:24] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:06:24] Formatting completed in 17ms.
+["INFO" - 15:06:40] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:06:40] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:06:40] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 130,
+  "version": "3.1.0"
+}
+["INFO" - 15:06:40] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:06:40] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:06:40] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:06:40] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:06:40] Formatting completed in 15ms.
+["INFO" - 15:06:49] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:06:49] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:06:49] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 134,
+  "version": "3.1.0"
+}
+["INFO" - 15:06:49] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:06:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:06:49] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:06:49] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:06:49] Formatting completed in 14ms.
+["INFO" - 15:06:57] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:06:57] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:06:57] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 138,
+  "version": "3.1.0"
+}
+["INFO" - 15:06:57] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:06:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:06:57] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:06:57] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:06:57] Formatting completed in 14ms.
+["INFO" - 15:07:18] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:07:18] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:07:18] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 142,
+  "version": "3.1.0"
+}
+["INFO" - 15:07:18] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:07:18] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:07:18] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:18] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:07:18] Formatting completed in 16ms.
+["INFO" - 15:07:35] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:07:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:07:35] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 146,
+  "version": "3.1.0"
+}
+["INFO" - 15:07:35] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:07:35] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:07:35] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:35] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:07:35] Formatting completed in 17ms.
+["INFO" - 15:07:40] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:07:40] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:07:40] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 150,
+  "version": "3.1.0"
+}
+["INFO" - 15:07:40] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:07:40] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:07:40] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:40] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:07:40] Formatting completed in 19ms.
+["INFO" - 15:07:45] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:07:45] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:07:45] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 154,
+  "version": "3.1.0"
+}
+["INFO" - 15:07:45] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:07:45] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:07:45] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:45] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:07:45] Formatting completed in 14ms.
+["INFO" - 15:07:47] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:07:47] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:07:47] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 158,
+  "version": "3.1.0"
+}
+["INFO" - 15:07:47] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:07:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:07:47] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:47] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:07:47] Formatting completed in 10ms.
+["INFO" - 15:08:12] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:08:12] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:08:12] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 162,
+  "version": "3.1.0"
+}
+["INFO" - 15:08:12] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:08:12] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:08:12] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:08:12] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:08:12] Formatting completed in 15ms.
+["INFO" - 15:08:21] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:08:21] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:08:21] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 166,
+  "version": "3.1.0"
+}
+["INFO" - 15:08:21] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:08:21] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:08:21] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:08:21] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:08:21] Formatting completed in 16ms.
+["INFO" - 15:08:31] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:08:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:08:31] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 170,
+  "version": "3.1.0"
+}
+["INFO" - 15:08:31] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:08:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:08:31] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:08:31] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:08:31] Formatting completed in 10ms.
+["INFO" - 15:08:36] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:08:36] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:08:36] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 174,
+  "version": "3.1.0"
+}
+["INFO" - 15:08:36] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:08:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:08:36] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:08:36] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:08:36] Formatting completed in 10ms.
+["INFO" - 15:08:38] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:08:38] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:08:38] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 178,
+  "version": "3.1.0"
+}
+["INFO" - 15:08:38] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:08:38] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:08:38] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:08:38] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:08:38] Formatting completed in 11ms.
+["INFO" - 15:09:11] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:09:11] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:09:11] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 182,
+  "version": "3.1.0"
+}
+["INFO" - 15:09:11] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:09:11] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:09:11] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:09:11] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:09:11] Formatting completed in 15ms.
+["INFO" - 15:10:06] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:10:06] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:10:06] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 186,
+  "version": "3.1.0"
+}
+["INFO" - 15:10:06] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:10:06] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:10:06] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:10:06] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:10:06] Formatting completed in 18ms.
+["INFO" - 15:11:34] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:11:34] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:11:34] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 190,
+  "version": "3.1.0"
+}
+["INFO" - 15:11:34] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:11:34] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:11:34] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:11:34] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:11:34] Formatting completed in 16ms.
+["INFO" - 15:11:39] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:11:39] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:11:39] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 194,
+  "version": "3.1.0"
+}
+["INFO" - 15:11:39] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:11:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:11:39] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:11:39] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:11:39] Formatting completed in 12ms.
+["INFO" - 15:11:43] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:11:43] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:11:43] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 198,
+  "version": "3.1.0"
+}
+["INFO" - 15:11:43] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:11:43] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:11:43] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:11:43] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:11:43] Formatting completed in 16ms.
+["INFO" - 15:11:47] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:11:47] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:11:47] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 202,
+  "version": "3.1.0"
+}
+["INFO" - 15:11:47] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:11:47] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:11:47] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:11:47] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:11:47] Formatting completed in 14ms.
+["INFO" - 15:12:48] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte
+["INFO" - 15:12:48] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:12:48] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 206,
+  "version": "3.1.0"
+}
+["INFO" - 15:12:48] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:12:48] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 15:12:48] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:12:48] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:12:48] Formatting completed in 15ms.
+["INFO" - 15:14:25] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:14:27] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:14:33] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:14:33] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:14:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:18:51] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:18:52] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:18:58] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:19:05] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/mongo.ts
+["INFO" - 15:19:05] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:19:05] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 234,
+  "version": "3.1.0"
+}
+["INFO" - 15:19:05] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:19:05] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:19:05] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:19:05] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/mongo.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:19:05] Formatting completed in 212ms.
+["INFO" - 15:19:23] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:19:34] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:19:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:19:47] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:11] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:17] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:26] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:44] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:20:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:44] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 259,
+  "version": "3.1.0"
+}
+["INFO" - 20:20:44] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:20:44] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:20:44] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:20:44] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:20:44] Formatting completed in 35ms.
+["INFO" - 20:20:54] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:20:54] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:20:54] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 263,
+  "version": "3.1.0"
+}
+["INFO" - 20:20:54] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:20:54] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:20:54] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:20:54] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:20:54] Formatting completed in 24ms.
+["INFO" - 20:21:04] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:21:04] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:21:04] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 267,
+  "version": "3.1.0"
+}
+["INFO" - 20:21:04] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:21:04] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:21:04] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:21:04] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:21:04] Formatting completed in 29ms.
+["INFO" - 20:21:27] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:21:27] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:21:27] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 271,
+  "version": "3.1.0"
+}
+["INFO" - 20:21:27] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:21:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:21:27] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:21:27] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:21:27] Formatting completed in 26ms.
+["INFO" - 20:21:44] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:21:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:21:44] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 275,
+  "version": "3.1.0"
+}
+["INFO" - 20:21:44] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:21:44] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:21:44] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:21:44] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:21:45] Formatting completed in 21ms.
+["INFO" - 20:21:49] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:21:49] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:21:49] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 279,
+  "version": "3.1.0"
+}
+["INFO" - 20:21:49] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:21:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:21:49] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:21:49] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:21:49] Formatting completed in 20ms.
+["INFO" - 20:21:54] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 20:21:54] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:21:54] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 283,
+  "version": "3.1.0"
+}
+["INFO" - 20:21:54] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:21:54] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:21:54] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:21:54] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:21:54] Formatting completed in 19ms.
+["INFO" - 20:22:11] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:13] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:15] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:31] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Bpage.svelte
+["INFO" - 20:22:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:31] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 296,
+  "version": "3.1.0"
+}
+["INFO" - 20:22:31] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:22:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:22:31] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:22:31] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+page.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:22:31] Formatting completed in 18ms.
+["INFO" - 20:22:34] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:37] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:22:38] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:39:46] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:39:46] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:39:46] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 312,
+  "version": "3.1.0"
+}
+["INFO" - 20:39:46] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:39:46] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:39:46] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:39:46] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:39:46] Formatting completed in 16ms.
+["INFO" - 20:40:22] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:40:22] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:22] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 316,
+  "version": "3.1.0"
+}
+["INFO" - 20:40:22] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:40:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:40:22] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:40:22] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:40:22] Formatting completed in 11ms.
+["INFO" - 20:40:27] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:40:27] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:27] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 320,
+  "version": "3.1.0"
+}
+["INFO" - 20:40:27] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:40:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:40:27] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:40:27] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:40:27] Formatting completed in 18ms.
+["INFO" - 20:40:33] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:40:33] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:33] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 324,
+  "version": "3.1.0"
+}
+["INFO" - 20:40:33] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:40:33] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:40:33] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:40:33] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:40:33] Formatting completed in 14ms.
+["INFO" - 20:40:39] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:40:39] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:39] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 328,
+  "version": "3.1.0"
+}
+["INFO" - 20:40:39] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:40:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:40:39] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:40:39] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:40:39] Formatting completed in 14ms.
+["INFO" - 20:40:42] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:40:42] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:42] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 332,
+  "version": "3.1.0"
+}
+["INFO" - 20:40:42] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:40:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:40:42] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:40:42] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:40:42] Formatting completed in 10ms.
+["INFO" - 20:40:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:45] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:40:47] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:20] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:21] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:32] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:36] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:41:36] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:36] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 354,
+  "version": "3.1.0"
+}
+["INFO" - 20:41:36] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:41:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:41:36] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:41:36] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:41:36] Formatting completed in 20ms.
+["INFO" - 20:41:45] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:41:45] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:41:45] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 358,
+  "version": "3.1.0"
+}
+["INFO" - 20:41:45] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:41:45] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:41:45] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:41:45] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:41:45] Formatting completed in 14ms.
+["INFO" - 20:42:03] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:03] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:03] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 362,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:03] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:03] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:03] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:03] Formatting completed in 11ms.
+["INFO" - 20:42:09] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:09] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:09] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 366,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:09] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:09] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:09] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:09] Formatting completed in 27ms.
+["INFO" - 20:42:30] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:30] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:30] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 370,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:30] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:30] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:30] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:30] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:30] Formatting completed in 12ms.
+["INFO" - 20:42:36] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:36] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:36] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 374,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:36] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:36] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:36] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:36] Formatting completed in 13ms.
+["INFO" - 20:42:39] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:39] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:39] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 378,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:39] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:39] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:39] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:39] Formatting completed in 11ms.
+["INFO" - 20:42:58] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:42:58] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:42:58] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 382,
+  "version": "3.1.0"
+}
+["INFO" - 20:42:58] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:42:58] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:42:58] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:42:58] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:42:58] Formatting completed in 11ms.
+["INFO" - 20:43:00] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Blayout.svelte
+["INFO" - 20:43:00] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:43:00] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 386,
+  "version": "3.1.0"
+}
+["INFO" - 20:43:00] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:43:01] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 20:43:01] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:43:01] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:43:01] Formatting completed in 18ms.
+["INFO" - 20:54:00] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:54:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:17] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:55:17] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:17] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 396,
+  "version": "3.1.0"
+}
+["INFO" - 20:55:17] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:55:17] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:55:17] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:55:17] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:55:17] Formatting completed in 36ms.
+["INFO" - 20:55:26] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:36] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:55:36] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:36] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 5,
+  "version": "3.1.0"
+}
+["INFO" - 20:55:36] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:55:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:55:36] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:55:36] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:55:36] Formatting completed in 25ms.
+["INFO" - 20:55:49] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:55:49] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:55:49] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 9,
+  "version": "3.1.0"
+}
+["INFO" - 20:55:49] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:55:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:55:49] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:55:49] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:55:49] Formatting completed in 25ms.
+["INFO" - 20:57:30] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:57:30] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:57:30] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 13,
+  "version": "3.1.0"
+}
+["INFO" - 20:57:30] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:57:30] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:57:30] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:57:30] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:57:30] Formatting completed in 23ms.
+["INFO" - 20:59:10] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:59:10] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:59:10] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 17,
+  "version": "3.1.0"
+}
+["INFO" - 20:59:10] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:59:10] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:59:10] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:59:10] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:59:10] Formatting completed in 22ms.
+["INFO" - 20:59:22] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 20:59:22] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:59:22] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 21,
+  "version": "3.1.0"
+}
+["INFO" - 20:59:22] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:59:22] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 20:59:22] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:59:22] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:59:22] Formatting completed in 22ms.
+["INFO" - 20:59:26] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:59:36] Formatting file:///home/admin/repos/Kuchentag-Web/tsconfig.json
+["INFO" - 20:59:36] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 20:59:36] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 2,
+  "version": "3.1.0"
+}
+["INFO" - 20:59:36] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 20:59:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 20:59:36] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 20:59:36] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/tsconfig.json",
+  "parser": "json",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 20:59:36] Formatting completed in 11ms.
+["INFO" - 20:59:40] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:20:29] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:20:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:21:58] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:07] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:11] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:12] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:13] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:13] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:38] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:57] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:22:57] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:57] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 26,
+  "version": "3.1.0"
+}
+["INFO" - 21:22:57] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:22:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:22:57] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:22:57] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:22:59] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:22:59] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:23:39] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:23:39] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:23:40] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:23:58] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:23:58] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:23:58] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 8,
+  "version": "3.1.0"
+}
+["INFO" - 21:23:58] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:23:58] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:23:58] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:23:58] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:26:28] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:26:28] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:26:28] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 12,
+  "version": "3.1.0"
+}
+["INFO" - 21:26:28] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:26:28] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:26:28] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:26:28] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:26:28] Formatting completed in 13ms.
+["INFO" - 21:26:42] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:26:42] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:26:42] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 16,
+  "version": "3.1.0"
+}
+["INFO" - 21:26:42] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:26:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:26:42] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:26:42] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:26:42] Formatting completed in 9ms.
+["INFO" - 21:29:08] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:29:09] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:29:31] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:29:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:29:31] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 26,
+  "version": "3.1.0"
+}
+["INFO" - 21:29:31] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:29:31] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:29:31] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:29:31] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:29:31] Formatting completed in 12ms.
+["INFO" - 21:29:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:30:20] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:31:34] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:31:34] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:31:34] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 36,
+  "version": "3.1.0"
+}
+["INFO" - 21:31:34] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:31:34] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:31:34] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:31:34] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:31:34] Formatting completed in 31ms.
+["INFO" - 21:31:38] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:31:38] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:31:38] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 40,
+  "version": "3.1.0"
+}
+["INFO" - 21:31:38] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:31:38] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:31:38] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:31:38] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:31:38] Formatting completed in 15ms.
+["INFO" - 21:31:51] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:31:51] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:31:51] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 44,
+  "version": "3.1.0"
+}
+["INFO" - 21:31:51] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:31:51] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:31:51] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:31:51] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:31:51] Formatting completed in 12ms.
+["INFO" - 21:31:59] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:31:59] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:31:59] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 48,
+  "version": "3.1.0"
+}
+["INFO" - 21:31:59] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:31:59] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:31:59] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:31:59] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:31:59] Formatting completed in 12ms.
+["INFO" - 21:32:32] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:32:32] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:32:32] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 52,
+  "version": "3.1.0"
+}
+["INFO" - 21:32:32] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:32:32] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:32:32] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:32:32] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:32:32] Formatting completed in 18ms.
+["INFO" - 21:32:35] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:32:35] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:32:35] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 56,
+  "version": "3.1.0"
+}
+["INFO" - 21:32:35] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:32:35] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:32:35] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:32:35] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:32:35] Formatting completed in 82ms.
+["INFO" - 21:37:57] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:37:57] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:37:57] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 60,
+  "version": "3.1.0"
+}
+["INFO" - 21:37:57] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:37:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:37:57] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:37:57] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:37:57] Formatting completed in 13ms.
+["INFO" - 21:38:03] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:38:03] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:38:03] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 64,
+  "version": "3.1.0"
+}
+["INFO" - 21:38:03] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:38:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:38:03] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:38:03] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:38:03] Formatting completed in 16ms.
+["INFO" - 21:49:03] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:49:20] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:49:44] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:49:55] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:50:05] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:50:05] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:50:05] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 11,
+  "version": "3.1.0"
+}
+["INFO" - 21:50:05] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:50:05] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:50:05] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:50:05] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:50:05] Formatting completed in 13ms.
+["INFO" - 21:51:14] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:51:14] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:51:14] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 15,
+  "version": "3.1.0"
+}
+["INFO" - 21:51:14] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:51:14] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:51:14] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:51:14] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:51:14] Formatting completed in 26ms.
+["INFO" - 21:51:42] Formatting file:///home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts
+["INFO" - 21:51:42] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:51:42] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 19,
+  "version": "3.1.0"
+}
+["INFO" - 21:51:42] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:51:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 21:51:42] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:51:42] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/lib/Google-Auth.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:51:42] Formatting completed in 11ms.
+["INFO" - 21:52:49] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:53:03] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%28app%29/%2Bpage.svelte
+["INFO" - 21:53:03] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:53:03] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 26,
+  "version": "3.1.0"
+}
+["INFO" - 21:53:03] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:53:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 21:53:03] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:53:03] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/(app)/+page.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:53:03] Formatting completed in 65ms.
+["INFO" - 21:54:56] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:55:02] Formatting file:///home/admin/repos/Kuchentag-Web/src/routes/%2Blayout.svelte
+["INFO" - 21:55:02] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:55:02] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 33,
+  "version": "3.1.0"
+}
+["INFO" - 21:55:02] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 21:55:02] File Info:
+{
+  "ignored": false,
+  "inferredParser": "svelte"
+}
+["INFO" - 21:55:02] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 21:55:02] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/routes/+layout.svelte",
+  "parser": "svelte",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 21:55:02] Formatting completed in 29ms.
+["INFO" - 21:55:07] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:55:08] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 21:55:09] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'

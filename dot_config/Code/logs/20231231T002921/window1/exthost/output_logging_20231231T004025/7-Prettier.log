@@ -1,0 +1,36 @@
+["INFO" - 00:40:31] Extension Name: esbenp.prettier-vscode.
+["INFO" - 00:40:31] Extension Version: 10.1.0.
+["INFO" - 00:40:31] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:24] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:24] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:59] Formatting file:///home/admin/repos/Kuchentag-Web/src/db/users.ts
+["INFO" - 15:00:59] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'
+["INFO" - 15:00:59] PrettierInstance:
+{
+  "modulePath": "/home/admin/repos/Kuchentag-Web/node_modules/prettier/index.cjs",
+  "importResolver": {},
+  "callMethodResolvers": {},
+  "currentCallMethodId": 8,
+  "version": "3.1.0"
+}
+["INFO" - 15:00:59] Using ignore file (if present) at /home/admin/repos/Kuchentag-Web/.prettierignore
+["INFO" - 15:00:59] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:00:59] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:00:59] Prettier Options:
+{
+  "filepath": "/home/admin/repos/Kuchentag-Web/src/db/users.ts",
+  "parser": "typescript",
+  "useTabs": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "printWidth": 100,
+  "plugins": [
+    "/home/admin/repos/Kuchentag-Web/node_modules/prettier-plugin-svelte/plugin.js"
+  ]
+}
+["INFO" - 15:00:59] Formatting completed in 228ms.
+["INFO" - 15:01:08] Using config file at '/home/admin/repos/Kuchentag-Web/.prettierrc'

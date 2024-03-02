@@ -1,0 +1,15 @@
+2023-12-05 20:54:14.344 [info] Getting Manifest... ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:14.488 [info] Installing extension: ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:15.717 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:16.413 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode.vscode-serial-monitor-0.11.0: ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:16.416 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode.vscode-serial-monitor-0.11.0
+2023-12-05 20:54:16.419 [info] Extracting extension completed. ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:16.429 [info] Extension installed successfully: ms-vscode.vscode-serial-monitor
+2023-12-05 20:54:16.434 [info] Marked extension as uninstalled ms-vscode.vscode-serial-monitor-0.10.0
+2023-12-05 20:54:16.525 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

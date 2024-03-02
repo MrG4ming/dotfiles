@@ -1,0 +1,6 @@
+MONGO_URL=mongodb://admin:admin@localhost:27017/
+PUBLIC_DATABASE=kuchentag
+
+GOOGLE_CLIENT_ID=abc
+GOOGLE_CLIENT_SECRET=abc
+AUTH_SECRET=random-string-needed-for-auth.js

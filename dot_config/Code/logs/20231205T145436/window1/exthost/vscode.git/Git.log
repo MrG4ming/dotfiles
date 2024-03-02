@@ -1,0 +1,33 @@
+2023-12-05 14:54:46.158 [info] Log level: Info
+2023-12-05 14:54:46.158 [info] Validating found git in: "git"
+2023-12-05 14:54:46.158 [info] Using git "2.43.0" from "git"
+2023-12-05 14:54:46.158 [info] > git rev-parse --show-toplevel [85ms]
+2023-12-05 14:54:46.158 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-12-05 14:54:46.158 [info] Open repository: /home/admin/repos/Kuchentag-Web
+2023-12-05 14:54:46.158 [info] > git rev-parse --show-toplevel [58ms]
+2023-12-05 14:54:46.158 [info] > git config --get commit.template [83ms]
+2023-12-05 14:54:46.158 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2023-12-05 14:54:46.158 [info] > git rev-parse --show-toplevel [85ms]
+2023-12-05 14:54:46.158 [info] > git status -z -uall [43ms]
+2023-12-05 14:54:46.158 [info] > git rev-parse --show-toplevel [64ms]
+2023-12-05 14:54:46.176 [info] > git config --get commit.template [49ms]
+2023-12-05 14:54:46.185 [info] > git rev-parse --show-toplevel [10ms]
+2023-12-05 14:54:46.228 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-05 14:54:46.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2023-12-05 14:54:46.273 [info] > git status -z -uall [28ms]
+2023-12-05 14:54:46.273 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-05 14:54:47.142 [info] > git check-ignore -v -z --stdin [491ms]
+2023-12-05 14:54:47.236 [info] > git fetch [1539ms]
+2023-12-05 14:54:47.236 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2023-12-05 14:54:47.516 [info] > git config --get commit.template [61ms]
+2023-12-05 14:54:47.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2023-12-05 14:54:47.789 [info] > git status -z -uall [168ms]
+2023-12-05 14:54:49.817 [info] > git config --local branch.main.github-pr-owner-number [117ms]
+2023-12-05 14:54:49.869 [info] > git config --get commit.template [2ms]
+2023-12-05 14:54:49.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-12-05 14:54:49.985 [info] > git status -z -uall [2ms]
+2023-12-05 14:54:50.660 [info] > git show --textconv :src/lib/Navmenu.svelte [52ms]
+2023-12-05 14:54:50.671 [info] > git ls-files --stage -- /home/admin/repos/Kuchentag-Web/src/lib/Navmenu.svelte [13ms]
+2023-12-05 14:54:50.725 [info] > git cat-file -s 9bd956a44d5ee64325661ef588cdf8fe2ce9bb3e [22ms]

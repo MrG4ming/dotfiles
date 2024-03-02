@@ -1,0 +1,125 @@
+2023-12-31 00:29:30.578 [info] Deleted uninstalled extension from disk ms-vscode.vscode-serial-monitor /home/admin/.vscode/extensions/ms-vscode.vscode-serial-monitor-0.10.0
+2023-12-31 00:29:36.820 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-12-31 00:29:36.823 [info] Getting Manifest... eamodio.gitlens
+2023-12-31 00:29:36.825 [info] Getting Manifest... ecmel.vscode-html-css
+2023-12-31 00:29:36.838 [info] Getting Manifest... ms-python.python
+2023-12-31 00:29:36.839 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-31 00:29:36.840 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2023-12-31 00:29:36.845 [info] Getting Manifest... ms-vscode.live-server
+2023-12-31 00:29:36.851 [info] Getting Manifest... spgoding.datapack-language-server
+2023-12-31 00:29:37.011 [info] Installing extension: ecmel.vscode-html-css
+2023-12-31 00:29:37.025 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-12-31 00:29:37.126 [info] Installing extension: ms-vscode-remote.remote-containers
+2023-12-31 00:29:37.133 [info] Installing extension: ms-vscode.live-server
+2023-12-31 00:29:37.158 [info] Installing extension: ms-python.python
+2023-12-31 00:29:37.347 [info] Installing extension: ms-python.vscode-pylance
+2023-12-31 00:29:37.351 [info] Installing extension: spgoding.datapack-language-server
+2023-12-31 00:29:37.353 [info] Installing extension: eamodio.gitlens
+2023-12-31 00:29:39.633 [info] Getting Manifest... minecraftcommands.syntax-mcfunction
+2023-12-31 00:29:39.820 [info] Getting Manifest... ms-python.python
+2023-12-31 00:29:40.981 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-31 00:29:41.615 [warning] Extension signature verification failed with error 'UnknownError': ecmel.vscode-html-css
+2023-12-31 00:29:41.637 [info] Extracted extension to file:///home/admin/.vscode/extensions/ecmel.vscode-html-css-1.14.1: ecmel.vscode-html-css
+2023-12-31 00:29:41.640 [info] Renamed to /home/admin/.vscode/extensions/ecmel.vscode-html-css-1.14.1
+2023-12-31 00:29:41.642 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-12-31 00:29:41.659 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-12-31 00:29:41.666 [info] Marked extension as uninstalled ecmel.vscode-html-css-1.13.1
+2023-12-31 00:29:41.736 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:41.947 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.live-server
+2023-12-31 00:29:42.035 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-12-31 00:29:42.076 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode.live-server-0.4.13: ms-vscode.live-server
+2023-12-31 00:29:42.081 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode.live-server-0.4.13
+2023-12-31 00:29:42.088 [info] Extracting extension completed. ms-vscode.live-server
+2023-12-31 00:29:42.111 [info] Extension installed successfully: ms-vscode.live-server
+2023-12-31 00:29:42.124 [info] Marked extension as uninstalled ms-vscode.live-server-0.4.11
+2023-12-31 00:29:42.133 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:42.258 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-containers
+2023-12-31 00:29:42.777 [warning] Extension signature verification failed with error 'UnknownError': spgoding.datapack-language-server
+2023-12-31 00:29:42.812 [info] Extracted extension to file:///home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4: bradlc.vscode-tailwindcss
+2023-12-31 00:29:42.818 [info] Renamed to /home/admin/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.4
+2023-12-31 00:29:42.828 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-12-31 00:29:42.848 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-12-31 00:29:42.855 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.10.3
+2023-12-31 00:29:42.933 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:43.184 [info] Extracted extension to file:///home/admin/.vscode/extensions/spgoding.datapack-language-server-3.4.19: spgoding.datapack-language-server
+2023-12-31 00:29:43.189 [info] Renamed to /home/admin/.vscode/extensions/spgoding.datapack-language-server-3.4.19
+2023-12-31 00:29:43.195 [info] Extracting extension completed. spgoding.datapack-language-server
+2023-12-31 00:29:43.209 [info] Extension installed successfully: spgoding.datapack-language-server
+2023-12-31 00:29:43.217 [info] Marked extension as uninstalled spgoding.datapack-language-server-3.4.18
+2023-12-31 00:29:43.295 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:43.489 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-vscode-remote.remote-containers-0.327.0: ms-vscode-remote.remote-containers
+2023-12-31 00:29:43.497 [info] Renamed to /home/admin/.vscode/extensions/ms-vscode-remote.remote-containers-0.327.0
+2023-12-31 00:29:43.500 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2023-12-31 00:29:43.512 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2023-12-31 00:29:43.517 [info] Marked extension as uninstalled ms-vscode-remote.remote-containers-0.321.0
+2023-12-31 00:29:43.608 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:43.845 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2023-12-31 00:29:44.440 [info] Extracted extension to file:///home/admin/.vscode/extensions/eamodio.gitlens-14.6.1: eamodio.gitlens
+2023-12-31 00:29:44.451 [info] Renamed to /home/admin/.vscode/extensions/eamodio.gitlens-14.6.1
+2023-12-31 00:29:44.464 [info] Extracting extension completed. eamodio.gitlens
+2023-12-31 00:29:44.479 [info] Extension installed successfully: eamodio.gitlens
+2023-12-31 00:29:44.490 [info] Marked extension as uninstalled eamodio.gitlens-14.5.2
+2023-12-31 00:29:44.568 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:47.788 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-12-31 00:29:47.834 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-12-31 00:29:55.279 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-python.python-2023.22.1: ms-python.python
+2023-12-31 00:29:55.285 [info] Renamed to /home/admin/.vscode/extensions/ms-python.python-2023.22.1
+2023-12-31 00:29:55.295 [info] Extracting extension completed. ms-python.python
+2023-12-31 00:29:55.316 [info] Extension installed successfully: ms-python.python
+2023-12-31 00:29:55.317 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-31 00:29:55.333 [info] Marked extension as uninstalled ms-python.python-2023.20.0
+2023-12-31 00:29:55.411 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-31 00:29:58.503 [info] Extracted extension to file:///home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2023-12-31 00:29:58.512 [info] Renamed to /home/admin/.vscode/extensions/ms-python.vscode-pylance-2023.12.1
+2023-12-31 00:29:58.518 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-31 00:29:58.530 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-31 00:29:58.536 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.11.10
+2023-12-31 00:29:58.645 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/admin/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

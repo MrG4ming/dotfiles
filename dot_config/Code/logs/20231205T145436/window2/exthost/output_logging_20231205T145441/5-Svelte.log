@@ -1,0 +1,10 @@
+Initialize language server at  file:///home/admin/repos/JobManager
+Initialize new ts service at  /home/admin/repos/JobManager/tsconfig.json
+Trying to load configs for /home/admin/repos/JobManager
+Loaded config at  /home/admin/repos/JobManager/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 39
+Svelte files: 14
+From node_modules: 0
+Total: 39
+[Error - 14:54:50] Stopping server timed out

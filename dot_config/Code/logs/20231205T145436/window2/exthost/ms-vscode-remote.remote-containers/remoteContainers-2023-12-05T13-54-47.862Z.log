@@ -1,0 +1,5 @@
+[2023-12-05T13:54:48.434Z] Error ensuring user CLI is configured: Canceled (FileSystemError): Canceled
+    at Function.e (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+    at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+    at jpe (/home/admin/.vscode/extensions/ms-vscode-remote.remote-containers-0.321.0/dist/extension/extension.js:386:2287)
+[2023-12-05T13:54:48.434Z] Dev Containers 0.321.0 in VS Code 1.84.2 (1a5daa3a0231a0fbba4f14db7ec463cf99d7768e).

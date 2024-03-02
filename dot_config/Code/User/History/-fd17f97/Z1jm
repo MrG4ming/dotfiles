@@ -1,0 +1,5 @@
+MONGO_URL=mongodb://admin:admin@localhost:27017/
+PUBLIC_DATABASE=kuchentag
+
+SECRET_CLIENT_ID=abc
+SECRET_CLIENT_SECRET=abc

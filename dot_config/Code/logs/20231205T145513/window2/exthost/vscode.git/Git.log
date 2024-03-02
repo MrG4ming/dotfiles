@@ -1,0 +1,34 @@
+2023-12-05 20:54:09.577 [info] Log level: Info
+2023-12-05 20:54:09.577 [info] Validating found git in: "git"
+2023-12-05 20:54:09.577 [info] Using git "2.43.0" from "git"
+2023-12-05 20:54:23.492 [info] Log level: Info
+2023-12-05 20:54:23.492 [info] Validating found git in: "git"
+2023-12-05 20:54:23.492 [info] Using git "2.43.0" from "git"
+2023-12-05 20:54:23.492 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-05 20:54:23.492 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-05 20:54:23.492 [info] Open repository: /home/admin/repos/JobManager
+2023-12-05 20:54:23.492 [info] > git config --get commit.template [13ms]
+2023-12-05 20:54:23.492 [info] > git rev-parse --show-toplevel [243ms]
+2023-12-05 20:54:23.492 [info] > git rev-parse --show-toplevel [22ms]
+2023-12-05 20:54:23.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2023-12-05 20:54:23.492 [info] > git status -z -uall [31ms]
+2023-12-05 20:54:23.510 [info] > git rev-parse --show-toplevel [39ms]
+2023-12-05 20:54:23.597 [info] > git config --get commit.template [88ms]
+2023-12-05 20:54:23.608 [info] > git rev-parse --show-toplevel [16ms]
+2023-12-05 20:54:23.637 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-05 20:54:23.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2023-12-05 20:54:23.654 [info] > git status -z -uall [5ms]
+2023-12-05 20:54:23.926 [info] > git fetch [1141ms]
+2023-12-05 20:54:23.926 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2023-12-05 20:54:23.978 [info] > git config --get commit.template [6ms]
+2023-12-05 20:54:24.053 [info] > git check-ignore -v -z --stdin [10ms]
+2023-12-05 20:54:24.055 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2023-12-05 20:54:24.081 [info] > git status -z -uall [2ms]
+2023-12-05 20:54:29.241 [info] > git config --local branch.main.github-pr-owner-number [216ms]
+2023-12-05 20:54:29.344 [info] > git config --get commit.template [67ms]
+2023-12-05 20:54:29.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-12-05 20:54:29.407 [info] > git status -z -uall [26ms]
+2023-12-05 20:54:29.665 [info] > git show --textconv :src/db/users.ts [54ms]
+2023-12-05 20:54:29.705 [info] > git ls-files --stage -- /home/admin/repos/JobManager/src/db/users.ts [64ms]
+2023-12-05 20:54:29.744 [info] > git cat-file -s 0e6b2f21e78f9c2f303b4559eec1db6f0a8c46a7 [3ms]

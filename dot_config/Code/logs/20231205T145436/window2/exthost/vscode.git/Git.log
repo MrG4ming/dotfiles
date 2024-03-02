@@ -1,0 +1,22 @@
+2023-12-05 14:54:45.757 [info] Log level: Info
+2023-12-05 14:54:45.757 [info] Validating found git in: "git"
+2023-12-05 14:54:45.757 [info] Using git "2.43.0" from "git"
+2023-12-05 14:54:45.757 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-05 14:54:45.757 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-05 14:54:45.757 [info] Open repository: /home/admin/repos/JobManager
+2023-12-05 14:54:45.757 [info] > git rev-parse --show-toplevel [18ms]
+2023-12-05 14:54:45.757 [info] > git config --get commit.template [53ms]
+2023-12-05 14:54:45.757 [info] > git rev-parse --show-toplevel [52ms]
+2023-12-05 14:54:45.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [53ms]
+2023-12-05 14:54:45.757 [info] > git status -z -uall [9ms]
+2023-12-05 14:54:45.757 [info] > git rev-parse --show-toplevel [34ms]
+2023-12-05 14:54:45.759 [info] > git rev-parse --show-toplevel [13ms]
+2023-12-05 14:54:45.760 [info] > git config --get commit.template [33ms]
+2023-12-05 14:54:45.813 [info] > git rev-parse --show-toplevel [34ms]
+2023-12-05 14:54:45.817 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-12-05 14:54:45.829 [info] > git status -z -uall [4ms]
+2023-12-05 14:54:46.388 [info] > git check-ignore -v -z --stdin [4ms]
+2023-12-05 14:54:47.276 [info] > git fetch [1153ms]
+2023-12-05 14:54:47.276 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2023-12-05 14:54:48.017 [info] > git config --get commit.template [526ms]

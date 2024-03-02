@@ -1,0 +1,15 @@
+2024-02-06 20:20:00.228 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2024-02-06 20:20:00.228 [info] Activation> Extension version: 0.76.1
+2024-02-06 20:20:01.720 [info] Looking for git repository
+2024-02-06 20:20:01.721 [info] Found 0 repositories during activation
+2024-02-06 20:20:01.721 [info] Git repository found, initializing review manager and pr tree view.
+2024-02-06 20:20:01.740 [info] Registering git provider
+2024-02-06 20:20:01.740 [info] Review> Validate state in progress
+2024-02-06 20:20:01.740 [info] Review> Validating state...
+2024-02-06 20:20:01.822 [info] Repo state for file:///home/admin/repos/Kuchentag-Web changed.
+2024-02-06 20:20:01.823 [info] Repo file:///home/admin/repos/Kuchentag-Web has already been setup.
+2024-02-06 20:20:01.836 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2024-02-06 20:20:02.158 [info] Trying to use globalState for assignableUsers.
+2024-02-06 20:20:02.351 [info] Review> No matching pull request metadata found locally for current branch main
+2024-02-06 20:20:02.376 [info] Using globalState assignableUsers for 1.
+2024-02-06 20:20:02.750 [info] Review> No matching pull request metadata found on GitHub for current branch main

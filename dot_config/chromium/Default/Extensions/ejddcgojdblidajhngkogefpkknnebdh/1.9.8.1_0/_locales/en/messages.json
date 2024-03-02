@@ -1,0 +1,161 @@
+{
+   "actions": {
+      "message": "Actions"
+   },
+   "advanced": {
+      "message": "Advanced"
+   },
+   "allowAll": {
+      "message": "Disable extension"
+   },
+   "allowAutoplay": {
+      "message": "Allow Autoplay"
+   },
+   "allowFileUrls": {
+      "message": "Error:  Cannot use user script without permission to access file URLs."
+   },
+   "allowFlash": {
+      "message": "Allow Detection"
+   },
+   "allowSession": {
+      "message": "Allow session autoplay for %S"
+   },
+   "allowSite": {
+      "message": "Allow autoplay for %S"
+   },
+   "apply": {
+      "message": "Apply"
+   },
+   "autoplayExceptions": {
+      "message": "Autoplay exceptions"
+   },
+   "autoplayTabLabel": {
+      "message": "Autoplay"
+   },
+   "debug": {
+      "message": "Log debug info"
+   },
+   "defaultMode": {
+      "message": "Default Mode:"
+   },
+   "devtools": {
+      "message": "Devtools Panel"
+   },
+   "disableAutoplay": {
+      "message": "Block Autoplay"
+   },
+   "disableFlash": {
+      "message": "Block Detection"
+   },
+   "disableSite": {
+      "message": "Block flash detection for %S"
+   },
+   "done": {
+      "message": "Done"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "evalError": {
+      "message": "AutoplayStopper - exception: "
+   },
+   "exceptionAllow": {
+      "message": "Allow"
+   },
+   "exceptionBehaviorHeader": {
+      "message": "Behavior"
+   },
+   "exceptionBlock": {
+      "message": "Block"
+   },
+   "exceptionHostnameHeader": {
+      "message": "Hostname"
+   },
+   "exceptionPrompt": {
+      "message": "Block (strict)"
+   },
+   "exceptionSession": {
+      "message": "Session"
+   },
+   "exceptionShadow": {
+      "message": "Block (shadow)"
+   },
+   "exceptionUndefined": {
+      "message": "Undefined"
+   },
+   "export": {
+      "message": "Export..."
+   },
+   "extensionDescription": {
+      "message": "Stops video autoplay gracefully."
+   },
+   "fileNotFound": {
+      "message": "AutoplayStopper - error: File not found.\n  Check that the script folder is in the workspace and verify the path."
+   },
+   "flashExceptions": {
+      "message": "Flash detection exceptions"
+   },
+   "flashTabLabel": {
+      "message": "Flash"
+   },
+   "import": {
+      "message": "Import..."
+   },
+   "importError": {
+      "message": "Error: Cannot import"
+   },
+   "load": {
+      "message": "Load"
+   },
+   "loadError": {
+      "message": "Load script error: "
+   },
+   "manageExceptions": {
+      "message": "Exceptions..."
+   },
+   "overwrite": {
+      "message": "Disable overwrite on update"
+   },
+   "path": {
+      "message": "Path"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "permissions": {
+      "message": "Websites Permissions:"
+   },
+   "play": {
+      "message": "Play"
+   },
+   "removeAll": {
+      "message": "Remove All"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "script": {
+      "message": "Script"
+   },
+   "selectFile": {
+      "message": "File..."
+   },
+   "selector": {
+      "message": "Selector"
+   },
+   "setPath": {
+      "message": "Set Path"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "userScript": {
+      "message": "User Script"
+   },
+   "version": {
+      "message": "Version"
+   }
+}

@@ -1,3 +1,12 @@
-2023/11/27-21:25:28.759 31d Reusing MANIFEST /home/admin/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2023/11/27-21:25:28.759 31d Recovering log #168
-2023/11/27-21:25:28.773 31d Reusing old log /home/admin/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000168.log 
+2024/03/01-19:48:43.704 2b85f Reusing MANIFEST /home/admin/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/03/01-19:48:43.704 2b85f Recovering log #223
+2024/03/01-19:48:43.705 2b85f Reusing old log /home/admin/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000223.log 
+2024/03/01-19:49:10.890 2b85f Level-0 table #230: started
+2024/03/01-19:49:10.911 2b85f Level-0 table #230: 1730048 bytes OK
+2024/03/01-19:49:10.913 2b85f Delete type=0 #223
+2024/03/01-19:49:15.444 2b85e Level-0 table #232: started
+2024/03/01-19:49:15.465 2b85e Level-0 table #232: 1554355 bytes OK
+2024/03/01-19:49:15.467 2b85e Delete type=0 #229
+2024/03/01-19:49:20.891 2b85f Level-0 table #234: started
+2024/03/01-19:49:20.911 2b85f Level-0 table #234: 2165048 bytes OK
+2024/03/01-19:49:20.913 2b85f Delete type=0 #231

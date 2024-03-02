@@ -1,0 +1,102 @@
+{
+   "checksum": "d5f1befcce9d7d086fa3f232e3f3e7bf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13350147245819171",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13350147276558559",
+            "date_last_used": "0",
+            "guid": "a4f51104-86b4-45eb-bd37-da1dae20c17d",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "jsonplaceholder.typicode.com/posts",
+            "type": "url",
+            "url": "https://jsonplaceholder.typicode.com/posts"
+         }, {
+            "date_added": "13350147284408150",
+            "date_last_used": "0",
+            "guid": "28fa6dc4-c4bc-4571-9286-fcc9fef109bb",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Skeleton — UI Toolkit for Svelte + Tailwind",
+            "type": "url",
+            "url": "https://www.skeleton.dev/components/tree-views"
+         }, {
+            "date_added": "13350147289749038",
+            "date_last_used": "0",
+            "guid": "0c301bf7-d0cb-46b6-b1c9-095d4f855533",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "fdw/rofimoji: Emoji, unicode and general character picker for rofi and rofi-likes",
+            "type": "url",
+            "url": "https://github.com/fdw/rofimoji"
+         }, {
+            "date_added": "13350147300531361",
+            "date_last_used": "0",
+            "guid": "2e1d6b0b-8b13-4f14-89f0-eb397950304f",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "users - Mongo Express",
+            "type": "url",
+            "url": "http://localhost:8080/db/jobmanager/users"
+         }, {
+            "date_added": "13350147490141832",
+            "date_last_used": "0",
+            "guid": "cc729bcf-94c9-4ca7-b3b6-d98414de42d5",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign Up / In with Google! | SvelteKit OAuth 2.0 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?app=desktop&v=4QwcC4hfqM0"
+         }, {
+            "date_added": "13350147494214916",
+            "date_last_used": "0",
+            "guid": "2f936901-aeba-4f76-8243-8d774c967291",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Login with sveltekit in less than 5min! | by Rahulserver | Nov, 2023 | Medium",
+            "type": "url",
+            "url": "https://medium.com/@rahulserver/google-login-with-sveltekit-in-less-than-5min-0cc4681daf38"
+         } ],
+         "date_added": "13350147245819172",
+         "date_last_used": "0",
+         "date_modified": "13350147494214916",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350147245819173",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

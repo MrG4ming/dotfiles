@@ -1,0 +1,6 @@
+2023/12/05-21:35:55.981 b76 Creating DB /home/admin/.config/chromium/Default/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb since it was missing.
+2023/12/05-21:35:55.986 b76 Reusing MANIFEST /home/admin/.config/chromium/Default/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/05-21:38:09.497 b77 Level-0 table #5: started
+2023/12/05-21:38:09.498 b77 Level-0 table #5: 1871 bytes OK
+2023/12/05-21:38:09.498 b77 Delete type=0 #3
+2023/12/05-21:38:09.498 b77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

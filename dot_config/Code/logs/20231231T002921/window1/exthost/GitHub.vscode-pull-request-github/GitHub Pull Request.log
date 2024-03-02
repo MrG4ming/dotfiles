@@ -1,0 +1,42 @@
+2023-12-31 00:29:33.625 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-12-31 00:29:33.625 [info] Activation> Extension version: 0.76.1
+2023-12-31 00:29:33.985 [info] Looking for git repository
+2023-12-31 00:29:33.985 [info] Found 0 repositories during activation
+2023-12-31 00:29:33.985 [info] Git repository found, initializing review manager and pr tree view.
+2023-12-31 00:29:33.989 [info] Registering git provider
+2023-12-31 00:29:33.989 [info] Review> Validate state in progress
+2023-12-31 00:29:33.989 [info] Review> Validating state...
+2023-12-31 00:29:34.037 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-12-31 00:29:34.420 [info] Trying to use globalState for assignableUsers.
+2023-12-31 00:29:34.921 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-12-31 00:29:34.921 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-12-31 00:29:34.923 [info] Review> No matching pull request metadata found locally for current branch main
+2023-12-31 00:29:35.235 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-12-31 00:29:35.773 [info] Using globalState assignableUsers for 1.
+2023-12-31 00:40:32.043 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-12-31 00:40:32.044 [info] Activation> Extension version: 0.76.1
+2023-12-31 00:40:33.367 [info] Looking for git repository
+2023-12-31 00:40:33.367 [info] Found 0 repositories during activation
+2023-12-31 00:40:33.367 [info] Git repository found, initializing review manager and pr tree view.
+2023-12-31 00:40:33.369 [info] Registering git provider
+2023-12-31 00:40:33.369 [info] Review> Validate state in progress
+2023-12-31 00:40:33.369 [info] Review> Validating state...
+2023-12-31 00:40:33.705 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2023-12-31 00:40:34.038 [info] Trying to use globalState for assignableUsers.
+2023-12-31 00:40:34.274 [info] Using globalState assignableUsers for 1.
+2023-12-31 00:40:34.499 [info] Repo state for file:///home/admin/repos/Kuchentag-Web changed.
+2023-12-31 00:40:34.499 [info] Repo file:///home/admin/repos/Kuchentag-Web has already been setup.
+2023-12-31 00:40:34.500 [info] Review> No matching pull request metadata found locally for current branch main
+2023-12-31 00:40:34.859 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2024-01-19 15:00:59.959 [info] Review> Validate state in progress
+2024-01-19 15:00:59.959 [info] Review> Validating state...
+2024-01-19 15:01:00.254 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2024-01-19 15:01:00.255 [info] Using in-memory cached assignable users.
+2024-01-19 15:01:00.338 [info] Review> No matching pull request metadata found locally for current branch main
+2024-01-19 15:01:01.042 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2024-01-19 15:01:01.816 [info] Review> Validate state in progress
+2024-01-19 15:01:01.816 [info] Review> Validating state...
+2024-01-19 15:01:01.847 [info] Found GitHub remote for folder /home/admin/repos/Kuchentag-Web
+2024-01-19 15:01:01.848 [info] Using in-memory cached assignable users.
+2024-01-19 15:01:02.060 [info] Review> No matching pull request metadata found locally for current branch main
+2024-01-19 15:01:02.399 [info] Review> No matching pull request metadata found on GitHub for current branch main

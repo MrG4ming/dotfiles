@@ -1,0 +1,21 @@
+2023-12-05 20:54:10.361 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-12-05 20:54:10.361 [info] Activation> Extension version: 0.76.1
+2023-12-05 20:54:10.519 [info] Looking for git repository
+2023-12-05 20:54:10.519 [info] Found 0 repositories during activation
+2023-12-05 20:54:10.519 [info] Git repository found, initializing review manager and pr tree view.
+2023-12-05 20:54:10.519 [info] Registering git provider
+2023-12-05 20:54:26.080 [warning] /home/admin/.ssh/config: ENOENT: no such file or directory, open '/home/admin/.ssh/config'
+2023-12-05 20:54:26.080 [info] Activation> Extension version: 0.76.1
+2023-12-05 20:54:28.391 [info] Looking for git repository
+2023-12-05 20:54:28.391 [info] Found 0 repositories during activation
+2023-12-05 20:54:28.391 [info] Git repository found, initializing review manager and pr tree view.
+2023-12-05 20:54:28.392 [info] Registering git provider
+2023-12-05 20:54:28.395 [info] Review> Validate state in progress
+2023-12-05 20:54:28.396 [info] Review> Validating state...
+2023-12-05 20:54:28.631 [info] Found GitHub remote for folder /home/admin/repos/JobManager
+2023-12-05 20:54:28.981 [info] Trying to use globalState for assignableUsers.
+2023-12-05 20:54:29.418 [info] Repo state for file:///home/admin/repos/JobManager changed.
+2023-12-05 20:54:29.418 [info] Repo file:///home/admin/repos/JobManager has already been setup.
+2023-12-05 20:54:29.420 [info] Review> No matching pull request metadata found locally for current branch main
+2023-12-05 20:54:29.474 [info] Using globalState assignableUsers for 1.
+2023-12-05 20:54:29.954 [info] Review> No matching pull request metadata found on GitHub for current branch main
